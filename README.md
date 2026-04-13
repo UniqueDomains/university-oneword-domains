@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .university one-word domains from 
 
 **Public extract:** 9,116 rows · **Live catalog:** 9,112 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/university`  
 **Best for:** founders, investors, studios
 
@@ -75,7 +75,7 @@ print(df.head())
 | only.university      | premium   | $123.75   | $123.75       | 110            | 46     | 4      | name.com                                                  |
 | simple.university    | available | $19.99    | $81.99        | 128            | 48     | 6      | name.com                                                  |
 | mail.university      | resell    | —         | —             | 94             | 59     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| green.university     | premium   | $128.70   | $128.70       | 108            | 45     | 5      | namecheap                                                 |
+| green.university     | premium   | $128.70   | $128.70       | 108            | 44     | 5      | namecheap                                                 |
 | snap.university      | available | $19.99    | $81.99        | 90             | 46     | 4      | name.com                                                  |
 | smart.university     | resell    | —         | —             | 74             | 56     | 5      | Edomains LLC                                              |
 | insurance.university | premium   | $82.50    | —             | 80             | 44     | 9      | name.com                                                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .UNIVERSITY One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .UNIVERSITY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
