@@ -1,10 +1,10 @@
-# Available .UNIVERSITY One-Word Domains (9,112)
+# Available .UNIVERSITY One-Word Domains (9,116)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C116%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C112%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C116%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .university one-word domains from 
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,116 rows · **Live catalog:** 9,112 domains
+**Public extract:** 9,116 rows · **Live catalog:** 9,116 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/university`  
@@ -73,7 +73,7 @@ print(df.head())
 | good.university      | available | $19.99    | $81.99        | 82             | 56     | 4      | name.com                                                  |
 | context.university   | resell    | —         | —             | 108            | 59     | 7      | Porkbun LLC                                               |
 | only.university      | premium   | $123.75   | $123.75       | 110            | 46     | 4      | name.com                                                  |
-| simple.university    | available | $19.99    | $81.99        | 128            | 48     | 6      | name.com                                                  |
+| simple.university    | available | $19.99    | $81.99        | 128            | 49     | 6      | name.com                                                  |
 | mail.university      | resell    | —         | —             | 94             | 59     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | green.university     | premium   | $128.70   | $128.70       | 108            | 44     | 5      | namecheap                                                 |
 | snap.university      | available | $19.99    | $81.99        | 90             | 46     | 4      | name.com                                                  |
@@ -81,8 +81,8 @@ print(df.head())
 | insurance.university | premium   | $82.50    | —             | 80             | 44     | 9      | name.com                                                  |
 | forge.university     | available | $19.99    | $81.99        | 62             | 45     | 5      | name.com                                                  |
 | business.university  | resell    | —         | —             | 100            | 53     | 8      | Spaceship, Inc.                                           |
-| elite.university     | premium   | $123.75   | $123.75       | 90             | 43     | 5      | name.com                                                  |
-| pop.university       | available | $19.99    | $81.99        | 82             | 43     | 3      | name.com                                                  |
+| energy.university    | premium   | $128.70   | $128.70       | 82             | 43     | 6      | namecheap                                                 |
+| pop.university       | available | $19.99    | $81.99        | 82             | 44     | 3      | name.com                                                  |
 | new.university       | resell    | —         | —             | 82             | 49     | 3      | Sav.com, LLC                                              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,116-row public sample | 9,112 live domains                               |
+| 9,116-row public sample | 9,116 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
