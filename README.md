@@ -1,22 +1,22 @@
-# Available .UNIVERSITY One-Word Domains (9,116)
+# Available .UNIVERSITY One-Word Domains (11,663)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C116%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C116%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C663%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .university one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .university one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,663 domains** on the canonical page below.
 
-**Public extract:** 9,116 rows · **Live catalog:** 9,116 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,663 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/university`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .UNIVERSITY one-word d
 
 ### Files
 
-- `university.csv` — public CSV extract (9,116 rows)
-- `university.json` — public JSON extract (9,116 rows)
+- `university.csv` — public CSV extract (1,000 rows)
+- `university.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| silver.university    | available | $77.98    | —             | 56             | 99     | 6      | namecheap                                                 |
-| wise.university      | resell    | —         | —             | 98             | 72     | 4      | Sav.com, LLC                                              |
-| travel.university    | premium   | $520      | $520          | 115            | 48     | 6      | namecheap                                                 |
-| easy.university      | available | $19.99    | $81.99        | 128            | 62     | 4      | name.com                                                  |
-| open.university      | resell    | —         | —             | 106            | 62     | 4      | Sav.com, LLC                                              |
-| gold.university      | premium   | $85.80    | $85.80        | 72             | 48     | 4      | namecheap                                                 |
-| good.university      | available | $19.99    | $81.99        | 82             | 56     | 4      | name.com                                                  |
-| context.university   | resell    | —         | —             | 108            | 59     | 7      | Porkbun LLC                                               |
-| only.university      | premium   | $123.75   | $123.75       | 110            | 46     | 4      | name.com                                                  |
-| simple.university    | available | $19.99    | $81.99        | 128            | 49     | 6      | name.com                                                  |
-| mail.university      | resell    | —         | —             | 94             | 59     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| green.university     | premium   | $128.70   | $128.70       | 108            | 44     | 5      | namecheap                                                 |
-| snap.university      | available | $19.99    | $81.99        | 90             | 46     | 4      | name.com                                                  |
-| smart.university     | resell    | —         | —             | 74             | 56     | 5      | Edomains LLC                                              |
-| insurance.university | premium   | $82.50    | —             | 80             | 44     | 9      | name.com                                                  |
-| forge.university     | available | $19.99    | $81.99        | 62             | 45     | 5      | name.com                                                  |
-| business.university  | resell    | —         | —             | 100            | 53     | 8      | Spaceship, Inc.                                           |
-| energy.university    | premium   | $128.70   | $128.70       | 82             | 43     | 6      | namecheap                                                 |
-| pop.university       | available | $19.99    | $81.99        | 82             | 44     | 3      | name.com                                                  |
-| new.university       | resell    | —         | —             | 82             | 49     | 3      | Sav.com, LLC                                              |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| shortcuts.university  | available | $19.99    | —             | 48             | 41     | 10     | name.com  |
+| solutions.university  | premium   | $123.75   | —             | 56             | 31     | 9      | name.com  |
+| lets.university       | available | $19.99    | —             | 77             | 39     | 4      | name.com  |
+| loans.university      | premium   | $78.54    | $78.54        | 58             | 24     | 5      | namesilo  |
+| homes.university      | available | $19.99    | —             | 86             | 34     | 5      | name.com  |
+| girls.university      | premium   | $123.75   | —             | 83             | 23     | 5      | name.com  |
+| Cats.university       | available | $77.98    | —             | 59             | 33     | 4      | namecheap |
+| apartments.university | premium   | $118.80   | $118.80       | 60             | 21     | 10     | namesilo  |
+| letsgo.university     | available | $19.99    | —             | 57             | 31     | 7      | name.com  |
+| pictures.university   | premium   | $82.50    | —             | 82             | 17     | 8      | name.com  |
+| heroes.university     | available | $19.99    | —             | 68             | 29     | 6      | name.com  |
+| holdings.university   | premium   | $123.75   | —             | 52             | 14     | 8      | name.com  |
+| blocks.university     | available | $19.99    | —             | 53             | 29     | 6      | name.com  |
+| volunteers.university | premium   | $123.75   | —             | 62             | 12     | 10     | name.com  |
+| dogs.university       | available | $19.99    | —             | 76             | 28     | 4      | name.com  |
+| generals.university   | premium   | $82.50    | —             | 52             | 6      | 8      | name.com  |
+| forms.university      | available | $19.99    | —             | 54             | 28     | 5      | name.com  |
+| pages.university      | available | $19.99    | —             | 52             | 28     | 5      | name.com  |
+| doctors.university    | available | $19.99    | —             | 56             | 26     | 7      | name.com  |
+| chem.university       | available | $19.99    | —             | 74             | 24     | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,116-row public sample | 9,116 live domains                               |
+| 1,000-row public sample | 11,663 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .UNIVERSITY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .UNIVERSITY One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
