@@ -615,6 +615,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 36c70e34-990c-491d-bccc-ca8e95d45157,reservations.university,available,19.99,,50,17,12,name.com,,
 36ca7124-420a-42e4-b833-b872e1b3e358,successively.university,available,19.99,,56,0,12,name.com,,
 36efd14b-b626-4690-8223-1e8fca411437,twentyeight.university,available,19.99,,65,8,12,name.com,,
+3715e8c9-bd18-4cd5-bee1-7e316afd07a8,Schneider.university,available,19.99,,66,38,9,name.com,,
 371e3ddc-14dc-4bfc-8a86-b69debdad1fc,yards.university,available,19.99,,66,9,5,name.com,,
 3731af37-659f-4c6d-b5ec-e59178fa7462,tightened.university,available,19.99,,50,1,9,name.com,,
 37366529-d999-4208-bda5-56655a624d01,gonefishing.university,available,19.99,,72,7,12,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 56c562ce-1495-4cea-b311-b6e5143aa845,getstuckin.university,available,19.99,,72,2,12,name.com,,
 56dbff6d-22ea-4f8b-913a-2a0a416f2788,sparklingwine.university,available,19.99,,69,4,14,name.com,,
 56faaba3-bc3d-4831-a35d-16f3c3f76671,knocks.university,available,19.99,,48,5,6,name.com,,
-570bc842-19de-446e-90f6-eac159406af0,oars.university,available,19.99,,56,6,4,name.com,,
