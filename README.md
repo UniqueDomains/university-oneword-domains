@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .university one-word domain
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,078 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,078 domains · **Median ask:** $25.13 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,078 domains · **Median ask:** $23.75 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/university`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/university`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .UNIVERSITY one-word d
 
 ### Files
 
-- `university.csv` — public CSV extract (1,000 rows)
-- `university.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `university.csv`, public CSV extract (1,000 rows)
+- `university.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| shortcuts.university  | available | $19.99    | —             | 48             | 41     | 10     | name.com  |
-| solutions.university  | premium   | $123.75   | —             | 56             | 31     | 9      | name.com  |
-| lets.university       | available | $19.99    | —             | 77             | 39     | 4      | name.com  |
-| girls.university      | premium   | $123.75   | —             | 83             | 23     | 5      | name.com  |
-| Schneider.university  | available | $19.99    | —             | 66             | 38     | 9      | name.com  |
-| pictures.university   | premium   | $82.50    | —             | 82             | 17     | 8      | name.com  |
-| homes.university      | available | $19.99    | —             | 86             | 34     | 5      | name.com  |
-| holdings.university   | premium   | $123.75   | —             | 52             | 14     | 8      | name.com  |
-| Cats.university       | available | $77.98    | —             | 59             | 33     | 4      | namecheap |
-| volunteers.university | premium   | $123.75   | —             | 62             | 12     | 10     | name.com  |
-| letsgo.university     | available | $19.99    | —             | 57             | 31     | 7      | name.com  |
-| generals.university   | premium   | $82.50    | —             | 52             | 6      | 8      | name.com  |
-| heroes.university     | available | $19.99    | —             | 68             | 29     | 6      | name.com  |
-| blocks.university     | available | $19.99    | —             | 53             | 29     | 6      | name.com  |
-| dogs.university       | available | $19.99    | —             | 76             | 28     | 4      | name.com  |
-| forms.university      | available | $19.99    | —             | 54             | 28     | 5      | name.com  |
-| pages.university      | available | $19.99    | —             | 52             | 28     | 5      | name.com  |
-| doctors.university    | available | $19.99    | —             | 56             | 26     | 7      | name.com  |
-| chem.university       | available | $19.99    | —             | 74             | 24     | 4      | name.com  |
-| shops.university      | available | $19.99    | —             | 64             | 24     | 5      | name.com  |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| ana.university      | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
+| any.university      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                                   |
+| ask.university      | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                           |
+| ane.university      | available | $19.99    | $81.99        | low            | low    | 3      | name.com                                                           |
+| golf.university     | resell    | —         | —             | high           | medium | 4      | eNom, LLC                                                          |
+| atp.university      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                           |
+| axe.university      | available | $19.99    | —             | medium         | low    | 3      | name.com                                                           |
+| smash.university    | resell    | —         | —             | high           | low    | 5      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
+| hug.university      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                           |
+| bed.university      | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
+| study.university    | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                                        |
+| org.university      | premium   | $500      | —             | medium         | medium | 3      | name.com                                                           |
+| btw.university      | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
+| boxing.university   | resell    | —         | —             | high           | low    | 6      | Porkbun LLC                                                        |
+| area.university     | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                                           |
+| dig.university      | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
+| context.university  | resell    | —         | —             | high           | medium | 7      | Porkbun LLC                                                        |
+| plus.university     | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                                           |
+| flu.university      | available | $19.99    | —             | medium         | low    | 3      | name.com                                                           |
+| anything.university | resell    | —         | —             | high           | low    | 8      | NameCheap, Inc.                                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .university domains. The strongest options are usually the ones that read cleanly, match education or knowledge themes, and remain easy to remember when paired with the .university ending. Names like study.university or reader.university are direct and descriptive, while broader words such as device.university may need a clearer use case. When comparing these domains, start with semantic fit, then check ask price against renewal expectations and any obvious trademark concerns. Be especially cautious with names tied to established brands, such as HarleyDavidson.university, where legal risk can outweigh apparent value.
+This set of one-word .university domain names spans a wide range of themes, from academic terms like appreciation and counselling to playful picks like getlucky and daffyduck. Each name uses the .university extension, a category-specific alternative to .com that often carries a lower entry price. Across this selection of 12,078 domains, the median ask is near $23.75, giving both investors and founders a consistent baseline for comparing individual listings before deciding which name fits their budget and brand.
 
-- Prefer words that fit education, learning, or expertise
-- Check ask price against long-term renewal tolerance
-- Generic words age better than narrow or confusing terms
-- Avoid obvious brand conflicts and trademark exposure
+- 12,078 one-word .university domains, updated daily for review.
+- Median ask near $23.75 — a baseline for comparing spread and renewal.
+- Themes range from education to entertainment, ready to shortlist.
+- Simple, single-word structure keeps brandability easy to judge.
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .UNIVERSITY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .UNIVERSITY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
