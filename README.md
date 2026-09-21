@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .university one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,388 domains · **Median ask:** $37.06 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/university`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| ana.university      | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
-| any.university      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                                   |
-| ask.university      | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                           |
-| ane.university      | available | $19.99    | $81.99        | low            | low    | 3      | name.com                                                           |
-| golf.university     | resell    | —         | —             | high           | medium | 4      | eNom, LLC                                                          |
-| atp.university      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                           |
-| ass.university      | available | $19.99    | $81.99        | low            | low    | 3      | name.com                                                           |
-| smash.university    | resell    | —         | —             | high           | low    | 5      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
-| hug.university      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                           |
-| axe.university      | available | $19.99    | —             | medium         | low    | 3      | name.com                                                           |
-| study.university    | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc                                                        |
-| org.university      | premium   | $500      | —             | medium         | medium | 3      | name.com                                                           |
-| bed.university      | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
-| boxing.university   | resell    | —         | —             | high           | low    | 6      | Porkbun LLC                                                        |
-| area.university     | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                                           |
-| btw.university      | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
-| context.university  | resell    | —         | —             | high           | medium | 7      | Porkbun LLC                                                        |
-| plus.university     | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                                           |
-| clx.university      | available | $19.99    | $81.99        | low            | low    | 3      | name.com                                                           |
-| anything.university | resell    | —         | —             | high           | low    | 8      | NameCheap, Inc.                                                    |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| feel.university    | available | $19.99    | —             | high           | low    | 4      | name.com                                                           |
+| damn.university    | available | $19.99    | $81.99        | high           | low    | 4      | name.com                                                           |
+| bang.university    | available | $19.99    | —             | high           | low    | 4      | name.com                                                           |
+| ana.university     | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
+| any.university     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                                   |
+| ask.university     | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                           |
+| ane.university     | available | $19.99    | $81.99        | low            | low    | 3      | name.com                                                           |
+| golf.university    | resell    | —         | —             | high           | medium | 4      | eNom, LLC                                                          |
+| atp.university     | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                                           |
+| ass.university     | available | $19.99    | $81.99        | low            | low    | 3      | name.com                                                           |
+| smash.university   | resell    | —         | —             | high           | low    | 5      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
+| hug.university     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                           |
+| axe.university     | available | $19.99    | —             | medium         | low    | 3      | name.com                                                           |
+| study.university   | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc                                                        |
+| org.university     | premium   | $500      | —             | medium         | medium | 3      | name.com                                                           |
+| bed.university     | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
+| boxing.university  | resell    | —         | —             | high           | low    | 6      | Porkbun LLC                                                        |
+| area.university    | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                                           |
+| btw.university     | available | $19.99    | —             | high           | low    | 3      | name.com                                                           |
+| context.university | resell    | —         | —             | high           | medium | 7      | Porkbun LLC                                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .UNIVERSITY One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .UNIVERSITY One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
