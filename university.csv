@@ -17,7 +17,7 @@ f90a51f0-7ce0-474b-9210-f62bdb241bb3,apetalous.university,available,19.99,81.99,
 3c03834c-1518-4be3-a25f-44a351405dc7,bloodflow.university,available,19.99,,high,low,10,name.com,,,
 06ba032f-2e62-4453-aca0-a7254c836195,occur.university,available,19.99,,high,low,5,name.com,,,
 395cf782-796c-454e-8e50-e34a5b6e0acb,overhead.university,available,19.99,,high,low,8,name.com,,,
-f8d80565-2887-477a-8e3b-951524ba9a94,costly.university,available,19.99,81.99,medium,low,6,name.com,,,
+f8d80565-2887-477a-8e3b-951524ba9a94,costly.university,available,62.99,62.99,low,low,6,namesilo,,,24/09/2026 00:19
 2d9dfe03-a043-4eff-8e57-28edd52368ea,detected.university,available,19.99,81.99,medium,low,8,name.com,,,
 f8db1bf0-91f2-42bf-84f1-a8f66596f3e0,beginning.university,available,19.99,81.99,low,low,9,name.com,,,09/08/2026 09:06
 881c9b5d-d86e-4bc1-9979-0c78577d9577,noncitizen.university,available,19.99,81.99,low,low,10,name.com,,,
@@ -38,7 +38,7 @@ c24debae-21d6-4635-84c2-ab0b00ef8fa1,yougotthis.university,available,19.99,,low,
 686c33e3-9a45-4957-9660-770e1abea908,razor.university,available,19.99,,medium,low,5,name.com,,,
 310f0f24-622e-4721-8566-3bd136147fcc,had.university,available,,,high,low,3,,,,
 990b10b7-293e-44e2-9e1a-8c168c38cc75,feminism.university,available,19.99,,medium,low,8,name.com,,,
-fea56441-6d51-4749-97d3-75bd9d95b28b,chip.university,available,19.99,81.99,high,low,4,name.com,,,
+fea56441-6d51-4749-97d3-75bd9d95b28b,chip.university,available,62.99,62.99,medium,low,4,namesilo,,,24/09/2026 01:56
 4272552c-7af4-449d-a771-5f659e83917a,ninetieth.university,available,19.99,81.99,low,low,9,name.com,,,
 aef4e6a1-908d-4926-8b1e-a315b98e3bbc,disagree.university,available,19.99,,medium,low,8,name.com,,,
 b67c4cb4-1178-429c-94c3-ac13f727ee30,push.university,available,19.99,,high,low,4,name.com,,,
@@ -106,7 +106,7 @@ fac1d0e6-ce86-41b5-bd06-e228acfd6499,respects.university,available,19.99,,high,l
 2adfcd5c-8b1b-4627-a272-573ab15304a4,wacky.university,available,62.99,62.99,low,low,5,namesilo,,,22/09/2026 08:23
 695cc62d-6cd1-4611-b2bd-134725f02d18,update.university,available,19.99,,medium,low,7,name.com,,,
 fd4e1856-6dae-4e1f-a0c9-defa101f2287,mouthless.university,available,19.99,81.99,low,low,9,name.com,,,07/08/2026 09:50
-064495ad-10b4-40be-bc7c-a913caa1262f,continual.university,available,19.99,81.99,medium,low,9,name.com,,,
+064495ad-10b4-40be-bc7c-a913caa1262f,continual.university,available,62.99,62.99,low,low,9,namesilo,,,23/09/2026 22:10
 bfd93da7-533a-4c5d-ac4f-715fe91da89f,attheready.university,available,19.99,,high,low,12,name.com,,,
 4ce4af3e-3db6-4026-acf4-754d7685fd43,journal.university,available,65.98,77.98,medium,low,7,namecheap,,,19/09/2026 18:05
 de1ef3d3-2a40-4f55-b65b-16cef2f7a42b,gregor.university,available,19.99,,medium,low,6,name.com,,,
@@ -143,7 +143,7 @@ db46b007-fdef-495a-b570-2b48e9ecfeb1,myspace.university,available,,,high,low,7,,
 172f06ea-5927-4e48-9e6e-02a72709ade7,articled.university,available,19.99,81.99,low,low,8,name.com,,,06/08/2026 08:28
 76d67cd0-1b57-4ed4-9137-060c64c14dab,awhile.university,available,19.99,,medium,low,6,name.com,,,
 76977b81-0bd7-460d-af9b-60c06e2897aa,paste.university,available,19.99,,high,low,5,name.com,,,
-c049f3ac-3bc5-4d8e-ac97-1c6cda572e55,required.university,available,19.99,81.99,medium,low,8,name.com,,,
+c049f3ac-3bc5-4d8e-ac97-1c6cda572e55,required.university,available,65.98,77.98,low,low,8,namecheap,,,23/09/2026 18:27
 b3ad13b4-a69d-4ddd-8d35-cc6f36664a7f,worsening.university,available,19.99,,medium,low,9,name.com,,,
 50baa411-59b7-485a-929d-bba69777c90a,genuinely.university,available,19.99,,medium,low,9,name.com,,,
 acf8b643-534c-4fa5-8912-5d94ea9d2251,stpauls.university,available,19.99,,medium,low,8,name.com,,,
@@ -198,7 +198,7 @@ f290ba35-f712-4e6b-8a33-df0ae2738b57,aphaeretic.university,available,19.99,81.99
 62ee91b5-3868-438f-99fe-3f27d3eb836d,noncompeteclause.university,available,19.99,,medium,low,17,name.com,,,
 013a0def-2125-4e57-af29-cab98643d13c,travelled.university,available,19.99,,medium,low,9,name.com,,,
 7dc067e8-d7fe-4212-aa68-24c89998a000,auric.university,available,19.99,81.99,low,low,5,name.com,,,07/08/2026 17:36
-5fa9de0c-0a2b-4303-a3fa-339a697ce41d,soft.university,available,19.99,81.99,high,low,4,name.com,,,
+5fa9de0c-0a2b-4303-a3fa-339a697ce41d,soft.university,available,65.98,77.98,medium,low,4,namecheap,,,24/09/2026 04:03
 dff308f8-f90f-4d7f-b093-c1bb2c8c900f,measles.university,available,19.99,,medium,low,7,name.com,,,
 f35efe01-7479-4eec-8e27-99bcf73b17cb,arabian.university,available,19.99,81.99,low,low,7,name.com,,,06/08/2026 11:05
 bd5d84fd-ce54-4eef-8c12-d6c03caaa7fd,machinery.university,available,19.99,,medium,low,9,name.com,,,
@@ -219,7 +219,7 @@ ab8f3bf0-d602-47fa-b0e2-2fd38f9db16b,public.university,premium,500,,high,low,6,n
 bdf6c9a2-4210-4a0b-99bb-e3419064ff42,godsavetheking.university,available,19.99,,high,low,17,name.com,,,
 b5dbfebd-0fff-4154-aff0-ae9a2b898abe,mushy.university,available,19.99,81.99,low,low,5,name.com,,,09/08/2026 00:58
 f3633fbf-10c8-4557-a8be-459ac1ac0e80,thanks.university,available,19.99,,high,low,6,name.com,,,
-93647ef4-1458-4a1d-adce-64dc9bc53a48,contained.university,available,19.99,81.99,medium,low,9,name.com,,,
+93647ef4-1458-4a1d-adce-64dc9bc53a48,contained.university,available,62.99,62.99,low,low,9,namesilo,,,23/09/2026 21:42
 e473b959-2724-4514-9aca-2725e76ecc68,shakealeg.university,available,19.99,,low,low,11,name.com,,,
 a7a8fcde-3454-4f3a-9431-02eba12c68de,neckdeep.university,available,62.99,62.99,low,low,9,namesilo,,,08/09/2026 15:02
 d7c50845-f2d5-49dd-97e4-f1e75052bd86,howoldareyou.university,available,19.99,,medium,low,15,name.com,,,
@@ -257,7 +257,7 @@ a477f4a4-c340-444d-a197-d384aad3c8c9,carrier.university,available,19.99,,medium,
 1b1a5bf6-f55f-45c6-83c7-a76f49cae12a,sundayroast.university,available,19.99,,high,low,12,name.com,,,
 f2107184-edac-492e-8bfa-982fd2fafcb1,boxers.university,available,19.99,,high,low,6,name.com,,,
 11a5bb50-9829-4d13-bc3f-8f2ac11ca615,bolster.university,available,19.99,,medium,low,7,name.com,,,
-d4fa41bd-8fce-42cd-b1fe-ab7f6ad1ec7e,bulky.university,available,19.99,,medium,low,5,name.com,,,
+d4fa41bd-8fce-42cd-b1fe-ab7f6ad1ec7e,bulky.university,available,62.99,62.99,low,low,5,namesilo,,,23/09/2026 10:36
 d10eb820-f732-4a98-9a4c-d89e98437e12,corking.university,available,19.99,81.99,low,low,7,name.com,,,08/08/2026 12:20
 fea9caeb-966e-4345-8512-138eea5f2d5a,planning.university,available,19.99,,high,low,8,name.com,,,
 6ea14fa0-5106-416f-bcd2-68dcb2652837,dig.university,available,19.99,,high,low,3,name.com,,,
@@ -388,7 +388,7 @@ d30874d6-c445-4d5e-92dc-88aefe2c14b2,ser.university,available,19.99,,high,low,3,
 a2ab2239-9f14-4876-8c5b-8ffed62b7b58,pleasant.university,available,19.99,,high,low,8,name.com,,,
 5c65a86c-dd9b-491b-a0c9-f804e4c96e3e,idolized.university,available,19.99,81.99,low,low,8,name.com,,,
 402ee504-318f-4090-b277-e029ce4afa0a,jimthorpe.university,available,19.99,,high,low,10,name.com,,,
-1ac7f958-f0d0-4dbc-aa2a-64f0cadfd847,centre.university,available,19.99,,medium,low,6,name.com,,,
+1ac7f958-f0d0-4dbc-aa2a-64f0cadfd847,centre.university,available,62.99,62.99,low,low,6,namesilo,,,23/09/2026 13:22
 2b3eb87a-ccd8-4dca-8f6c-bf18dced06a0,childmolestation.university,available,19.99,,medium,low,17,name.com,,,
 c1fbb7cd-1630-482f-a047-01c94c4a536f,twin.university,available,19.99,,high,low,4,name.com,,,
 9105c7a9-a645-4b80-84ab-bd418e22aefa,situated.university,available,19.99,,medium,low,8,name.com,,,
@@ -411,7 +411,7 @@ de632990-8de2-4489-ba6c-b691eba46fc1,forestfire.university,available,19.99,,medi
 65dc9125-dd30-47bf-b54a-c0e79260e3f7,goin.university,available,62.99,62.99,low,low,5,namesilo,,,16/09/2026 23:43
 eaf54c8d-d0ec-4002-8cf4-9c6a0129d922,muhfuggah.university,available,19.99,,medium,low,9,name.com,,,
 4fb2aead-8e5f-4c4c-ba44-3e4f9f7a8b27,dissolve.university,available,19.99,,high,low,8,name.com,,,
-09816548-e749-4e29-87e1-ff63323b854c,sliced.university,available,19.99,,high,low,6,name.com,,,
+09816548-e749-4e29-87e1-ff63323b854c,sliced.university,available,62.99,62.99,medium,low,6,namesilo,,,23/09/2026 14:26
 e17ab1a1-68df-49ab-b5f3-f4abcaaf54ec,fortynine.university,available,19.99,81.99,low,low,10,name.com,,,
 b1156cca-2db3-4efa-bf9b-38abfde00767,bantoid.university,available,19.99,81.99,low,low,7,name.com,,,08/08/2026 14:45
 3f03b8b7-25ed-4433-81fb-fa3288017593,geometry.university,available,19.99,,high,low,8,name.com,,,
@@ -473,7 +473,7 @@ a3ccb8eb-4522-4171-96a3-ca1bf819c288,affined.university,available,19.99,81.99,lo
 43191ecd-743b-40ce-9ce9-ac333ed27637,auditory.university,available,62.99,62.99,medium,low,8,namesilo,,,22/09/2026 12:39
 78922b38-326a-44a9-baa8-a82590ac4b40,failedstate.university,available,19.99,,medium,low,12,name.com,,,
 a2064c2a-35d6-4ec5-b166-b6d5d3672188,befull.university,available,19.99,,high,low,7,name.com,,,
-ff020937-6692-4e50-afd6-e6e32d7e2c93,screen.university,available,65.98,77.98,low,low,6,namecheap,,,19/09/2026 13:37
+ff020937-6692-4e50-afd6-e6e32d7e2c93,screen.university,available,65.98,77.98,low,low,6,namecheap,,,23/09/2026 16:32
 af1440a6-5673-470b-9a7e-1d20a4fb2a71,much.university,available,19.99,,high,low,4,name.com,,,
 eb630c95-d3e1-42cd-b746-b501a87d1fe7,torn.university,available,19.99,,medium,low,4,name.com,,,
 8d95d5d2-3c26-4e1f-986f-28d09b75987b,adviser.university,available,19.99,,high,low,7,name.com,,,
@@ -530,7 +530,6 @@ acbcbce6-5c5d-4910-ad97-43ed1393c658,batty.university,available,19.99,81.99,low,
 3720a946-80fb-4352-af72-042b2e1ab982,andorran.university,premium,78.54,78.54,low,low,8,namesilo,,,
 d20e18b5-20c7-4ff3-9011-b4f819520770,algebraic.university,available,19.99,81.99,low,low,9,name.com,,,
 fa38ca61-1b77-4677-8e50-172d4f3fbe57,acquitted.university,available,19.99,81.99,low,low,9,name.com,,,
-0f56e594-4903-4043-b615-ea86415e8ef4,bright.university,available,,,high,high,6,,,,
 26d9d70d-c176-49d1-8935-7ffaf367c348,force.university,available,19.99,,high,low,5,name.com,,,
 6fa1589a-3ca1-4f21-b709-cc983538725d,lake.university,available,19.99,,high,low,4,name.com,,,
 ffccc876-af2a-4b8f-89b2-803edbf65a68,twentytwo.university,available,65.98,77.98,medium,low,10,namecheap,,,21/09/2026 12:36
@@ -588,7 +587,7 @@ fb3e95be-3c46-4830-88bf-7618ada92f5e,walkabout.university,available,19.99,,mediu
 2bd8c3f4-6244-458b-8ec5-500c2cb9e705,timessquare.university,available,19.99,,low,low,12,name.com,,,
 0239bf2f-ac87-4479-a46f-bd7933f9c9ff,unioncity.university,available,19.99,,low,low,10,name.com,,,
 a7e3868c-c888-4d94-95bc-bfeaa1c6b7b3,terms.university,available,19.99,,high,low,5,name.com,,,
-52496b09-97bc-4bdb-b5cc-ee48dac67659,bullish.university,available,19.99,,high,low,7,name.com,,,
+52496b09-97bc-4bdb-b5cc-ee48dac67659,bullish.university,available,62.99,62.99,medium,low,7,namesilo,,,23/09/2026 10:43
 1e316498-07a5-4f9e-b163-afe5bc5d3068,silvery.university,available,19.99,81.99,low,low,7,name.com,,,06/08/2026 17:56
 ad54b792-aed5-4bdd-b826-1bb4a14522b6,fivesome.university,available,19.99,81.99,low,low,8,name.com,,,
 5704bc99-5877-481e-9db6-d47c88d6f1af,selfconfident.university,available,19.99,,medium,low,14,name.com,,,
@@ -647,7 +646,7 @@ fb5a8848-1017-4bbd-a319-a3438b8e87bd,taxes.university,available,19.99,,low,low,5
 95842ee5-d827-40dd-9c33-822abcfd7e1f,junction.university,available,62.99,62.99,low,low,8,namesilo,,,08/09/2026 09:48
 a53f757d-1c18-4356-9a8c-e591084358cf,tenth.university,available,62.99,62.99,medium,low,5,namesilo,,,21/09/2026 11:17
 72d9f4f5-af98-4210-add3-e14aa35c7b79,hardfacts.university,available,19.99,,medium,low,10,name.com,,,
-f3453242-b9c1-4b2d-bb65-13b0b7f47aff,rectify.university,available,19.99,81.99,high,low,7,name.com,,,
+f3453242-b9c1-4b2d-bb65-13b0b7f47aff,rectify.university,available,62.99,62.99,medium,low,7,namesilo,,,23/09/2026 23:41
 033092d8-28bd-479c-9106-d643411f4e11,ohmyfuck.university,available,19.99,,medium,low,10,name.com,,,
 9f3516a3-c06d-4f72-ba49-7974bec73c22,lane.university,available,19.99,,medium,low,4,name.com,,,
 c50a54fd-c982-495c-b875-dc496d841a19,twelfth.university,available,19.99,81.99,low,low,7,name.com,,,
@@ -735,7 +734,7 @@ f7411466-2b1c-4161-a674-163c181d0854,hindend.university,available,19.99,81.99,lo
 430d2b79-15f2-4250-a5dd-12a940ade670,anglican.university,available,19.99,81.99,low,low,8,name.com,,,
 ff0e6742-09c8-41f9-9916-f7b5596eb507,finalize.university,available,19.99,,high,low,8,name.com,,,
 f3ce203a-fd8a-403d-9b96-9ada94e605e4,grabby.university,available,19.99,81.99,low,low,6,name.com,,,07/08/2026 21:58
-3734a304-f624-4808-be5a-87871a8ede6f,continuing.university,available,19.99,81.99,high,low,10,name.com,,,
+3734a304-f624-4808-be5a-87871a8ede6f,continuing.university,available,62.99,62.99,medium,low,10,namesilo,,,23/09/2026 22:17
 d8d872d0-900b-4439-87d3-1c693a239ec5,dominating.university,available,19.99,81.99,low,low,10,name.com,,,07/08/2026 19:40
 b3291241-a149-4626-99b1-14652ef07e44,splashabout.university,available,19.99,,low,low,12,name.com,,,
 c66ac372-abc5-4c1c-a6c7-1ffa81c38caf,thorpe.university,available,19.99,,medium,low,6,name.com,,,
@@ -776,17 +775,17 @@ f0febdd3-ca28-4c4e-86c5-6586b222f3a6,apolitical.university,available,19.99,81.99
 1f1dd846-78dd-4fe8-bef3-7043ca795d8e,teacher.university,premium,118.8,118.8,high,low,7,namesilo,,,
 8d996e5b-7e79-4104-adae-4453c3b6a756,christianname.university,available,19.99,,high,low,14,name.com,,,
 ed77f499-fcdb-42c0-bff0-b51bd04afa3c,hood.university,available,19.99,,medium,low,4,name.com,,,
-3ffa7e14-b096-43cb-bd19-b54273427845,begin.university,available,62.99,62.99,medium,low,5,namesilo,,,19/09/2026 05:29
+3ffa7e14-b096-43cb-bd19-b54273427845,begin.university,available,65.98,77.98,medium,low,5,namecheap,,,23/09/2026 09:05
 4a06bac1-1a92-47c2-8ddf-180feae9855e,pressing.university,available,19.99,,high,low,8,name.com,,,
 6afdb472-a1f5-494b-b8d9-bbb31f4e14bf,dateofdeath.university,available,19.99,,medium,low,13,name.com,,,
 d0fde2c5-1de5-4e10-86c8-2e83e5580180,secondly.university,available,19.99,,medium,low,8,name.com,,,
 d94f9e23-646a-4e7b-84f8-aebf6b0f2e0e,eyry.university,available,19.99,81.99,low,low,4,name.com,,,
 316e59c5-1641-408a-a3a7-fc27ef006e92,nerd.university,available,19.99,,high,medium,4,name.com,,,
-d81dfdcf-e14e-4d5c-9446-8c620247e619,flexible.university,available,19.99,81.99,high,low,8,name.com,,,
+d81dfdcf-e14e-4d5c-9446-8c620247e619,flexible.university,available,65.98,77.98,medium,low,8,namecheap,,,23/09/2026 18:12
 6958d7d6-75a3-435f-8bdc-9b7b1a2d0888,hate.university,available,19.99,,high,low,4,name.com,,,
 3fc57b5c-c778-4d4c-9103-b0fefd546c33,done.university,available,19.99,81.99,high,low,4,name.com,,,
 8dac1aaf-a76b-4ad6-b6db-06a160a5854b,without.university,available,19.99,,high,low,7,name.com,,,
-fea1604d-280f-4895-9d1a-f1377993eaa2,comparable.university,available,19.99,81.99,high,low,10,name.com,,,
+fea1604d-280f-4895-9d1a-f1377993eaa2,comparable.university,available,62.99,62.99,medium,low,10,namesilo,,,23/09/2026 16:34
 7400fb9d-b7df-4375-88a1-845778a1ccec,hedge.university,available,19.99,,medium,low,5,name.com,,,
 37e03f97-e296-4b0c-b755-d1a07981e378,ohreally.university,available,19.99,,medium,low,9,name.com,,,
 f6616509-1b9e-41c7-a451-7bebb11211ec,oak.university,available,19.99,,medium,low,3,name.com,,,
@@ -808,7 +807,7 @@ d48f73c3-bea2-404c-b05d-0784ff26349e,jot.university,available,19.99,,high,low,3,
 9938cbaa-9297-4974-86e4-bd26e9605062,gaping.university,available,19.99,81.99,low,low,6,name.com,,,
 a3186741-7a5f-46a1-b563-f22f74935ef6,twelve.university,available,62.99,62.99,medium,low,6,namesilo,,,21/09/2026 11:23
 3c492cdc-c3f4-4bec-a4b6-05431853cdb4,fired.university,available,19.99,81.99,medium,low,5,name.com,,,
-6af87c4a-4294-4abf-b3b5-d573e7b8e102,textbook.university,available,19.99,,high,low,8,name.com,,,
+6af87c4a-4294-4abf-b3b5-d573e7b8e102,textbook.university,available,62.99,62.99,medium,low,8,namesilo,,,23/09/2026 13:09
 9f9f6d49-e59f-4b6b-9243-a86e534d1ee3,christalive.university,available,19.99,,high,low,12,name.com,,,
 1a66359f-6bc0-4aa3-b436-8988548cecf2,daminozide.university,available,19.99,81.99,low,low,10,name.com,,,
 18662eb0-d470-47be-a92b-949ac7239ccf,revenue.university,available,19.99,,high,low,7,name.com,,,
@@ -828,7 +827,7 @@ be203fd4-978b-4332-bfd1-f99c1456cf7e,creaky.university,available,19.99,81.99,low
 201ddb4b-48f9-4663-ad6b-c4671640b680,affected.university,available,19.99,81.99,low,low,8,name.com,,,
 8b2b1cb2-711c-466b-82f6-15853754b1a4,truffle.university,available,19.99,,high,low,7,name.com,,,
 70c4ab99-ad6f-4128-9ceb-94d573cb5190,prochoice.university,available,19.99,,medium,low,10,name.com,,,
-65b00e08-2232-440e-bfe1-19efbbe681b0,cure.university,available,19.99,81.99,high,low,4,name.com,,,
+65b00e08-2232-440e-bfe1-19efbbe681b0,cure.university,available,62.99,62.99,low,low,4,namesilo,,,24/09/2026 03:52
 235df1e3-0bc2-4d1a-a621-8cba78fd7cb8,acronymous.university,available,19.99,81.99,low,low,10,name.com,,,
 0869754e-7d61-4c5d-ae65-e174f2c716bc,putacross.university,available,19.99,,high,low,10,name.com,,,
 dc758b32-7ab7-431e-9050-bb6c13d6a060,alimentary.university,available,19.99,81.99,low,low,10,name.com,,,
@@ -866,7 +865,7 @@ e4f9b582-7b4f-465e-91c4-0c1333fd9af6,allogamous.university,available,19.99,81.99
 e6be751e-0672-401c-9bc0-fc2a58a19c74,prairie.university,available,19.99,,medium,low,7,name.com,,,
 624d0bad-eb9e-4405-8a6c-775ee62bca53,artless.university,available,19.99,81.99,low,low,7,name.com,,,06/08/2026 23:47
 d7786aa6-e80c-4cec-8d5a-81868d4fd27e,overwhelm.university,available,19.99,,high,low,9,name.com,,,
-92ebd551-029a-4b0c-adcf-2ba0f606e015,covert.university,available,19.99,81.99,medium,low,6,name.com,,,
+92ebd551-029a-4b0c-adcf-2ba0f606e015,covert.university,available,62.99,62.99,low,low,6,namesilo,,,24/09/2026 00:53
 d317c0dc-32b9-4ccd-8aaf-a8e690efe62b,prevenient.university,available,19.99,81.99,low,low,10,name.com,,,
 38935836-a0ee-474a-9cac-675e2d56052a,satisfied.university,available,19.99,,high,low,9,name.com,,,
 edbcd11d-18b3-4a72-95b3-4b01a52f1943,aramaean.university,available,19.99,81.99,low,low,8,name.com,,,06/08/2026 12:08
@@ -920,7 +919,7 @@ a37e2b31-2015-4e8f-baaf-cc05c4895fbd,headtohead.university,available,19.99,,medi
 d47f181b-312b-4834-a53e-478ced1da57e,dramatic.university,available,19.99,81.99,medium,low,8,name.com,,,
 4c17060d-3d0e-4f09-a6dd-3d7b891ff48a,mothahfucker.university,available,19.99,,medium,low,12,name.com,,,
 815215ed-ba8d-41b4-ab0e-5685060e8aec,citibank.university,available,,,high,low,8,,,,
-5cabc028-a80e-4f6c-b784-74234cce1106,cheap.university,premium,118.8,118.8,high,low,5,namesilo,,,
+5cabc028-a80e-4f6c-b784-74234cce1106,cheap.university,premium,128.7,128.7,low,low,5,namecheap,,,23/09/2026 11:03
 1c909f02-cd00-4a21-a8f6-da6392b22774,sedulous.university,available,19.99,81.99,low,low,8,name.com,,,07/08/2026 06:14
 d6fc7cf9-efc6-4a81-a61e-f5eb85485e5a,eachyear.university,available,19.99,,medium,low,9,name.com,,,
 f75c2ed8-db42-45a2-b9f5-7408967efc27,supervise.university,available,19.99,,high,low,9,name.com,,,
@@ -937,7 +936,7 @@ cbcb7882-99c4-49a0-b7a0-8f9a88dbfd94,workoff.university,available,19.99,,medium,
 9cc41b54-3ec4-4123-8440-309da19372dd,perfect.university,available,19.99,,high,low,7,name.com,,,
 6e933068-ab45-4ec5-8173-57b8bedb8833,insurancecarrier.university,available,19.99,,medium,low,17,name.com,,,
 6738d344-9ca2-4897-b5ab-b1f2bbefc01f,agnate.university,available,19.99,81.99,low,low,6,name.com,,,
-8cb529af-dec9-4a94-851e-23307263b52b,dark.university,available,19.99,81.99,medium,medium,4,name.com,,,
+8cb529af-dec9-4a94-851e-23307263b52b,dark.university,available,65.98,77.98,low,low,4,namecheap,,,24/09/2026 04:29
 735f367b-eabd-4723-a37b-950f69c5719c,makegoodon.university,available,19.99,,high,low,12,name.com,,,
 36dfed85-b65a-4e6c-9878-b265ffeeeb35,gardengnome.university,available,19.99,,high,low,12,name.com,,,
 863450c9-fb63-4f5b-a4f1-221e29347cc5,kindred.university,available,19.99,81.99,low,low,7,name.com,,,
@@ -952,7 +951,7 @@ e0be2b0a-9142-4837-a219-a4fb2f112ff6,allright.university,available,62.99,62.99,l
 298be6ae-e98a-45a4-a5b5-9c93fdcf6b02,gooff.university,available,19.99,,medium,low,6,name.com,,,
 4ab1b439-9ea3-49f2-b01e-6a2c1aa764eb,autogamous.university,available,19.99,81.99,low,low,10,name.com,,,07/08/2026 20:05
 e6e5feba-7474-45fa-8233-27fd62cf3030,givesomethingago.university,available,19.99,,high,low,19,name.com,,,
-6d770aa2-d16d-40b1-8ad6-18bc5663fa93,financial.university,premium,242,242,low,low,9,namesilo,,,19/09/2026 09:32
+6d770aa2-d16d-40b1-8ad6-18bc5663fa93,financial.university,premium,242,242,low,low,9,namesilo,,,23/09/2026 07:40
 2828cc69-3765-488a-b509-b41aa3fbbe49,goodgod.university,available,19.99,,high,low,8,name.com,,,
 d105b211-7e63-492b-aafb-cbdbc1a9fd5c,propagated.university,available,19.99,,low,low,10,name.com,,,
 03280fd1-e8ad-4f73-887e-d7f0a5b2c33a,commonguineapig.university,available,19.99,,medium,low,17,name.com,,,
@@ -963,7 +962,7 @@ e5a38e5d-05e4-4f36-8124-99169aff49ae,arterial.university,available,19.99,81.99,l
 7173f3a7-1ad0-43b9-9f84-ecb0ed6cc47f,veg.university,available,19.99,,high,low,3,name.com,,,
 7e9ccd97-b5fb-49b5-ac99-48ca2f862c19,sweets.university,available,19.99,,medium,low,6,name.com,,,
 d2211836-950b-4620-8f5e-23ab455305fa,broadcast.university,available,62.99,62.99,medium,low,9,namesilo,,,23/09/2026 04:24
-3e4dbefb-da78-42b0-a55f-e98ee7137163,usage.university,available,19.99,81.99,high,low,5,name.com,,,
+3e4dbefb-da78-42b0-a55f-e98ee7137163,usage.university,available,62.99,62.99,medium,low,5,namesilo,,,24/09/2026 04:06
 a78f097a-76dc-46ba-961a-4db56afe1111,holdfirm.university,available,19.99,,high,low,9,name.com,,,
 aa2df181-0771-403b-8200-5e5b54cca55f,bell.university,available,19.99,,high,low,4,name.com,,,
 4b683e2a-bd87-433c-8d91-fb9b0abfafa3,greenbuilding.university,available,19.99,,high,low,14,name.com,,,
@@ -996,6 +995,7 @@ f99ae525-0a3e-407c-8e98-edd85ca72222,pinkelephant.university,available,19.99,,me
 4807e3c8-3b57-4abd-91ae-3e161b4cd056,worker.university,available,19.99,,high,low,6,name.com,,,
 56be3e7c-beb1-47b0-9758-49c24ad4154d,fascinate.university,available,19.99,,high,low,9,name.com,,,
 7b2d1618-5ae5-4a56-828e-51964dd8385e,void.university,available,19.99,,high,medium,4,name.com,,,
-625cb90e-114f-43bb-a63e-7b71bc40d8f1,worn.university,available,19.99,,medium,low,4,name.com,,,
+625cb90e-114f-43bb-a63e-7b71bc40d8f1,worn.university,available,62.99,62.99,low,low,4,namesilo,,,23/09/2026 12:58
 20a0e0d7-d3ed-43b8-9ff5-23cf3cb0f8f7,someother.university,available,19.99,81.99,low,low,10,name.com,,,
 f5c62a1e-731c-4cd5-a094-b26b5103a547,esurient.university,available,19.99,81.99,low,low,8,name.com,,,07/08/2026 23:25
+1e58b6c5-b41b-4a33-b5ca-0b83b8c34b79,nyse.university,available,19.99,,medium,low,4,name.com,,,
