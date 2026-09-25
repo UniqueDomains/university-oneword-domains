@@ -1,10 +1,10 @@
-# Available .UNIVERSITY One-Word Domains (32,008)
+# Available .UNIVERSITY One-Word Domains (13,429)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C008%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C429%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .university one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,008 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **13,429 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,008 domains · **Median ask:** $41.82 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 13,429 domains · **Median ask:** $32.28 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/university`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| feel.university     | available | $19.99    | —             | high           | low    | 4      | name.com        |
-| ain.university      | available | $19.99    | $81.99        | medium         | low    | 3      | name.com        |
+| ain.university      | available | $19.99    | $81.99        | high           | low    | 3      | name.com        |
 | kid.university      | resell    | —         | —             | high           | low    | 3      | Porkbun LLC     |
-| ask.university      | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo        |
+| ada.university      | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo        |
 | ana.university      | available | $19.99    | —             | high           | low    | 3      | name.com        |
 | golf.university     | resell    | —         | —             | high           | medium | 4      | eNom, LLC       |
-| atp.university      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| ask.university      | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo        |
 | ane.university      | available | $19.99    | $81.99        | high           | low    | 3      | name.com        |
 | boxing.university   | resell    | —         | —             | high           | low    | 6      | Porkbun LLC     |
-| hug.university      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
-| ass.university      | available | $19.99    | $81.99        | medium         | low    | 3      | name.com        |
+| atp.university      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| ass.university      | available | $19.99    | $81.99        | high           | low    | 3      | name.com        |
 | anything.university | resell    | —         | —             | high           | low    | 8      | NameCheap, Inc. |
-| org.university      | premium   | $500      | —             | high           | medium | 3      | name.com        |
+| hug.university      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
 | axe.university      | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| org.university      | premium   | $500      | —             | high           | medium | 3      | name.com        |
+| bar.university      | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| pup.university      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
+| bce.university      | available | $19.99    | —             | high           | low    | 3      | name.com        |
 | toy.university      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
 | bed.university      | available | $19.99    | —             | high           | low    | 3      | name.com        |
 | area.university     | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo        |
-| btw.university      | available | $19.99    | —             | high           | low    | 3      | name.com        |
-| plus.university     | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo        |
-| clx.university      | available | $19.99    | $81.99        | medium         | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,008 live domains                        |
+| 1,000-row public sample | 13,429 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .UNIVERSITY One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .UNIVERSITY One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
