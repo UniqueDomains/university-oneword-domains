@@ -1,9 +1,12 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
+1fb46739-6025-4e0f-a658-149ac6ef8d8b,peppers.university,available,62.99,62.99,high,low,7,namesilo,,,29/09/2026 17:14
 feac51cf-aaf9-4246-be58-ef922859741e,fishing.university,available,62.99,62.99,high,low,7,namesilo,,,27/09/2026 03:59
 e4957c58-7794-4772-959f-17bd4cc31c48,canned.university,available,19.99,81.99,high,low,6,name.com,,,11/08/2026 17:10
-62ea30e4-e5dd-44b5-a276-269eaea6e9dc,honolulu.university,premium,36.32,72.57,medium,low,8,porkbun,,,29/09/2026 00:20
+62ea30e4-e5dd-44b5-a276-269eaea6e9dc,honolulu.university,premium,36.32,72.57,high,low,8,porkbun,,,29/09/2026 00:20
+2cd5290c-b743-40ea-9e44-2d77d409b0b0,hauled.university,available,62.99,62.99,medium,low,6,namesilo,,,30/09/2026 00:24
 3637b29c-9e86-402f-97ca-e1695d4562d4,judicious.university,available,19.99,81.99,high,low,9,name.com,,,21/08/2026 02:00
 5de51416-4c9f-4ec3-9925-100344b678db,martha.university,available,19.99,,high,low,6,name.com,,,
+d2650719-c54d-40ea-9224-4ed796d1ffd5,ecg.university,available,48.2,48.2,high,low,3,cloudflare,,,30/09/2026 00:58
 cac98cc5-7799-4e57-8c8b-f703a00d8dda,diner.university,available,62.99,62.99,high,low,5,namesilo,,,29/09/2026 05:07
 418435af-64e3-4507-97dd-9428c2d32f44,willing.university,available,62.99,62.99,high,low,7,namesilo,,,12/09/2026 05:42
 05fd0695-2fb9-4415-a5b6-ee83fa978c26,exhausting.university,available,19.99,81.99,medium,low,10,name.com,,,14/08/2026 18:21
@@ -11,6 +14,7 @@ cac98cc5-7799-4e57-8c8b-f703a00d8dda,diner.university,available,62.99,62.99,high
 a0286d1b-787f-4fd4-a5d7-dcd1160a7ffb,potentiality.university,available,19.99,,high,low,12,name.com,,,
 24a8cd16-3c98-4e68-a149-5af2ae066567,spilled.university,available,48.2,48.2,low,low,7,cloudflare,,,28/09/2026 23:49
 ecc3b5d0-2d03-4efd-99f1-0ec85f47d034,hatted.university,available,19.99,81.99,medium,low,6,name.com,,,21/08/2026 01:22
+b16ce8e8-6934-4d69-a211-909fefcfeff1,entrusted.university,available,49.88,49.88,medium,low,9,spaceship,,,29/09/2026 16:07
 8509907c-9410-4bf5-ab33-87dc73251470,weighty.university,available,19.99,81.99,medium,low,7,name.com,,,12/08/2026 15:37
 4f508b66-d885-4aa6-a62e-3ed5dbd4659f,unstoppable.university,available,19.99,,high,low,11,name.com,,,
 79c57d61-9def-4d88-a87c-dd833ef1dfaf,listless.university,available,19.99,81.99,medium,low,8,name.com,,,14/08/2026 12:00
@@ -18,14 +22,16 @@ e836284e-2ab2-481a-afec-01fb963479ca,australasian.university,available,48.2,48.2
 53691e9c-23ab-48b8-9074-55e4f9bd38da,unshaded.university,available,65.98,77.98,medium,low,8,namecheap,,,12/09/2026 19:27
 58ebac9e-140f-4084-a52b-eee97080ffa9,owen.university,available,62.99,62.99,high,low,4,namesilo,,,25/09/2026 09:42
 430ae2a9-a8eb-47d8-b8db-1d26f1517540,radial.university,available,62.99,62.99,high,low,6,namesilo,,,09/09/2026 09:30
-aa8c4c58-ee2a-492b-979e-336016fcd800,heinrich.university,available,62.99,62.99,medium,low,8,namesilo,,,25/09/2026 21:51
+2dd914ae-d94f-4671-8338-c3452dc270ba,cir.university,available,48.2,48.2,high,low,3,cloudflare,,,29/09/2026 09:07
+abfc07cc-aac6-4617-bd33-e12fa7dac5d2,comprehension.university,available,62.99,62.99,high,low,13,namesilo,,,29/09/2026 23:00
+aa8c4c58-ee2a-492b-979e-336016fcd800,heinrich.university,available,62.99,62.99,high,low,8,namesilo,,,25/09/2026 21:51
 5e7275a9-7252-45b6-b1c3-c12948654de3,compute.university,available,62.99,62.99,high,low,7,namesilo,,,19/09/2026 14:03
 a7ec9820-9357-4ede-8894-7e8fb4ce4539,simple.university,available,62.99,62.99,high,medium,6,namesilo,,,28/09/2026 03:43
-f923b482-d19b-4253-bc23-32ca8ea90ff6,dreyfus.university,available,62.99,62.99,medium,low,7,namesilo,,,18/09/2026 06:30
+f923b482-d19b-4253-bc23-32ca8ea90ff6,dreyfus.university,available,62.99,62.99,high,low,7,namesilo,,,18/09/2026 06:30
 c45f5e2f-e2d2-456c-9fac-3fbae78bda2c,drugged.university,available,19.99,81.99,medium,low,7,name.com,,,14/08/2026 20:06
 e4b2d6de-903e-48d8-a5d4-36fb3c2e22e3,annoyed.university,available,65.98,77.98,medium,low,7,namecheap,,,22/09/2026 05:18
 a4346403-d8af-400e-abd3-5b3b76f7a12a,vascular.university,available,19.99,81.99,medium,low,8,name.com,,,13/09/2026 01:33
-25ce7455-a05a-4395-9c73-dc1b49a0d1b3,detour.university,available,19.99,,high,low,6,name.com,,,
+25ce7455-a05a-4395-9c73-dc1b49a0d1b3,detour.university,available,48.2,48.2,high,low,6,cloudflare,,,29/09/2026 14:19
 636ababa-f7ee-43dc-acce-a0b195542241,trendy.university,available,65.98,77.98,high,low,6,namecheap,,,11/09/2026 19:19
 6076511d-0227-47b9-950c-0f7a5a3d7839,escaping.university,available,49.88,49.88,high,low,8,spaceship,,,28/09/2026 21:14
 70a0b674-eccf-47cf-b274-635e2889b6d9,sunblind.university,available,62.99,62.99,medium,low,8,namesilo,,,21/09/2026 10:15
@@ -33,19 +39,23 @@ a4346403-d8af-400e-abd3-5b3b76f7a12a,vascular.university,available,19.99,81.99,m
 842fe6a9-1cfe-47a2-8499-e3e936b85ae6,guatemalan.university,available,19.99,81.99,high,low,10,name.com,,,20/08/2026 20:45
 407dc663-75eb-4367-8b2e-e5123e68b255,indocile.university,available,19.99,81.99,medium,low,8,name.com,,,22/08/2026 03:18
 40b45ded-7f30-49f7-bcde-53897d48598d,metcalf.university,available,49.88,49.88,medium,low,7,spaceship,,,28/09/2026 18:20
+908ff502-7801-4c6c-921e-054c5e6d3a72,cea.university,available,49.88,49.88,high,low,3,spaceship,,,29/09/2026 17:12
+52ea0eb4-0da6-48f9-a826-94fecf3041d9,tenants.university,available,10.92,51.58,medium,low,7,dynadot,,,29/09/2026 05:33
 b94a5279-23a8-4a72-8468-3b3f44329557,biosensors.university,available,62.99,62.99,medium,low,10,namesilo,,,21/09/2026 02:37
 bfeba24d-1d82-4beb-8452-3927c9d3b1f9,vaginal.university,available,62.99,62.99,medium,low,7,namesilo,,,13/09/2026 00:49
 bff95bd5-f042-4f05-9ae1-b4696a9f6bc8,perch.university,available,19.99,81.99,high,low,5,name.com,,,
 edecb38f-09fe-48df-84ae-ad9b8cf2d5b2,languages.university,premium,78.54,78.54,medium,low,9,namesilo,,,
-39e82936-67e6-4619-9a94-6a67964bc721,inmate.university,available,65.98,77.98,medium,low,6,namecheap,,,24/09/2026 18:00
+39e82936-67e6-4619-9a94-6a67964bc721,inmate.university,available,65.98,77.98,high,low,6,namecheap,,,24/09/2026 18:00
 0949c0d6-7abc-4e91-830f-6d2752e05e83,liability.university,available,48.2,48.2,medium,low,9,cloudflare,,,28/09/2026 09:46
 6f1b8cad-31da-40b8-aacc-56d5c17cd8f6,baneful.university,available,19.99,81.99,low,low,7,name.com,,,08/08/2026 09:44
+b4f7d6c4-32e3-4807-835c-9a7657faaf7f,robyn.university,available,62.99,62.99,high,low,5,namesilo,,,29/09/2026 22:07
 c8744a0a-94be-4d17-94d2-a1fcd1c5edb6,easily.university,available,62.99,62.99,high,low,6,namesilo,,,24/09/2026 13:14
-0717755a-157c-40c2-a1e9-4ae66bad698d,alfresco.university,available,19.99,81.99,medium,low,8,name.com,,,
+0717755a-157c-40c2-a1e9-4ae66bad698d,alfresco.university,available,19.99,81.99,high,low,8,name.com,,,
 ca2041c1-4250-4e8f-98f9-c9bbf3b6cde1,steadily.university,available,62.99,62.99,medium,low,8,namesilo,,,10/09/2026 19:32
 2c3bfbcd-bc4d-4545-8f9d-85728880efdf,kev.university,available,62.99,62.99,high,low,3,namesilo,,,29/09/2026 03:20
 70e0d522-9089-490e-8611-8d6628c755af,cuteness.university,available,62.99,62.99,high,low,8,namesilo,,,24/09/2026 20:43
 77fd0c93-26cb-4171-a407-d0ab70028c8b,muntjac.university,available,62.99,62.99,medium,low,7,namesilo,,,22/09/2026 06:28
+1960c14b-c04b-4b9c-a1cf-d4dc8a8f80a3,safeguard.university,available,49.88,49.88,high,low,9,spaceship,,,29/09/2026 20:02
 758cb2bb-dc43-41ea-a01a-c914e617eecc,secondhand.university,available,62.99,62.99,high,low,10,namesilo,,,10/09/2026 01:09
 a91d36e5-e710-4638-a8a4-643a4b77cbd4,becquerel.university,available,62.99,62.99,medium,low,9,namesilo,,,19/09/2026 15:23
 d31250d4-7390-45be-b439-f62e702fb2bd,pants.university,available,62.99,62.99,high,low,5,namesilo,,,24/09/2026 06:17
@@ -57,7 +67,7 @@ ecc41642-cec9-44d6-97ad-b58e12cdcc01,ardeidae.university,available,62.99,62.99,m
 57a1932c-bd5d-40ba-9c8b-3f12ecdcb44f,affiliation.university,available,19.99,,high,low,11,name.com,,,
 4903b724-5fb8-47f2-827a-ed257b218a37,illustrated.university,available,19.99,,high,low,11,name.com,,,
 5ceeae7a-1605-4705-a0b5-9e38ff7a08a7,tests.university,available,62.99,62.99,high,low,5,namesilo,,,17/09/2026 22:12
-85903c46-be07-4f35-8960-5d0fe7421aec,bather.university,available,62.99,62.99,medium,low,6,namesilo,,,22/09/2026 13:31
+85903c46-be07-4f35-8960-5d0fe7421aec,bather.university,available,62.99,62.99,high,low,6,namesilo,,,22/09/2026 13:31
 e7165b0b-213f-415d-a533-241ffc4aa3fb,theme.university,available,109.99,109.99,high,low,5,godaddy,,,28/09/2026 01:44
 f131c257-c2f0-4cda-911e-53013334a6d4,homosexual.university,available,19.99,81.99,high,low,10,name.com,,,18/08/2026 20:54
 c091d580-d36e-4ac1-a1a5-6fad9fb959ef,probative.university,available,62.99,62.99,medium,low,9,namesilo,,,09/09/2026 02:27
@@ -69,8 +79,8 @@ aed391a4-fcd1-4e34-9a80-ecd99550e5f1,effects.university,available,65.98,77.98,hi
 d0d40091-87b5-45da-bffa-56aa5943ff5a,adamantine.university,available,19.99,81.99,medium,low,10,name.com,,,
 719933d9-baa0-4ac9-96f8-e310cc7e2200,pets.university,available,48.2,48.2,low,low,4,cloudflare,,,28/09/2026 08:51
 28dbcc47-9395-4fcd-80f3-15cbcaf3f81f,shade.university,available,109.99,109.99,high,low,5,godaddy,,,28/09/2026 02:00
-342dda8e-27b6-47d7-92b1-18a39bc0a8e6,judgment.university,available,19.99,,high,low,8,name.com,,,
-b0ba82da-2fd3-4287-8afc-65daa361ab21,flawed.university,available,19.99,81.99,medium,low,6,name.com,,,18/08/2026 07:18
+342dda8e-27b6-47d7-92b1-18a39bc0a8e6,judgment.university,available,49.88,49.88,high,low,8,spaceship,,,30/09/2026 01:01
+b0ba82da-2fd3-4287-8afc-65daa361ab21,flawed.university,available,19.99,81.99,high,low,6,name.com,,,18/08/2026 07:18
 2a0103ff-6ae7-40d6-a038-d7eab3eb4d2d,published.university,available,62.99,62.99,high,low,9,namesilo,,,27/09/2026 07:35
 da443062-e87d-45a1-b4e2-713f0abc62a2,hadrian.university,available,65.98,77.98,medium,low,7,namecheap,,,17/09/2026 09:58
 551bf2b9-7a96-454b-96d4-ec3833c4ff52,rashid.university,available,62.99,62.99,medium,low,6,namesilo,,,28/09/2026 16:48
@@ -80,21 +90,23 @@ bee5c20b-957c-4e51-8f23-4479e8ba2aa3,anchor.university,available,65.98,77.98,hig
 84adcdc6-34ab-4073-9c00-10fe887f44dc,gloriously.university,available,19.99,81.99,high,low,10,name.com,,,14/09/2026 21:45
 072bbfea-c4f1-4e61-870b-86e4eba7f662,unsound.university,available,62.99,62.99,medium,low,7,namesilo,,,24/09/2026 16:24
 9976666f-0d7f-4323-8c9a-fd0b408d05f6,vigilantly.university,available,62.99,62.99,medium,low,10,namesilo,,,16/09/2026 10:54
+4a9c2945-1989-47bd-a098-7a069527e67b,flats.university,available,49.88,49.88,high,low,5,spaceship,,,29/09/2026 12:22
 cb6599c1-1612-4e44-b309-a793ea744cfe,rats.university,available,19.99,,high,low,4,name.com,,,
 64bc3883-c870-4229-8eaa-de533d7d5d7b,cxx.university,available,19.99,81.99,high,low,3,name.com,,,
-c4411192-0e36-4f4b-a771-606c5b8f37ed,haircut.university,available,19.99,,high,low,7,name.com,,,
+c4411192-0e36-4f4b-a771-606c5b8f37ed,haircut.university,available,48.2,48.2,high,low,7,cloudflare,,,29/09/2026 21:56
 903f0a86-1dcb-4a33-b66e-5d0ea39cc2e3,anal.university,available,19.99,81.99,high,low,4,name.com,,,
 9b318848-475d-442b-95dc-44aab367c0aa,buzzing.university,available,19.99,81.99,high,low,7,name.com,,,
 cf83f213-1d04-4ab1-823d-c544efe35ae1,norwalk.university,available,48.2,48.2,medium,low,7,cloudflare,,,28/09/2026 12:08
-55a91f7c-23d8-478e-a82a-27f3eb2737eb,nrc.university,available,62.99,62.99,medium,low,3,namesilo,,,28/09/2026 10:37
+55a91f7c-23d8-478e-a82a-27f3eb2737eb,nrc.university,available,62.99,62.99,high,low,3,namesilo,,,28/09/2026 10:37
 8fa6979e-48ac-4982-98a0-c43a56598e90,scrub.university,available,62.99,62.99,high,low,5,namesilo,,,27/09/2026 18:50
 831b31f3-4c3a-498a-bad0-13aa5896a86a,auden.university,available,62.99,62.99,high,low,5,namesilo,,,21/09/2026 02:48
-f432385c-6304-4281-a612-6cfaa1a72e97,gripe.university,available,62.99,62.99,medium,low,5,namesilo,,,23/09/2026 00:19
+f432385c-6304-4281-a612-6cfaa1a72e97,gripe.university,available,62.99,62.99,high,low,5,namesilo,,,23/09/2026 00:19
+14569383-d2d2-43dd-94b6-31626ca23976,estimator.university,available,49.88,49.88,high,low,9,spaceship,,,29/09/2026 18:08
 8bfbf594-6319-40c6-93af-44733399959b,antigram.university,available,65.98,77.98,low,low,8,namecheap,,,19/09/2026 14:31
 9e0fd9a5-ec80-427a-8b16-8baf7b372731,soggy.university,available,19.99,81.99,high,low,5,name.com,,,10/08/2026 17:14
 91a2c761-7866-4f9e-ad9b-6bc8765c2101,supervised.university,available,62.99,62.99,high,low,10,namesilo,,,11/09/2026 02:26
 780ea195-4932-448c-8477-4c2307038e71,unveil.university,available,19.99,,high,low,6,name.com,,,
-fd91538f-9be6-4134-8565-b03863ec0574,clamp.university,available,62.99,62.99,medium,low,5,namesilo,,,24/09/2026 15:19
+fd91538f-9be6-4134-8565-b03863ec0574,clamp.university,available,62.99,62.99,high,low,5,namesilo,,,24/09/2026 15:19
 c613bac8-5dde-4685-a00e-0ad3e79f4128,acetate.university,available,62.99,62.99,high,low,7,namesilo,,,17/09/2026 00:03
 37b4c93e-d050-48f7-b23f-1c902fca6063,bully.university,available,19.99,81.99,high,low,5,name.com,,,08/08/2026 12:15
 d82d1e35-4d4f-430a-9b49-dfd5e548d8f8,limply.university,available,62.99,62.99,medium,low,6,namesilo,,,15/09/2026 12:20
@@ -112,11 +124,11 @@ db359beb-5d43-49dd-9686-db667a694f01,counted.university,available,19.99,,medium,
 dc814378-f358-41a6-b482-9de4c1ba7a67,dim.university,available,19.99,81.99,high,low,3,name.com,,,10/08/2026 13:58
 c01bf147-0756-4f0d-bacf-b3ea6390f8b5,gizmo.university,available,62.99,62.99,high,low,5,namesilo,,,19/09/2026 21:49
 fcdcac99-6305-47e5-95f7-2b8e426774ba,jockey.university,available,62.99,62.99,high,low,6,namesilo,,,24/09/2026 14:26
-54ea796e-6ccd-479c-a0ef-d33e509766ca,messaging.university,available,62.99,62.99,high,low,9,namesilo,,,25/09/2026 03:29
+54ea796e-6ccd-479c-a0ef-d33e509766ca,messaging.university,available,49.88,49.88,high,low,9,spaceship,,,29/09/2026 06:22
 3247db1a-f6ea-440f-85e9-eeb306e7f993,continually.university,available,19.99,,medium,low,11,name.com,,,
 0636c3fc-6532-40f2-b2ed-22248cb64760,luke.university,available,62.99,62.99,high,low,4,namesilo,,,25/09/2026 06:37
 3b15174e-0050-4d15-948b-4ff01e3a1d02,risks.university,available,62.99,62.99,medium,low,5,namesilo,,,20/09/2026 06:40
-602c5d1f-8f91-4728-93c0-999461cfbe35,toklas.university,available,62.99,62.99,medium,low,6,namesilo,,,18/09/2026 07:28
+602c5d1f-8f91-4728-93c0-999461cfbe35,toklas.university,available,62.99,62.99,high,low,6,namesilo,,,18/09/2026 07:28
 d9f72330-7112-4d66-a01a-300bc911c193,asymptote.university,available,62.99,62.99,medium,low,9,namesilo,,,20/09/2026 18:41
 7ec8296c-d781-412c-8bff-b833399c9434,shh.university,available,19.99,,high,low,3,name.com,,,
 36e665e5-636f-42ae-a747-b7018b94dc64,kew.university,available,62.99,62.99,high,low,3,namesilo,,,28/09/2026 11:39
@@ -124,14 +136,16 @@ d9f72330-7112-4d66-a01a-300bc911c193,asymptote.university,available,62.99,62.99,
 287e5eb6-b6d0-4034-a8a0-ab0353bc44d3,untapped.university,available,65.98,77.98,medium,low,8,namecheap,,,12/09/2026 21:02
 d485ccb1-e9f9-4824-a60a-27dd1e2ff3b6,jailhouse.university,available,19.99,81.99,medium,low,9,name.com,,,08/09/2026 22:44
 90319a48-118d-4007-a0fa-d5ca44426043,promissory.university,available,62.99,62.99,medium,low,10,namesilo,,,09/09/2026 03:11
-21f0ef31-fc14-44ee-b52c-1ff03d54df45,ridicule.university,available,65.98,77.98,medium,low,8,namecheap,,,24/09/2026 02:25
+21f0ef31-fc14-44ee-b52c-1ff03d54df45,ridicule.university,available,65.98,77.98,high,low,8,namecheap,,,24/09/2026 02:25
+ca8ec640-2ab9-4ac6-bd23-8788d946d7ae,glaser.university,available,49.88,49.88,high,low,6,spaceship,,,30/09/2026 01:21
 d9ddf445-e44e-47c7-9614-372a1feafd79,swoon.university,available,19.99,81.99,high,low,5,name.com,,,17/08/2026 21:03
 be6dd605-3261-48af-a9ba-fd7856614937,filthy.university,available,19.99,81.99,high,low,6,name.com,,,13/08/2026 08:46
 e33b8065-f028-4d43-8f11-cea533ab67e7,integrated.university,available,62.99,62.99,high,low,10,namesilo,,,25/09/2026 08:05
 cfb80530-37d2-41bb-9a3d-a376fd6d0a48,camel.university,available,49.88,49.88,high,low,5,spaceship,,,28/09/2026 01:20
-181ad2cd-be2e-44fe-bd68-5dc1d5d2158d,akko.university,available,62.99,62.99,medium,low,4,namesilo,,,16/09/2026 22:23
+c506f3b5-9e34-41af-8d93-9a63500c5aeb,regina.university,available,62.99,62.99,high,low,6,namesilo,,,29/09/2026 13:45
+181ad2cd-be2e-44fe-bd68-5dc1d5d2158d,akko.university,available,62.99,62.99,high,low,4,namesilo,,,16/09/2026 22:23
 12530e3b-f352-4da5-af58-1a9aa7e89791,fatally.university,available,65.98,77.98,medium,low,7,namecheap,,,14/09/2026 17:51
-f471655c-4a1f-4005-bd42-833f99d493fa,cannabis.university,premium,85.8,85.8,high,medium,8,namecheap,,,25/09/2026 09:02
+f471655c-4a1f-4005-bd42-833f99d493fa,cannabis.university,premium,85.8,85.8,high,medium,8,namecheap,,,29/09/2026 06:36
 8ef406f0-dfa8-4416-85e7-55224af51232,restive.university,available,19.99,81.99,medium,low,7,name.com,,,15/08/2026 09:28
 a9c0aa1f-690f-4b1a-8399-79ef53bba309,bingle.university,available,62.99,62.99,medium,low,6,namesilo,,,19/09/2026 16:38
 eb25bc4b-af9d-4a69-86d9-df2c7aae189b,brimful.university,available,19.99,81.99,medium,low,7,name.com,,,11/08/2026 04:08
@@ -139,13 +153,17 @@ eb25bc4b-af9d-4a69-86d9-df2c7aae189b,brimful.university,available,19.99,81.99,me
 801312c9-342c-4351-a88c-dcb254466680,ministrant.university,available,19.99,81.99,medium,low,10,name.com,,,24/08/2026 23:57
 12561e6e-0dab-4faf-af3a-6f31c5f668fd,awaken.university,available,62.99,62.99,high,low,6,namesilo,,,22/09/2026 14:40
 76804370-b501-4ff9-827e-742f339ac188,btw.university,available,19.99,,high,low,3,name.com,,,
+931ec4bb-a673-40f8-9d82-b59f31636126,shaffer.university,available,48.2,48.2,high,low,7,cloudflare,,,29/09/2026 09:57
 7c8f44d8-e7cd-4b71-b705-082f87e568a8,gresham.university,available,49.88,49.88,medium,low,7,spaceship,,,29/09/2026 01:08
-05a604cc-c0df-4ccd-b426-1b0f6100b53a,appointed.university,available,19.99,81.99,medium,low,9,name.com,,,06/08/2026 07:21
+0178fd21-a7e9-45ad-b132-b9bfa8fa3f35,flexibility.university,available,65.98,77.98,high,low,11,namecheap,,,29/09/2026 16:16
+05a604cc-c0df-4ccd-b426-1b0f6100b53a,appointed.university,available,19.99,81.99,high,low,9,name.com,,,06/08/2026 07:21
 79fc577a-cae1-4c90-8bd7-2c56b50c756f,complicate.university,available,62.99,62.99,high,low,10,namesilo,,,08/09/2026 14:25
-4a107a95-9f6b-4072-8002-fda08c3dc1c3,executing.university,available,19.99,,medium,low,9,name.com,,,
+aaaf860d-401e-4c25-8add-35165bbb9b9d,relocation.university,available,49.88,49.88,high,low,10,spaceship,,,29/09/2026 13:46
+4a107a95-9f6b-4072-8002-fda08c3dc1c3,executing.university,available,49.88,49.88,high,low,9,spaceship,,,29/09/2026 07:22
 58307a90-18c9-4be7-937e-e52e46f5cb34,bismarck.university,premium,118.8,118.8,high,low,8,namesilo,,,23/09/2026 22:03
 b0b61c35-086a-4d31-9da2-e68646f425f6,illusory.university,available,19.99,81.99,medium,low,8,name.com,,,21/08/2026 20:15
 f5a8b13b-a8f2-4466-bf1b-df792f098983,flush.university,available,19.99,81.99,high,low,5,name.com,,,
+6dc45f8c-85e8-48e6-b6e6-3f808af20aeb,retaliation.university,available,65.98,77.98,medium,low,11,namecheap,,,29/09/2026 23:02
 f7dc8689-8453-43ea-96e2-b4a4af0c2bdf,agnostic.university,available,65.98,77.98,high,low,8,namecheap,,,21/09/2026 23:11
 1f6b6a55-79d0-4512-a52d-edb23318c62e,snuggled.university,available,62.99,62.99,medium,low,8,namesilo,,,03/09/2026 15:48
 0e3748f0-03a6-48d9-a9d7-6546ca26c55f,murmuring.university,available,62.99,62.99,high,low,9,namesilo,,,03/09/2026 11:06
@@ -154,6 +172,7 @@ d4dfd31d-6751-483a-b0d3-6ab27ea7f429,birthing.university,available,65.98,77.98,h
 ee093e21-b064-454d-a34b-37982df52003,molecular.university,available,19.99,81.99,high,low,9,name.com,,,25/08/2026 03:53
 5563e54c-87bf-47a9-b2f5-76669fe090c1,westhill.university,available,19.99,,medium,low,9,name.com,,,
 ef4fbf3a-888e-44d8-8890-0097d80dda59,agrologic.university,available,19.99,81.99,medium,low,9,name.com,,,
+112460cf-ce3c-48f1-8fd0-6ea92c8993f4,sank.university,available,48.2,48.2,medium,low,4,cloudflare,,,29/09/2026 16:38
 a0193b66-89d2-486a-b833-5bc4434653e6,boondocks.university,available,62.99,62.99,medium,low,9,namesilo,,,21/09/2026 14:32
 63fc321a-3a3f-4d97-b4b7-5219d849e506,heretofore.university,available,62.99,62.99,medium,low,10,namesilo,,,13/09/2026 21:50
 6738d344-9ca2-4897-b5ab-b1f2bbefc01f,agnate.university,available,19.99,81.99,medium,low,6,name.com,,,
@@ -162,9 +181,11 @@ d838c72d-318c-48e0-819b-2f632b9622f9,phycology.university,available,62.99,62.99,
 a4625b8b-d23d-4210-9068-7059ca64b02d,anemone.university,available,62.99,62.99,high,low,7,namesilo,,,19/09/2026 05:19
 69fc3023-fbfe-41e0-b04c-819c88f20709,nappy.university,available,19.99,81.99,high,low,5,name.com,,,18/08/2026 16:10
 55b541f9-23a9-49f1-9a14-8e1a856121c7,cycle.university,available,62.99,62.99,high,low,5,namesilo,,,08/09/2026 12:19
+4a5fe683-e41c-48f9-8595-faed412d94bd,woolwich.university,available,49.88,49.88,medium,low,8,spaceship,,,29/09/2026 15:50
 18697a4b-9e48-4438-8dd0-9a51ce3e8ca2,uncrossed.university,available,62.99,62.99,medium,low,9,namesilo,,,12/09/2026 06:33
 c8415ec9-52fb-41ff-95c8-dfe9542eebb1,alcoholic.university,available,19.99,81.99,high,low,9,name.com,,,
 34537bbc-a197-4330-ac6d-e2980a5fdcc5,murphy.university,available,65.98,77.98,high,low,6,namecheap,,,25/09/2026 07:49
+90ca6c53-95f1-4783-83b1-b1b15188825e,carriers.university,available,48.2,48.2,medium,low,8,cloudflare,,,29/09/2026 05:47
 cd3b938f-5e69-4b47-a412-0ead52bb05c6,ableism.university,available,62.99,62.99,medium,low,7,namesilo,,,16/09/2026 16:10
 cf154512-da9c-4e5b-8e43-eb587ad34b5c,abwatt.university,available,62.99,62.99,medium,low,6,namesilo,,,16/09/2026 19:39
 aa95ad97-69e8-423e-b297-3f39e166d809,womb.university,available,48.2,48.2,high,low,4,cloudflare,,,28/09/2026 20:42
@@ -173,8 +194,8 @@ ec8c8720-5c23-480e-91c9-2767342d0eb8,technically.university,available,62.99,62.9
 87b3c5c2-2b0f-455b-9f93-99d4fdab9e90,squawker.university,available,62.99,62.99,medium,low,8,namesilo,,,23/09/2026 06:50
 178bbf14-2c1d-4b6e-b90c-b965537e1fba,shepherd.university,available,62.99,62.99,high,low,8,namesilo,,,28/09/2026 03:05
 bedd2b25-26f7-45d0-a28a-3470cd80417e,antacid.university,available,62.99,62.99,high,low,7,namesilo,,,22/09/2026 05:43
-0626e002-7743-4896-8629-43bf88352569,intestinal.university,available,62.99,62.99,medium,low,10,namesilo,,,04/09/2026 08:14
-3aa0092c-982a-4189-b7dd-0eea30c74fc4,incline.university,available,19.99,,high,low,7,name.com,,,
+0626e002-7743-4896-8629-43bf88352569,intestinal.university,available,62.99,62.99,high,low,10,namesilo,,,04/09/2026 08:14
+3aa0092c-982a-4189-b7dd-0eea30c74fc4,incline.university,available,48.2,48.2,high,low,7,cloudflare,,,29/09/2026 23:48
 d015ac0e-69cb-47e5-af12-f4e88e5ac524,mathematics.university,premium,85.8,85.8,high,low,11,namecheap,,,28/09/2026 03:31
 ee41ad69-68f0-4a08-b95f-5f0c21928971,trifle.university,available,62.99,62.99,high,low,6,namesilo,,,13/09/2026 08:07
 e2217dca-00f1-4402-a7e0-6e95e2c14677,copious.university,available,19.99,81.99,high,low,7,name.com,,,13/08/2026 00:28
@@ -184,7 +205,7 @@ b1073e59-9b19-4f36-b3a8-e40f681a8619,dappled.university,available,19.99,81.99,me
 2d6840c0-3904-4b19-8fd6-c503f0fe9902,moronic.university,available,19.99,81.99,medium,low,7,name.com,,,25/08/2026 06:35
 5397ba43-7db4-4235-b624-9c30e7670608,bennet.university,available,62.99,62.99,high,low,6,namesilo,,,23/09/2026 08:30
 43303d2a-1144-46f0-ac73-5ed15b9f480a,assaulted.university,available,48.2,48.2,low,low,9,cloudflare,,,28/09/2026 18:18
-b91cb91a-1c24-4603-9e1d-173db1e0765a,marines.university,available,19.99,,high,low,7,name.com,,,
+b91cb91a-1c24-4603-9e1d-173db1e0765a,marines.university,available,65.98,77.98,high,low,7,namecheap,,,30/09/2026 03:55
 61ed056b-2f50-44f9-9e64-78cc536f095a,strikingly.university,available,19.99,81.99,medium,low,10,name.com,,,16/09/2026 07:22
 e73ab373-e77b-4fb1-bf84-fac61619b732,baron.university,available,62.99,62.99,high,low,5,namesilo,,,22/09/2026 07:01
 6720f290-7b6a-4291-987b-3213f5167082,angler.university,available,62.99,62.99,high,low,6,namesilo,,,18/09/2026 11:39
@@ -192,6 +213,7 @@ e2d15a83-72d4-4dbd-bd5f-0c76a6731ec8,superfamily.university,available,10.81,49.9
 799ee309-56e9-43a1-9d6c-d1b455a95898,gesture.university,available,49.88,49.88,high,low,7,spaceship,,,27/09/2026 13:44
 e51529d1-0602-410a-96ea-ec86ae5e009a,designer.university,premium,78.54,78.54,high,low,8,namesilo,,,20/09/2026 02:12
 184ccb6e-4a3a-4d84-b13a-73c0183bd732,cycles.university,available,62.99,62.99,medium,low,6,namesilo,,,20/09/2026 09:25
+b54d5c1b-4b86-4166-9e9c-951b7546b003,iain.university,available,65.98,77.98,high,low,4,namecheap,,,29/09/2026 15:22
 c9b93b60-2b30-43f4-aac6-2deb64f56b99,unshaken.university,available,62.99,62.99,high,low,8,namesilo,,,12/09/2026 07:04
 bea15aca-0338-45e7-8c88-91189c7fd619,spike.university,available,62.99,62.99,high,low,5,namesilo,,,19/09/2026 15:31
 56f75729-308b-46b3-acf8-a17fe03bc1f5,biologic.university,available,19.99,81.99,high,low,8,name.com,,,10/08/2026 02:14
@@ -212,21 +234,23 @@ a58ee30a-c67d-4899-adf9-3732a5b49d67,los.university,available,19.99,,high,low,3,
 977cddcc-7cb2-4dd4-a20f-52a2a7d27270,roast.university,available,49.88,49.88,high,low,5,spaceship,,,27/09/2026 15:46
 27217c1d-0ab1-4867-a7e8-590b338b9e0a,sparing.university,available,19.99,81.99,high,low,7,name.com,,,18/08/2026 16:58
 80fc4329-6041-43ab-af10-d658a63ae80b,internal.university,available,65.98,77.98,high,low,8,namecheap,,,25/09/2026 09:40
-e4f67673-08c3-4c79-84dd-51780409f491,churchman.university,available,19.99,81.99,medium,low,9,name.com,,,14/08/2026 23:29
+e4f67673-08c3-4c79-84dd-51780409f491,churchman.university,available,19.99,81.99,high,low,9,name.com,,,14/08/2026 23:29
 c5d54cac-2bff-4807-9906-e4ab3591e2d2,asea.university,available,62.99,62.99,medium,low,4,namesilo,,,10/09/2026 01:04
-bfff5b15-e00a-4614-b1c3-94efd9e5a2cc,dye.university,available,19.99,,high,low,3,name.com,,,
+bfff5b15-e00a-4614-b1c3-94efd9e5a2cc,dye.university,available,49.88,49.88,high,low,3,spaceship,,,29/09/2026 17:21
 7d5d6231-6600-4fce-91f8-c3cf8fc5116c,pigfish.university,available,62.99,62.99,medium,low,7,namesilo,,,17/09/2026 00:46
 d582cc8b-3e1f-4d32-848e-22f637d06a7b,scoff.university,available,19.99,81.99,medium,low,5,name.com,,,22/08/2026 12:41
 09d35986-467d-420f-b2bc-2e08a9a043c0,investor.university,available,48.2,48.2,high,medium,8,cloudflare,,,28/09/2026 05:43
 e6a522fe-4eb3-4840-a6fb-b0e08dca4afd,downpour.university,available,62.99,62.99,high,low,8,namesilo,,,24/09/2026 16:02
 588fb50c-b330-4424-ad31-b9ee870b7fd5,leek.university,available,62.99,62.99,medium,low,4,namesilo,,,18/09/2026 11:25
+0159a28e-ba38-4e63-b0d7-bea3bc4a12da,ration.university,available,62.99,62.99,high,low,6,namesilo,,,30/09/2026 02:40
 5e52f2bf-df8b-44e1-ac20-89c69f3db682,genealogic.university,available,19.99,81.99,medium,low,10,name.com,,,18/08/2026 21:22
 e4dbfb01-4941-4d13-b2de-0c5796836065,aroma.university,available,62.99,62.99,high,low,5,namesilo,,,20/09/2026 08:25
 18fb3c2b-7fcf-4602-bbd5-ab120999d047,uncultured.university,available,62.99,62.99,medium,low,10,namesilo,,,12/09/2026 06:38
 7e54676c-d2cd-4d5d-bcfc-d6bb54f6f6b6,inbuilt.university,available,19.99,81.99,high,low,7,name.com,,,11/08/2026 08:08
-cd833c7b-cebb-4574-88ba-c0e141d98d30,dispose.university,available,19.99,,high,low,7,name.com,,,
+cd833c7b-cebb-4574-88ba-c0e141d98d30,dispose.university,available,10.92,51.58,high,low,7,dynadot,,,29/09/2026 15:24
 bee6bbc0-cbe6-4e45-b375-a38bcd6cc63d,bumbling.university,available,19.99,81.99,medium,low,8,name.com,,,11/08/2026 09:34
-fde72958-6cc6-4e72-9af3-60d60650b19c,domain.university,resell,,,high,medium,6,"Spaceship, Inc.",06/01/2019 23:31,06/01/2027 23:31,28/09/2026 02:54
+e50924f1-81b1-4625-ba5a-8c5a9971528e,sleeper.university,available,62.99,62.99,medium,low,7,namesilo,,,29/09/2026 06:29
+fde72958-6cc6-4e72-9af3-60d60650b19c,domain.university,resell,,,high,medium,6,"Spaceship, Inc.",06/01/2019 23:31,06/01/2027 23:31,30/09/2026 02:55
 1ff3011a-7ae8-4fd1-9951-a13b73679515,confluent.university,available,19.99,81.99,high,low,9,name.com,,,12/08/2026 21:07
 d39f2b88-7049-42ee-9837-6f77b9a0ccc2,admittedly.university,available,65.98,77.98,high,low,10,namecheap,,,11/09/2026 20:31
 cddc9785-62b0-42c8-bb76-a00fd55f5fa0,asexually.university,available,62.99,62.99,medium,low,9,namesilo,,,13/09/2026 22:03
@@ -237,55 +261,61 @@ cddc9785-62b0-42c8-bb76-a00fd55f5fa0,asexually.university,available,62.99,62.99,
 725ba197-69c6-4ed7-b0a5-3eb65178bbc7,troops.university,available,62.99,62.99,high,low,6,namesilo,,,25/09/2026 23:43
 8859b1f6-9bab-4ac1-bb06-c64fbdf9ba55,campsite.university,available,62.99,62.99,high,low,8,namesilo,,,24/09/2026 11:55
 dca9000a-fd96-407c-87ad-7a02002fe754,our.university,premium,118.8,118.8,high,medium,3,namesilo,,,
-ee9b1ed9-a644-4db6-8852-1bc2f24b81a0,giraffe.university,available,19.99,,high,low,7,name.com,,,
+ee9b1ed9-a644-4db6-8852-1bc2f24b81a0,giraffe.university,available,10.92,51.58,high,low,7,dynadot,,,29/09/2026 05:59
 3bb6fdaa-852a-440e-bb82-c64748f31732,shivaree.university,available,62.99,62.99,medium,low,8,namesilo,,,23/09/2026 06:07
 d45742dc-7218-4e6c-833d-fbe3bee45bf8,goals.university,available,49.88,49.88,high,low,5,spaceship,,,28/09/2026 07:10
 a110fb48-c38e-41a8-9b04-8e0b8c6f47f1,cuddle.university,available,65.98,77.98,high,low,6,namecheap,,,24/09/2026 20:09
 cc937a9f-850c-4315-ba83-9ab22aa481d9,scissors.university,available,10.92,51.58,high,low,8,dynadot,,,28/09/2026 20:05
 d3c96d94-9978-4aa7-899b-6ad892aa2915,cashiers.university,available,62.99,62.99,medium,low,8,namesilo,,,20/09/2026 14:34
 9c494b08-1c62-4a63-ba04-cf48f3bd955d,bandwagon.university,available,62.99,62.99,high,low,9,namesilo,,,22/09/2026 01:35
+03afa8e4-6c51-4a5a-a82b-1374d41f0c67,fai.university,available,49.88,49.88,high,low,3,spaceship,,,29/09/2026 09:08
 b4e09f26-c60a-485c-b031-095b2547b76d,pedestrian.university,available,62.99,62.99,high,low,10,namesilo,,,08/09/2026 12:28
 c0f6e395-88b6-411a-984a-359c6820c57d,brewery.university,available,48.2,48.2,high,low,7,cloudflare,,,28/09/2026 18:30
 df10eb2c-cc4a-48ff-b005-814257271ac2,cloth.university,available,48.2,48.2,high,low,5,cloudflare,,,28/09/2026 02:26
-29bfbb6d-8ac5-4172-8798-b255c86bb44b,runabout.university,available,19.99,,medium,low,9,name.com,,,
+29bfbb6d-8ac5-4172-8798-b255c86bb44b,runabout.university,available,19.99,,high,low,9,name.com,,,
 9a3730a1-2f5f-4878-b982-537173e9c65d,frankenstein.university,available,49.88,49.88,high,low,12,spaceship,,,28/09/2026 21:01
-64c2eb5d-4dea-4a37-8414-31cce74cda1d,neither.university,available,62.99,62.99,medium,low,7,namesilo,,,03/09/2026 15:18
+64c2eb5d-4dea-4a37-8414-31cce74cda1d,neither.university,available,62.99,62.99,high,low,7,namesilo,,,03/09/2026 15:18
 a49b93ff-866f-40aa-be9f-c199a641df3e,departed.university,available,19.99,81.99,medium,low,8,name.com,,,07/08/2026 11:31
 e38b5bb8-e749-4791-90b1-73a8b98d09b3,defiled.university,available,19.99,81.99,medium,low,7,name.com,,,13/08/2026 23:24
 dc300bd6-f45f-4e87-91fc-bd03c84a682c,nikolai.university,available,49.88,49.88,high,low,7,spaceship,,,27/09/2026 20:11
 ff25581b-c5f7-4b5d-9062-2493a81ee933,spacetravel.university,available,19.99,,high,low,12,name.com,,,
 167fdd1f-5d9b-4580-8c13-4dc1449c37dc,wondrous.university,available,62.99,62.99,high,low,8,namesilo,,,25/09/2026 00:25
 7f0249fa-5aa2-499c-b5bd-4d7f0a181827,perplexing.university,available,19.99,81.99,medium,low,10,name.com,,,08/09/2026 17:58
-470b2575-7f65-49e0-a833-4a688235b8c1,ladder.university,available,19.99,,high,low,6,name.com,,,
-950328de-25fd-4205-ba4a-b789141b50a4,assumption.university,available,62.99,62.99,medium,low,10,namesilo,,,20/09/2026 16:39
-a85b4069-1f03-49bb-a6ef-7e5b47aeb713,patiently.university,available,19.99,81.99,medium,low,9,name.com,,,15/09/2026 19:20
+470b2575-7f65-49e0-a833-4a688235b8c1,ladder.university,available,49.88,49.88,high,low,6,spaceship,,,30/09/2026 01:55
+a7edeb4d-88fe-45b5-847d-1d07166b73d6,postcard.university,available,10.81,49.95,high,low,8,porkbun,,,29/09/2026 13:21
+950328de-25fd-4205-ba4a-b789141b50a4,assumption.university,available,62.99,62.99,high,low,10,namesilo,,,20/09/2026 16:39
+a85b4069-1f03-49bb-a6ef-7e5b47aeb713,patiently.university,available,19.99,81.99,high,low,9,name.com,,,15/09/2026 19:20
 530ab7fe-f970-4dfc-b535-da94508e3319,dove.university,available,62.99,62.99,high,low,4,namesilo,,,10/09/2026 17:16
 0faf0395-910d-4a7b-b676-5eaca41405d3,elaborate.university,available,62.99,62.99,high,low,9,namesilo,,,24/09/2026 07:12
-b97438a9-2b8a-47bb-a58b-ef75dfa0882f,suggest.university,available,19.99,,high,low,7,name.com,,,
+b97438a9-2b8a-47bb-a58b-ef75dfa0882f,suggest.university,available,49.88,49.88,high,low,7,spaceship,,,29/09/2026 22:49
 8d6bf833-0ae2-415e-b69d-9cef472a1bab,blackshirt.university,available,65.98,77.98,medium,low,10,namecheap,,,24/09/2026 03:05
+1199d6ec-a970-4b94-8f11-f3dbf9206ab9,cctv.university,available,49.88,49.88,high,low,4,spaceship,,,30/09/2026 03:41
 74114def-df9e-4626-9e6c-6fb67a7058b9,brace.university,available,19.99,81.99,high,low,5,name.com,,,11/08/2026 00:41
 245be120-0cd2-45f4-954a-be0dfacb063e,recreation.university,available,62.99,62.99,high,low,10,namesilo,,,24/09/2026 23:18
+47a5d947-f2f1-418a-9398-33afb53f1f32,develops.university,available,49.88,49.88,high,low,8,spaceship,,,30/09/2026 00:25
 039ad807-fae7-40c9-b8f5-b4d0798b710f,caribbean.university,premium,85.8,85.8,high,low,9,namecheap,,,24/09/2026 13:00
-a6032641-2ba0-4c48-bce3-f65f3072d610,calender.university,available,19.99,,high,low,8,name.com,,,
+a6032641-2ba0-4c48-bce3-f65f3072d610,calender.university,available,10.81,49.95,high,low,8,porkbun,,,29/09/2026 05:50
 67febe14-39a1-4ad3-a7cf-8d1cfd7c3b16,hurting.university,available,48.2,48.2,medium,low,7,cloudflare,,,27/09/2026 14:14
 9773e3e8-7537-4163-a8d5-4e7e77fafdea,awl.university,available,62.99,62.99,high,low,3,namesilo,,,21/09/2026 10:07
-1e751453-4702-40c9-a8ad-9d50480f5c66,smelly.university,available,19.99,81.99,medium,low,6,name.com,,,18/08/2026 02:31
+1e751453-4702-40c9-a8ad-9d50480f5c66,smelly.university,available,19.99,81.99,high,low,6,name.com,,,18/08/2026 02:31
 a1363ac7-e7d9-44bb-8e70-afa5c36ba0a1,siamese.university,available,62.99,62.99,high,low,7,namesilo,,,10/09/2026 07:27
 e5fd815f-565c-421f-a9c0-5d23aed7d6a0,fogged.university,available,19.99,81.99,medium,low,6,name.com,,,18/08/2026 09:51
 03fe1463-cb18-49e3-b91f-923914348427,breed.university,available,48.2,48.2,high,low,5,cloudflare,,,27/09/2026 11:59
 0f260e0d-db87-467a-94db-ecc1748e8e95,vegas.university,available,65.98,77.98,high,low,5,namecheap,,,25/09/2026 15:39
 8f3a93ea-4a1b-4d12-8299-5f4316d73c10,hallowmas.university,available,62.99,62.99,medium,low,9,namesilo,,,18/09/2026 09:30
 b9b33cff-05fd-4d38-8ac4-a186bd4a2bef,caramel.university,available,19.99,81.99,high,low,7,name.com,,,11/08/2026 18:28
-c793c20e-ce17-40d7-934e-10fa3206b0e0,drenched.university,available,19.99,81.99,medium,low,8,name.com,,,14/08/2026 18:51
+c793c20e-ce17-40d7-934e-10fa3206b0e0,drenched.university,available,19.99,81.99,high,low,8,name.com,,,14/08/2026 18:51
 7de8a379-2d78-465b-90c9-56f83f54553a,skipjack.university,available,65.98,77.98,medium,low,8,namecheap,,,20/09/2026 21:35
+8bb03dc6-32a3-4475-bcca-dd9dfc53a25a,delaware.university,premium,,,high,low,8,,,,29/09/2026 06:32
 e7a5e931-a826-4996-9c04-db54a13f1708,grandparents.university,available,62.99,62.99,high,low,12,namesilo,,,18/09/2026 06:12
+d2c07301-e125-40d6-8601-e3484de85e8b,williamstown.university,premium,102.67,102.67,high,low,12,spaceship,,,29/09/2026 22:48
 eb6a5e31-3ccf-46fb-a970-2f6976b61ed2,ancestor.university,available,19.99,81.99,high,low,8,name.com,,,
 4ff72a5d-66f1-41b3-815b-90ac1519f2c7,ares.university,available,62.99,62.99,high,low,4,namesilo,,,20/09/2026 04:02
 c20ea49d-ec34-4f07-95bc-a8d40198f3e7,springless.university,available,62.99,62.99,low,low,10,namesilo,,,10/09/2026 16:51
 696bdb1a-71e4-436c-888b-5de7d9c26f2c,unbolted.university,available,62.99,62.99,medium,low,8,namesilo,,,12/09/2026 01:36
 09ed8d0b-c71d-41bd-b47e-2bf2dcbe5eb7,turndown.university,available,19.99,,high,low,9,name.com,,,
-ff978794-8b2a-4821-a98b-aa945410ff6b,positivist.university,available,62.99,62.99,medium,low,10,namesilo,,,09/09/2026 00:12
-3092a1e6-ee8b-4b54-906e-f7033763151a,feather.university,available,19.99,,high,low,7,name.com,,,
+ff978794-8b2a-4821-a98b-aa945410ff6b,positivist.university,available,62.99,62.99,high,low,10,namesilo,,,09/09/2026 00:12
+3092a1e6-ee8b-4b54-906e-f7033763151a,feather.university,available,49.88,49.88,high,low,7,spaceship,,,29/09/2026 19:02
 cb41701e-bcfc-452b-87fe-93928cef6126,rakes.university,available,65.98,77.98,medium,low,5,namecheap,,,20/09/2026 22:29
 ea681ffe-916f-4690-84ca-d32369abe233,julia.university,available,65.98,77.98,high,low,5,namecheap,,,25/09/2026 19:23
 3a670099-918d-4cbe-b2dd-ee38bd6c35f7,overturned.university,available,62.99,62.99,medium,low,10,namesilo,,,04/09/2026 21:55
@@ -293,39 +323,43 @@ ea681ffe-916f-4690-84ca-d32369abe233,julia.university,available,65.98,77.98,high
 8f99749e-8e44-4519-9621-c8f3928ee631,wiped.university,available,49.88,49.88,low,low,5,spaceship,,,28/09/2026 04:58
 06c25279-1a3d-4d77-8641-50a12f291f44,fissile.university,available,19.99,81.99,medium,low,7,name.com,,,18/08/2026 05:34
 6db89b12-e406-4bf2-9432-387324191e7e,wisconsin.university,premium,512,512,high,low,9,namesilo,,,21/09/2026 17:10
+556c2471-5e9d-4148-8e39-67d26952314c,independently.university,available,65.98,77.98,medium,low,13,namecheap,,,29/09/2026 14:31
 5889da42-59ac-4bd6-a22c-1f96662beb11,botchy.university,available,19.99,81.99,medium,low,6,name.com,,,10/08/2026 20:53
 05b57692-0a50-41d2-b6cc-33c4aa84bdee,scandent.university,available,62.99,62.99,medium,low,8,namesilo,,,09/09/2026 22:32
 f65a629e-b9b3-426e-8202-c8c0cf44a022,lossless.university,available,19.99,81.99,medium,low,8,name.com,,,24/08/2026 09:56
 0e2aeb94-cad4-48d7-b7e0-6c0914de263e,shakeable.university,available,62.99,62.99,medium,low,9,namesilo,,,10/09/2026 05:34
+c645b197-0d81-4da2-8db0-b017116354cd,monrovia.university,available,49.88,49.88,high,low,8,spaceship,,,30/09/2026 00:57
 f92adaad-96a0-401d-ab79-f1cb446ba1ae,patently.university,available,65.98,77.98,medium,low,8,namecheap,,,08/09/2026 20:24
 59c98396-f610-45ab-b956-621b3ce0b094,library.university,resell,,,high,low,7,Dynadot Inc,18/02/2026 17:00,18/02/2027 17:00,28/09/2026 08:46
 4ee55c82-336e-4f2d-95fe-dbcc0105c646,doctorfish.university,available,65.98,77.98,medium,low,10,namecheap,,,16/09/2026 20:58
 33e9783d-7d66-4d81-aee2-1c87a2515bc1,unquestionable.university,available,19.99,,medium,low,14,name.com,,,
 7c64e3ab-9f7b-4762-a0d7-58138ff312ab,upbound.university,available,62.99,62.99,medium,low,7,namesilo,,,12/09/2026 23:02
+d577c2c8-c1e6-444d-81a6-59695442a35c,prized.university,available,65.98,77.98,high,low,6,namecheap,,,30/09/2026 03:57
 c0ab6362-9714-4986-8dc3-2d56c14da6ec,alborg.university,available,62.99,62.99,medium,low,6,namesilo,,,16/09/2026 13:12
 625e4f42-6201-400e-9bcc-2c67c040676f,disunite.university,available,19.99,81.99,medium,low,8,name.com,,,14/08/2026 11:14
 0d006f03-7e83-4ad0-8d0d-95a6e32ce823,included.university,available,19.99,81.99,high,low,8,name.com,,,22/08/2026 01:33
 9e4c2631-5212-4fcb-801b-e60a2d97748a,supportive.university,available,109.99,109.99,high,low,10,godaddy,,,28/09/2026 02:03
 9ad8bdce-b9be-4e1a-b219-9d486c7ab743,coercive.university,available,19.99,81.99,medium,low,8,name.com,,,12/08/2026 15:24
+66d5c330-5e4f-4ac4-9cab-baa3f1b34af2,indicating.university,available,49.88,49.88,medium,low,10,spaceship,,,29/09/2026 10:48
 84346bd2-bd30-4c4c-80ad-22f21cf9b172,aigret.university,available,65.98,77.98,medium,low,6,namecheap,,,17/09/2026 20:56
 50273e0c-fb4f-404f-9e27-2212df6f20ae,working.university,available,62.99,62.99,high,low,7,namesilo,,,19/09/2026 07:09
 041f24b5-ada3-42ca-b124-fe1cf0b01737,kenny.university,available,62.99,62.99,medium,low,5,namesilo,,,26/09/2026 03:38
-d3dbbcab-3ac4-48e8-9f44-53af65119b91,democrat.university,premium,78.54,78.54,high,low,8,namesilo,,,
+d3dbbcab-3ac4-48e8-9f44-53af65119b91,democrat.university,premium,68.51,68.51,high,low,8,spaceship,,,29/09/2026 13:56
 2e44767c-1432-4211-9e15-d366a61f3662,deltoid.university,available,19.99,81.99,medium,low,7,name.com,,,14/08/2026 00:50
 9c8bba01-c508-46ab-8d7e-691677640cd8,chf.university,available,10.81,49.95,medium,low,3,porkbun,,,29/09/2026 04:56
 7d7bab4f-1b54-4619-8c08-9b079bc8852b,though.university,available,62.99,62.99,medium,low,6,namesilo,,,16/09/2026 08:58
 2f8332a7-98b0-4a52-837b-1ea64fbcfcfb,teammate.university,available,19.99,,high,low,8,name.com,,,
 3a3cd8e3-d0d5-48d3-8bd3-08c5b75c7a19,tatty.university,available,19.99,81.99,medium,low,5,name.com,,,18/08/2026 06:42
 b084ceca-c56e-424a-80e1-8742efb0ab0d,sorely.university,available,65.98,77.98,medium,low,6,namecheap,,,16/09/2026 05:13
+b9194589-d5c0-49ef-902b-a7c0e6ee3a82,mushrooms.university,available,62.99,62.99,high,low,9,namesilo,,,29/09/2026 11:10
 8ce54c20-de8e-4601-8a30-fe7e566843b3,esthesia.university,available,65.98,77.98,medium,low,8,namecheap,,,17/09/2026 13:25
-67c4af1e-85cc-4c0e-8cb0-6d1f4cf19d77,luxembourg.university,available,,,high,high,10,,,,
 74e5dabd-0b30-4a79-9d76-e36fb5a0fa3d,sixth.university,available,19.99,81.99,high,low,5,name.com,,,
 191ebee8-0325-4006-92be-a61adf15993a,legendary.university,available,19.99,81.99,high,low,9,name.com,,,17/08/2026 20:13
 604900b8-3ead-46b6-9e8f-5c2e2f97e40c,netlike.university,available,62.99,62.99,medium,low,7,namesilo,,,03/09/2026 16:00
 7587c4bb-a705-40fd-8fef-e2da0de5c920,vii.university,available,19.99,81.99,high,low,3,name.com,,,
 ac2a305a-6c1b-407f-b440-ea5e748028dd,frenzied.university,available,19.99,81.99,medium,low,8,name.com,,,18/08/2026 14:21
 9981172f-b69f-455b-92c7-2cb5d5f88e5c,corinthian.university,available,19.99,81.99,high,low,10,name.com,,,13/08/2026 01:16
-033e9703-e772-4b8c-ba0e-3624f41d0c94,lexical.university,available,19.99,81.99,medium,low,7,name.com,,,23/08/2026 00:42
+033e9703-e772-4b8c-ba0e-3624f41d0c94,lexical.university,available,19.99,81.99,high,low,7,name.com,,,23/08/2026 00:42
 5a6aed3d-314d-4fb5-ac4b-c71bababb3f7,arapahoe.university,available,62.99,62.99,medium,low,8,namesilo,,,20/09/2026 00:11
 3dfaee35-4ca1-4141-acb8-07e898936267,unpaid.university,available,19.99,81.99,high,low,6,name.com,,,
 95e75fd7-f136-4570-bc4c-ab36b206258b,stand.university,available,48.2,48.2,high,low,5,cloudflare,,,29/09/2026 00:58
@@ -341,26 +375,31 @@ d595cfdc-b5f7-4aab-8d94-49810da549e6,size.university,available,49.88,49.88,high,
 af84a68f-d5aa-4450-801f-eb0fc44509a8,cornell.university,resell,,,high,low,7,,,,29/09/2026 00:29
 41e051dd-69af-4325-8ddb-6e26990630f7,alummah.university,available,62.99,62.99,medium,low,8,namesilo,,,18/09/2026 01:08
 23bbe468-98a1-4388-8a49-5e0c5496946c,budgets.university,available,48.2,48.2,medium,low,7,cloudflare,,,28/09/2026 08:37
+64a15c07-5d6d-4c2d-93a4-aa097f904716,doj.university,available,48.2,48.2,high,low,3,cloudflare,,,29/09/2026 12:03
 dcd38a3c-c773-4dc6-80d1-c485f0d3b8cb,built.university,available,62.99,62.99,high,low,5,namesilo,,,23/09/2026 10:20
 a0ff977c-412f-4bce-a5d9-33d7d85e5f04,gleam.university,available,19.99,81.99,high,low,5,name.com,,,20/08/2026 14:18
 601e421e-7e7a-4ebe-8775-172b3a8de82f,cheltenham.university,available,10.92,51.58,medium,low,10,dynadot,,,28/09/2026 12:18
 f5fa6a7b-f9bc-494a-8967-1a0118a461ed,klein.university,available,62.99,62.99,high,low,5,namesilo,,,25/09/2026 03:56
+f6e21e0e-b516-462e-9613-c8c31cbceddf,slapped.university,available,49.88,49.88,low,low,7,spaceship,,,29/09/2026 23:39
 240d144d-a32b-40ca-9c9a-dc05c7086c5b,pills.university,available,62.99,62.99,medium,low,5,namesilo,,,20/09/2026 04:26
 eecc4f48-987e-4d56-b9f9-2b6f305cbe86,leisure.university,available,10.81,49.95,high,low,7,porkbun,,,28/09/2026 12:28
 5c9bfac5-c58c-4e80-83eb-9c117a82cccd,wander.university,available,49.88,49.88,high,low,6,spaceship,,,28/09/2026 01:37
 4719d64c-ebb0-4915-a6b3-adb67675e88a,aliform.university,available,19.99,81.99,medium,low,7,name.com,,,
-6ab8e80b-5b98-4c56-851a-55b5db9711e8,invasive.university,available,19.99,81.99,medium,low,8,name.com,,,16/08/2026 23:54
+6ab8e80b-5b98-4c56-851a-55b5db9711e8,invasive.university,available,19.99,81.99,high,low,8,name.com,,,16/08/2026 23:54
 9b8a36e4-7543-4ffc-91c8-8b710d9dce43,majors.university,available,62.99,62.99,high,low,6,namesilo,,,23/09/2026 14:46
 65f2cca2-0c7a-4e74-8c61-06736b68d7b8,kuwaiti.university,available,19.99,81.99,high,low,7,name.com,,,22/08/2026 17:05
 f5744ee5-40de-4e9a-8b01-2fedc3dda948,arachnid.university,available,62.99,62.99,medium,low,8,namesilo,,,19/09/2026 23:40
 956535f7-7374-4e2b-9b19-b0bc007c2ed0,dextral.university,available,19.99,81.99,medium,low,7,name.com,,,14/08/2026 05:28
 84d28146-d68f-49d8-a5cf-a84d531afa66,canonical.university,available,19.99,81.99,high,low,9,name.com,,,11/08/2026 17:23
+c9a76e41-9343-4ee2-b16a-3c1c14bd0295,dickerson.university,available,62.99,62.99,medium,low,9,namesilo,,,29/09/2026 09:51
+75164438-d66c-42f9-9528-e677304b6bc1,restrictions.university,available,62.99,62.99,medium,low,12,namesilo,,,29/09/2026 23:44
 16420fd9-fb52-4c70-ab11-3448a5bc8bd0,consultant.university,available,49.88,49.88,high,low,10,spaceship,,,28/09/2026 19:05
+6359ffe9-2a25-41ea-ae75-f78bbdbba560,grudge.university,available,48.2,48.2,high,low,6,cloudflare,,,29/09/2026 19:05
 f3f1afa5-811a-406a-be6c-3bf35a2dfb4f,sentiments.university,available,62.99,62.99,medium,low,10,namesilo,,,17/09/2026 07:39
 6b5b68ee-e4c5-4381-891c-e1cf62484c6f,alinement.university,available,62.99,62.99,high,low,9,namesilo,,,18/09/2026 07:48
 8a23da7f-a3dd-4e78-8ac4-745b0aa81d47,sparrow.university,available,10.81,49.95,high,low,7,porkbun,,,29/09/2026 00:43
 bf42351e-b5ba-45e2-a552-35cc774b4b44,feature.university,available,65.98,77.98,high,low,7,namecheap,,,23/09/2026 13:48
-aac6f9b2-6a49-442a-9af7-c724ac2560ac,georges.university,available,19.99,81.99,medium,low,7,name.com,,,25/09/2026 15:05
+aac6f9b2-6a49-442a-9af7-c724ac2560ac,georges.university,available,19.99,81.99,high,low,7,name.com,,,25/09/2026 15:05
 9abf076b-4dd9-438c-8c54-9b9a2cd3d1c4,insidious.university,available,19.99,81.99,medium,low,9,name.com,,,22/08/2026 07:05
 01e18f15-dd84-42ea-a41e-64729d97b2a4,recognized.university,available,62.99,62.99,high,low,10,namesilo,,,21/09/2026 15:28
 26893d5e-4cfc-4f3f-b194-5aad706a1731,peg.university,available,10.81,49.95,high,low,3,porkbun,,,27/09/2026 15:02
@@ -370,8 +409,11 @@ b2dc0673-df57-4915-a3c0-39a2bdbc7102,papa.university,available,62.99,62.99,high,
 489856bf-8f78-4f23-96fd-181ec6dde765,courier.university,available,65.98,77.98,medium,low,7,namecheap,,,28/09/2026 18:49
 ea1d304c-0111-415c-8946-c4fc3dfd0de1,truculent.university,available,65.98,77.98,medium,low,9,namecheap,,,11/09/2026 20:29
 54e54312-2d2c-4326-831f-18b171c1f784,challenged.university,available,49.88,49.88,medium,low,10,spaceship,,,28/09/2026 11:21
+90f18bc0-ba40-4957-8743-0dbe61211eb0,accelerated.university,available,49.88,49.88,high,low,11,spaceship,,,29/09/2026 14:30
 5ca40ffb-f722-42e7-9afd-85330bdee969,improperly.university,available,62.99,62.99,medium,low,10,namesilo,,,15/09/2026 04:32
+2a161d70-963e-45eb-bf7c-cb0fe02ed04e,paramedics.university,available,49.88,49.88,medium,low,10,spaceship,,,30/09/2026 00:40
 306a42c6-9578-42e4-99ea-d1993df1889e,showering.university,available,19.99,,high,low,9,name.com,,,
+780f8694-1de3-46fd-aaa7-791465d87d5a,copying.university,available,49.88,49.88,high,low,7,spaceship,,,30/09/2026 01:06
 79600361-2491-4fef-a221-9e79ddb50478,palmerston.university,available,62.99,62.99,medium,low,10,namesilo,,,28/09/2026 16:40
 3e5309d4-804a-40c0-8f08-748b06e40c62,serb.university,available,62.99,62.99,high,low,4,namesilo,,,10/09/2026 04:35
 6e11ecea-b74b-453c-8a0c-89adf6586453,asahikawa.university,available,62.99,62.99,medium,low,9,namesilo,,,20/09/2026 12:44
@@ -383,15 +425,16 @@ baf6c10b-b2a2-4c6e-8027-bfafd248c73c,discrete.university,available,19.99,81.99,h
 ce0b62c8-271f-4cae-af9f-5bc6e5c51e19,sworn.university,available,65.98,77.98,high,low,5,namecheap,,,27/09/2026 04:14
 5ecf01d4-f8d0-4439-8775-3fe5c304bbcf,cinematic.university,available,19.99,81.99,high,low,9,name.com,,,12/08/2026 08:13
 a97a503e-428e-4985-aed6-73e950acaa64,governable.university,available,19.99,81.99,medium,low,10,name.com,,,12/08/2026 23:44
-abcaf209-392f-4b5a-b90a-c36b308a12f0,mayoral.university,available,19.99,81.99,medium,low,7,name.com,,,24/08/2026 18:00
+abcaf209-392f-4b5a-b90a-c36b308a12f0,mayoral.university,available,19.99,81.99,high,low,7,name.com,,,24/08/2026 18:00
 e3af54f4-13e9-4f01-9fb8-fdaa89d7e1dc,recurrent.university,available,62.99,62.99,high,low,9,namesilo,,,09/09/2026 11:57
 e4be7b72-bf25-4537-99e2-087f77b743d5,using.university,available,19.99,,high,low,5,name.com,,,
 ddc8adea-831e-443f-a1a4-ab35fb0f10e1,pdf.university,available,62.99,62.99,high,medium,3,namesilo,,,27/09/2026 06:22
-b4f70717-2849-4d3a-b1e5-e35987c9a19a,critic.university,available,19.99,,high,low,6,name.com,,,
+b4f70717-2849-4d3a-b1e5-e35987c9a19a,critic.university,available,48.2,48.2,high,low,6,cloudflare,,,29/09/2026 12:01
 4379f30f-ff4d-4239-afb6-0dfe3fc17a22,pins.university,available,62.99,62.99,high,low,4,namesilo,,,18/09/2026 08:25
 ae197b76-6177-4e51-8176-12b66218a983,sycophant.university,available,65.98,77.98,medium,low,9,namecheap,,,20/09/2026 15:34
 24888a39-2924-49de-9414-be491977936a,prudent.university,available,62.99,62.99,high,low,7,namesilo,,,27/09/2026 07:54
 3a09b429-3e4c-4685-9610-ca782f5f1482,somebody.university,available,62.99,62.99,high,low,8,namesilo,,,25/09/2026 17:05
+9c7e5701-73a9-4fe4-bbec-5d070e7c9ae1,asme.university,available,65.98,77.98,high,low,4,namecheap,,,29/09/2026 21:46
 971e3d09-da3e-43c9-9308-53c0d7157d9b,males.university,available,62.99,62.99,medium,low,5,namesilo,,,18/09/2026 00:29
 e77a2985-ea9c-416c-bae1-ba3c5a346a85,bangor.university,available,62.99,62.99,high,low,6,namesilo,,,22/09/2026 01:58
 19d8ff61-9e91-41f0-9d99-201dbe4a316a,occasionally.university,available,62.99,62.99,medium,low,12,namesilo,,,27/09/2026 17:20
@@ -400,10 +443,11 @@ f6d01db4-568f-4d40-b847-c8cdbe08dcdf,descending.university,available,65.98,77.98
 e8d32938-faef-447a-aa88-295285adeb26,petulant.university,available,19.99,81.99,medium,low,8,name.com,,,22/08/2026 10:27
 4e25dda4-d616-4c6f-bb19-44f9cee41ebb,auxiliary.university,available,19.99,81.99,high,low,9,name.com,,,
 2c0369ec-2549-47d8-9a84-ab3f60f79163,gill.university,available,65.98,77.98,high,low,4,namecheap,,,24/09/2026 08:09
+8fc6ead2-848f-4790-aa89-b1aa6e9842d4,ultraviolet.university,available,49.88,49.88,high,low,11,spaceship,,,30/09/2026 03:39
 ed808b28-6fbc-49be-be22-76c205a7057d,tasteful.university,available,62.99,62.99,high,low,8,namesilo,,,11/09/2026 09:00
 4a57cf34-21cd-45ce-8848-7e7e1a9959a4,fulgurant.university,available,19.99,81.99,medium,low,9,name.com,,,13/08/2026 18:59
 25c043dc-15e5-4202-848d-2c071c06ec50,meyers.university,available,49.88,49.88,high,low,6,spaceship,,,27/09/2026 20:50
-d62b7574-dcd3-43cd-b3f8-77c3efe20d4b,theban.university,available,62.99,62.99,medium,low,6,namesilo,,,11/09/2026 12:35
+d62b7574-dcd3-43cd-b3f8-77c3efe20d4b,theban.university,available,62.99,62.99,high,low,6,namesilo,,,11/09/2026 12:35
 4f34e3bc-8c9a-467d-a5c1-f6ee54e5c760,bulging.university,available,19.99,81.99,medium,low,7,name.com,,,09/08/2026 13:41
 dd6bd37a-0b58-4362-b28b-61e34338d7e9,harquebus.university,available,62.99,62.99,medium,low,9,namesilo,,,20/09/2026 08:40
 34aee08a-fe5b-4607-96df-ff92c92281ea,versus.university,available,49.88,49.88,high,low,6,spaceship,,,27/09/2026 17:11
@@ -414,17 +458,19 @@ d82ca589-6ba6-45e6-b43a-e14cff12f5bc,beaner.university,available,65.98,77.98,med
 3661dc31-9924-4de8-9107-7090408fb438,idler.university,available,19.99,81.99,medium,low,5,name.com,,,14/08/2026 14:10
 20094a8c-db42-4b35-a93b-5154e4afc4f0,michael.university,available,62.99,62.99,high,medium,7,namesilo,,,25/09/2026 09:21
 c2c0dff7-acf8-4523-8b1b-4695b8020704,ingrown.university,available,19.99,81.99,medium,low,7,name.com,,,22/08/2026 04:56
+8dc214bd-eb2b-42df-ad98-8edf7d321d25,dormitory.university,available,48.2,48.2,high,low,9,cloudflare,,,29/09/2026 12:05
 9a0cff9c-b012-4d8d-98ca-32d146f25dab,peopled.university,available,62.99,62.99,medium,low,7,namesilo,,,08/09/2026 15:32
-c13ca446-a355-4324-a982-bf26285e26b2,tongue.university,available,19.99,,high,low,6,name.com,,,
+c13ca446-a355-4324-a982-bf26285e26b2,tongue.university,available,65.98,77.98,high,low,6,namecheap,,,29/09/2026 20:52
 391e9b46-7fe8-41a3-af5d-3935a94369d2,agonus.university,available,65.98,77.98,medium,low,6,namecheap,,,17/09/2026 18:59
 5228c5c3-b695-4f73-80a3-74a4c989fe23,petition.university,available,62.99,62.99,high,low,8,namesilo,,,28/09/2026 10:38
-9a1f6c51-7c4e-4fc3-87db-ed9117480b79,base.university,resell,,,high,medium,4,Dynadot Inc,24/06/2026 17:00,24/06/2027 17:00,26/09/2026 04:17
-d95346be-40e5-4fec-bcef-cbde434a2271,lupine.university,available,19.99,81.99,medium,low,6,name.com,,,24/08/2026 11:39
+9a1f6c51-7c4e-4fc3-87db-ed9117480b79,base.university,resell,,,high,medium,4,Dynadot Inc,24/06/2026 17:00,24/06/2027 17:00,29/09/2026 17:32
+d95346be-40e5-4fec-bcef-cbde434a2271,lupine.university,available,19.99,81.99,high,low,6,name.com,,,24/08/2026 11:39
 94feed03-0134-44b0-85b2-87ef4248f094,dicky.university,available,19.99,81.99,medium,low,5,name.com,,,14/08/2026 06:27
 ad00cb2b-117f-41a7-8049-877d13a6cedd,lynn.university,available,65.98,77.98,high,low,4,namecheap,,,27/09/2026 07:20
 eb6dbf50-6fa3-4527-9ba7-02f91de09bf2,paying.university,available,62.99,62.99,high,low,6,namesilo,,,24/09/2026 22:11
 95842ee5-d827-40dd-9c33-822abcfd7e1f,junction.university,available,49.88,49.88,high,low,8,spaceship,,,28/09/2026 06:09
 fbd6ea31-c70d-461d-9fc1-2f858940fbd7,cologne.university,premium,118.8,118.8,high,low,7,namesilo,,,24/09/2026 16:20
+98c353ec-a3e7-413c-a19f-291ea1155ade,substantially.university,available,49.88,49.88,medium,low,13,spaceship,,,29/09/2026 21:22
 959aa9a3-48af-468c-ac34-1c242c34e48d,copernican.university,available,19.99,81.99,high,low,10,name.com,,,13/08/2026 00:26
 36aa5c20-d7f0-430a-9f05-7adf2aa2aecf,jutland.university,available,62.99,62.99,medium,low,7,namesilo,,,22/09/2026 15:18
 017017e5-9d27-4c0e-b775-a8c691be38c0,infrequent.university,available,19.99,81.99,medium,low,10,name.com,,,22/08/2026 04:50
@@ -434,6 +480,7 @@ b129733a-d5d5-4b14-a439-02847e92be50,sameness.university,available,19.99,81.99,m
 cfd2fcfc-4264-47c4-bcb2-a6731a4ebfc2,armistice.university,available,65.98,77.98,medium,low,9,namecheap,,,20/09/2026 07:13
 e2031786-426a-4efe-9b3d-c918dad112f5,unsociable.university,available,19.99,81.99,medium,low,10,name.com,,,12/09/2026 20:09
 438577da-f883-41ea-abb4-bc1ff14d3bbe,iso.university,available,,,high,high,3,,,,
+ada5f78c-ecf7-416f-8303-662b7a679d00,sylvester.university,available,62.99,62.99,high,low,9,namesilo,,,29/09/2026 15:28
 f11be64f-3c87-4ec1-b0ac-80ef46ac6af0,mikey.university,available,19.99,,high,low,5,name.com,,,
 8a898294-9a25-4aa5-bb03-ab05c0d18663,alehouse.university,available,62.99,62.99,medium,low,8,namesilo,,,18/09/2026 05:01
 2879cecd-488d-449d-95d1-7e7834bbd353,beagle.university,available,65.98,77.98,high,low,6,namecheap,,,22/09/2026 19:37
@@ -450,16 +497,17 @@ b9fb7715-8a54-4fed-9ee4-35f9079c4984,cloaks.university,available,62.99,62.99,med
 116be6a5-3825-4e50-8093-ccf056320102,tray.university,available,49.88,49.88,medium,low,4,spaceship,,,28/09/2026 11:01
 b5de2d15-3652-430c-a7ad-d0e861c32331,andre.university,available,48.2,48.2,high,low,5,cloudflare,,,28/09/2026 04:04
 bb691c11-cf93-41dc-9940-0fac5e45a4db,actinoid.university,available,19.99,81.99,medium,low,8,name.com,,,
-387a18c4-9eae-47e6-af92-e1da9c2867dc,gnostic.university,available,19.99,81.99,medium,low,7,name.com,,,20/08/2026 15:47
+387a18c4-9eae-47e6-af92-e1da9c2867dc,gnostic.university,available,19.99,81.99,high,low,7,name.com,,,20/08/2026 15:47
 035079cf-30eb-41a1-bd2e-9bbc61cdeaa1,his.university,available,77.98,,high,low,3,namecheap,,,
 ddfe38af-c863-4d72-ac08-b057a5216d9c,railroad.university,available,62.99,62.99,high,low,8,namesilo,,,24/09/2026 23:46
 fc5cd2f6-c48e-4146-920f-c063e5ea0e0f,loos.university,available,65.98,77.98,medium,low,4,namecheap,,,17/09/2026 09:32
 6a685fa8-ad6e-40c4-a8b8-09a8545678b3,blether.university,available,62.99,62.99,medium,low,7,namesilo,,,24/09/2026 04:49
 ad19ba57-6484-4260-9dd8-19b93d389546,sterilization.university,available,62.99,62.99,high,low,13,namesilo,,,16/09/2026 21:54
-cc46ad96-cd51-48d6-bc27-92e7b7cd574d,ideally.university,available,49.88,49.88,medium,low,7,spaceship,,,28/09/2026 15:16
+cc46ad96-cd51-48d6-bc27-92e7b7cd574d,ideally.university,available,49.88,49.88,high,low,7,spaceship,,,28/09/2026 15:16
+f1bc23cd-0adb-4339-92bf-b4b59578228a,mev.university,available,65.98,77.98,high,low,3,namecheap,,,29/09/2026 10:55
 2c3840da-23b7-48c4-b43f-8f9ef88bd727,banneret.university,available,62.99,62.99,medium,low,8,namesilo,,,22/09/2026 02:54
 82f7395d-fb22-4539-938e-8ee09f33ea27,damning.university,available,19.99,81.99,medium,low,7,name.com,,,13/08/2026 16:33
-15151b34-f397-4170-b048-0cf9ae22adb4,tapering.university,available,19.99,81.99,medium,low,8,name.com,,,14/08/2026 21:50
+15151b34-f397-4170-b048-0cf9ae22adb4,tapering.university,available,19.99,81.99,high,low,8,name.com,,,14/08/2026 21:50
 4d383d9f-2d13-4840-aa4f-c991adf2392f,abbe.university,available,62.99,62.99,medium,low,4,namesilo,,,16/09/2026 14:22
 26710e76-382b-4898-94d1-b8924f6c7e06,dogsledding.university,available,62.99,62.99,medium,low,11,namesilo,,,20/09/2026 01:02
 040a073a-cb1e-4886-a74e-d5201eeae559,curst.university,available,19.99,81.99,medium,low,5,name.com,,,13/08/2026 11:34
@@ -469,12 +517,12 @@ d75e4cf2-0dd3-4a33-a3d7-4e7d4a328120,assured.university,available,19.99,81.99,hi
 556ced1a-0fbd-48f0-811b-09c62b6ff724,gerry.university,available,62.99,62.99,medium,low,5,namesilo,,,25/09/2026 15:41
 36c70e34-990c-491d-bccc-ca8e95d45157,reservations.university,available,62.99,62.99,medium,low,12,namesilo,,,17/09/2026 23:30
 2b6596bf-449c-4fd4-9213-5fbc4cbb4eec,aligning.university,available,19.99,81.99,medium,low,8,name.com,,,
-d5032c84-eae0-4a12-ba6b-55d074f00926,slay.university,available,62.99,62.99,medium,low,4,namesilo,,,04/09/2026 00:55
+d5032c84-eae0-4a12-ba6b-55d074f00926,slay.university,available,62.99,62.99,high,low,4,namesilo,,,04/09/2026 00:55
 ae648636-e6b1-4a73-80d2-72ea0b40d347,cheating.university,available,19.99,81.99,medium,low,8,name.com,,,12/08/2026 03:32
-c18dba20-e710-462e-a817-2a20feb9a353,childhood.university,available,19.99,,high,low,9,name.com,,,
-e621d793-1c69-4f53-98a6-45b41a3b7380,quiz.university,available,62.99,62.99,high,low,4,namesilo,,,27/09/2026 02:23
+c18dba20-e710-462e-a817-2a20feb9a353,childhood.university,available,62.99,62.99,high,low,9,namesilo,,,29/09/2026 08:38
+e621d793-1c69-4f53-98a6-45b41a3b7380,quiz.university,available,48.2,48.2,high,low,4,cloudflare,,,29/09/2026 14:24
 5cc7db5c-c1a0-45c6-8d5c-4669251480b2,oppenheimer.university,available,62.99,62.99,high,low,11,namesilo,,,28/09/2026 21:40
-eede6166-405d-413d-a3c7-a4adf38e41cb,camera.university,available,19.99,,high,low,6,name.com,,,
+eede6166-405d-413d-a3c7-a4adf38e41cb,camera.university,available,62.99,62.99,high,low,6,namesilo,,,29/09/2026 06:00
 4ad2782c-e282-4f57-803c-a243ce37a197,cantaloup.university,available,62.99,62.99,high,low,9,namesilo,,,24/09/2026 12:08
 1fcbb583-af5c-4f3b-a9f9-e0ed5a2d079a,there.university,available,49.88,49.88,high,low,5,spaceship,,,28/09/2026 12:57
 656ee7b2-7b03-4ba0-9720-911f2ab049d8,rnas.university,available,62.99,62.99,low,low,4,namesilo,,,29/09/2026 05:15
@@ -486,14 +534,16 @@ e07c19a6-efdf-4ce1-93d9-51fb42aeb8bd,bris.university,available,62.99,62.99,high,
 fc519e8a-5f13-4235-8a72-8ffd6994f7c1,sweetener.university,available,62.99,62.99,high,low,9,namesilo,,,21/09/2026 19:45
 ac05143b-6b81-4ec8-aeb7-2ce321f686a0,parade.university,available,62.99,62.99,high,low,6,namesilo,,,25/09/2026 09:47
 a5ddf60e-f37c-4864-809a-3093a2913d99,revolutions.university,available,62.99,62.99,medium,low,11,namesilo,,,20/09/2026 15:34
+85b2ece6-bdd1-4a6e-9e2c-6f24581f6953,horsepower.university,available,49.88,49.88,high,low,10,spaceship,,,29/09/2026 19:06
 cbefc032-376e-410d-8e40-0d217f96d6c1,arng.university,available,65.98,77.98,medium,low,4,namecheap,,,20/09/2026 08:02
+23ec4927-89b3-44b7-bbe7-352aba2b6eeb,astronomical.university,available,48.2,48.2,high,low,12,cloudflare,,,29/09/2026 14:28
 36c89c58-f0cc-4e60-8073-822d2347435c,redden.university,available,19.99,81.99,medium,low,6,name.com,,,13/08/2026 06:34
 3eecbc3c-e09d-462f-92ba-a3503feaa86a,sophisticated.university,available,19.99,,high,low,13,name.com,,,
 669ec4d0-ef74-4e33-95f1-65f90842b0ca,psychical.university,available,62.99,62.99,medium,low,9,namesilo,,,09/09/2026 05:07
 5246cb92-9849-4b5f-8989-55073cbec891,uncaused.university,available,19.99,81.99,medium,low,8,name.com,,,18/08/2026 12:45
 5e555ff5-6110-4e3e-b57c-360832ad1205,slater.university,available,48.2,48.2,medium,low,6,cloudflare,,,28/09/2026 10:57
 f697b523-e926-45e6-9234-836b9d92facc,amor.university,available,62.99,62.99,high,low,4,namesilo,,,18/09/2026 22:37
-5a3600ac-8ac0-49fe-8350-bdeca17b8938,plague.university,available,49.88,49.88,medium,low,6,spaceship,,,29/09/2026 02:58
+5a3600ac-8ac0-49fe-8350-bdeca17b8938,plague.university,available,49.88,49.88,high,low,6,spaceship,,,29/09/2026 02:58
 52ae71a5-1209-428b-b74e-2d196b57c1a5,provides.university,available,62.99,62.99,medium,low,8,namesilo,,,16/09/2026 11:52
 d6f1b1e6-d888-41ac-abd0-74a1e5999a21,burp.university,available,62.99,62.99,high,low,4,namesilo,,,23/09/2026 04:37
 9f3e0669-95b6-4046-8e61-6dda1862fe36,batna.university,available,62.99,62.99,medium,low,5,namesilo,,,22/09/2026 14:06
@@ -501,7 +551,7 @@ e96dd66e-46e9-4c6a-bcf8-697f7edd462f,barron.university,available,62.99,62.99,hig
 f8559440-cc09-490a-bebc-9eb19939577d,findings.university,available,10.81,49.95,high,low,8,porkbun,,,28/09/2026 19:12
 9ed70d49-20ea-42fd-8b15-758043d6dc61,lunger.university,available,19.99,81.99,medium,low,6,name.com,,,12/08/2026 23:06
 6f810064-5db8-4440-91b8-704b3dbea15e,lactic.university,available,62.99,62.99,medium,low,6,namesilo,,,04/09/2026 08:23
-e4d3a07f-0126-45bc-8d80-e37faa262154,benzine.university,available,65.98,77.98,medium,low,7,namecheap,,,23/09/2026 08:53
+e4d3a07f-0126-45bc-8d80-e37faa262154,benzine.university,available,65.98,77.98,high,low,7,namecheap,,,23/09/2026 08:53
 513b6b63-f26f-4fb1-b881-294efcacb097,crossword.university,available,62.99,62.99,high,low,9,namesilo,,,24/09/2026 19:41
 91b72d61-dbff-4c81-8cce-e641fed0c5ed,barberry.university,available,62.99,62.99,medium,low,8,namesilo,,,22/09/2026 04:51
 6eddb649-c9f7-4495-a861-bf6b01fe46d2,veal.university,available,19.99,,medium,low,4,name.com,,,
@@ -513,7 +563,7 @@ cb612aa1-021f-40bf-b375-4e83a8fbdd04,cernuous.university,available,19.99,81.99,m
 ddf63218-bd87-4367-a2bd-b81663fa73f0,gentile.university,available,19.99,81.99,high,low,7,name.com,,,18/08/2026 21:53
 f983c12f-237e-49d5-83ff-149735dcc0b2,fleer.university,available,19.99,81.99,low,low,5,name.com,,,18/08/2026 17:47
 74b0fa46-1ff0-4a62-9348-92466cbc7cc8,bitstock.university,available,62.99,62.99,medium,low,8,namesilo,,,23/09/2026 22:47
-f65c8e5f-4952-49a7-b320-4f64314f1d42,disrespect.university,available,19.99,,high,low,10,name.com,,,
+f65c8e5f-4952-49a7-b320-4f64314f1d42,disrespect.university,available,62.99,62.99,high,low,10,namesilo,,,29/09/2026 15:36
 e41e731a-4316-4c36-9520-8cb177669fa2,unsold.university,available,65.98,77.98,medium,low,6,namecheap,,,12/09/2026 20:17
 ffe551db-496c-4d58-a44f-aba1a370262f,feckless.university,available,19.99,81.99,medium,low,8,name.com,,,18/08/2026 00:31
 87035078-7f0b-4266-adf3-c50b97520965,scads.university,available,62.99,62.99,high,low,5,namesilo,,,14/09/2026 23:36
@@ -539,9 +589,10 @@ e2d75351-212c-4075-80d8-b7f14fba5ce2,unsent.university,available,65.98,77.98,med
 132467c3-85d4-4976-928d-ee3c415d9015,snyder.university,available,19.99,81.99,high,low,6,name.com,,,25/09/2026 18:53
 9a2bd71c-45f7-4f1b-bf0c-6909d2842dde,meets.university,available,62.99,62.99,high,low,5,namesilo,,,27/09/2026 06:26
 caceac92-1f2b-49b3-ba82-1889dbc0e3d7,september.university,available,19.99,,high,low,9,name.com,,,
+be46e72d-5959-4783-89b9-7a8c095d45e8,survives.university,available,10.92,51.58,medium,low,8,dynadot,,,29/09/2026 17:53
 6027285c-2208-4d7a-9039-72b421fb8c64,korean.university,available,19.99,81.99,high,low,6,name.com,,,22/08/2026 17:02
 d7a6bc9e-58c5-40a4-9d71-d84e302b65b9,injured.university,available,19.99,81.99,high,low,7,name.com,,,22/08/2026 05:38
-b453a43f-14a9-4a03-8d5e-367ff1e204f8,mccartney.university,available,49.88,49.88,medium,low,9,spaceship,,,28/09/2026 06:23
+b453a43f-14a9-4a03-8d5e-367ff1e204f8,mccartney.university,available,49.88,49.88,high,low,9,spaceship,,,28/09/2026 06:23
 a8feaf0c-b422-43a4-bf60-ff582f29b7f4,yogi.university,available,62.99,62.99,high,low,4,namesilo,,,23/09/2026 10:04
 2fd12b13-9717-4a58-ae9e-84e734d2d088,zaman.university,available,62.99,62.99,high,low,5,namesilo,,,18/09/2026 03:15
 c00a4f76-043e-48cc-a6d7-97828a9119f9,handily.university,available,62.99,62.99,medium,low,7,namesilo,,,14/09/2026 08:35
@@ -583,15 +634,18 @@ e8fb50e4-644e-4395-a565-f01dbbdfaa5b,lunches.university,available,62.99,62.99,me
 a56e03ee-a13b-4429-8c75-f6df611412d2,coyol.university,available,62.99,62.99,medium,low,5,namesilo,,,17/09/2026 03:38
 7455c6d5-b5ce-4206-8ba3-1707ef22bcde,argive.university,available,19.99,81.99,medium,low,6,name.com,,,06/08/2026 18:27
 6a5d71c9-733e-4199-a718-09fb15f25211,agnomen.university,available,62.99,62.99,medium,low,7,namesilo,,,17/09/2026 18:44
+5a5e4759-7cbe-4f25-943a-f1c9cbde5aaa,satin.university,available,62.99,62.99,high,low,5,namesilo,,,30/09/2026 02:46
 7b58e25d-e128-400a-8bb8-11b0c1d3e552,aalii.university,available,62.99,62.99,medium,low,5,namesilo,,,16/09/2026 13:12
 02769a39-8564-409d-9086-842fc0c01059,vivid.university,available,62.99,62.99,high,low,5,namesilo,,,25/09/2026 13:33
 fb50947c-5d8b-41bb-8b41-6a1f1bdb524d,zhou.university,available,62.99,62.99,high,low,4,namesilo,,,25/09/2026 22:14
 e35b445f-5bc0-4ffc-98ec-65a372ff5ab4,bohrium.university,available,62.99,62.99,medium,low,7,namesilo,,,20/09/2026 22:07
 bea09e18-5d6d-49ee-9755-70397eee6151,epiphyte.university,available,62.99,62.99,medium,low,8,namesilo,,,17/09/2026 13:14
+23275889-eadb-43af-9145-c78e2792c4a3,broward.university,available,49.88,49.88,medium,low,7,spaceship,,,29/09/2026 22:39
+6edc6c70-5672-499a-824f-b55ecdf53348,turkestan.university,available,48.2,48.2,medium,low,9,cloudflare,,,30/09/2026 03:05
 24ec04be-fa90-4ede-b1ea-cfdbf9d99772,session.university,available,48.2,48.2,high,low,7,cloudflare,,,28/09/2026 17:16
 84391528-3ae5-4015-a032-d762d104ada7,blat.university,available,19.99,81.99,medium,low,4,name.com,,,10/08/2026 13:38
 c6cbedc2-ddec-443d-85de-21436f4221b5,grands.university,available,62.99,62.99,medium,low,6,namesilo,,,20/09/2026 04:57
-d003a3e9-558a-402a-b373-d74ea14f29bc,criticise.university,available,19.99,,medium,low,9,name.com,,,
+d003a3e9-558a-402a-b373-d74ea14f29bc,criticise.university,available,19.99,,high,low,9,name.com,,,
 3501d1c0-a59b-4ad8-bfe1-8d89192a3624,viewable.university,available,62.99,62.99,high,low,8,namesilo,,,13/09/2026 05:37
 0ac8d7bc-9a65-4ad2-9960-0ac663b50c60,friendless.university,available,19.99,81.99,medium,low,10,name.com,,,18/08/2026 15:33
 a7accd76-ef73-4cf9-9911-58b6813df5ef,herd.university,available,62.99,62.99,high,low,4,namesilo,,,24/09/2026 19:45
@@ -608,13 +662,16 @@ dc8d8b0a-ab2c-4d2c-b868-58fc7b1f25d4,housebound.university,available,19.99,81.99
 4f920fd9-1f69-4d7d-9c32-0c8e5783a7b4,bets.university,available,19.99,,high,low,4,name.com,,,
 2a24fe79-a6c2-44f5-b48c-623fc6e2b6b9,bandeau.university,available,62.99,62.99,medium,low,7,namesilo,,,22/09/2026 01:04
 306b8c34-4ef1-4291-bbcf-f6d3716f1d70,avicenna.university,available,62.99,62.99,high,low,8,namesilo,,,16/09/2026 18:41
+b9a55642-e3a5-42f4-a9e9-45a216b8fa5d,lars.university,available,62.99,62.99,high,low,4,namesilo,,,29/09/2026 09:31
+a7dd6906-b59e-4fd1-9db3-7651db741e00,disciples.university,available,48.2,48.2,high,low,9,cloudflare,,,29/09/2026 16:57
 1d577445-2a17-4719-95da-b2e30e18e5fc,user.university,available,62.99,62.99,high,medium,4,namesilo,,,25/09/2026 00:16
-e8c1e8a1-0aa7-43d2-9d6d-1d040235d78b,sixpenny.university,available,19.99,81.99,medium,low,8,name.com,,,10/09/2026 09:06
+e8c1e8a1-0aa7-43d2-9d6d-1d040235d78b,sixpenny.university,available,19.99,81.99,high,low,8,name.com,,,10/09/2026 09:06
 59177d98-2453-45f8-b5f3-336305eb0d92,bespoken.university,available,19.99,81.99,medium,low,8,name.com,,,09/08/2026 17:31
 0734779d-4c47-4974-9bd0-a6bddc77abf7,hans.university,available,19.99,,high,low,4,name.com,,,
-0014d143-2555-4d5a-af30-175824857280,endurance.university,available,19.99,,high,low,9,name.com,,,
+0014d143-2555-4d5a-af30-175824857280,endurance.university,available,48.2,48.2,high,low,9,cloudflare,,,29/09/2026 18:12
 5786c799-4161-43b7-9bac-085501ad7fd1,pine.university,available,10.92,51.58,high,low,4,dynadot,,,28/09/2026 02:55
-8a05409d-e74a-4b06-b18e-5dee1d642a7e,basilica.university,available,19.99,81.99,medium,low,8,name.com,,,22/09/2026 10:49
+8caabcf7-5bac-4051-8b92-103fe2f31b1c,oleg.university,available,49.88,49.88,high,low,4,spaceship,,,29/09/2026 17:51
+8a05409d-e74a-4b06-b18e-5dee1d642a7e,basilica.university,available,19.99,81.99,high,low,8,name.com,,,22/09/2026 10:49
 051f0a57-cf56-436c-a348-2c1479171a2d,multilevel.university,available,62.99,62.99,medium,low,10,namesilo,,,03/09/2026 10:46
 cb6e5347-c715-4222-9042-0f29f09e77ea,americium.university,available,62.99,62.99,medium,low,9,namesilo,,,18/09/2026 15:35
 4cdf5983-7e9a-494e-b079-05bd9e3d5480,pureblood.university,available,62.99,62.99,medium,low,9,namesilo,,,08/09/2026 13:00
@@ -622,23 +679,28 @@ cb6e5347-c715-4222-9042-0f29f09e77ea,americium.university,available,62.99,62.99,
 8a1f9450-ac1d-4402-80e3-867a44a61c25,indirect.university,available,19.99,81.99,high,low,8,name.com,,,12/08/2026 16:43
 3b42d6f8-c3a1-41fd-a067-d8262f571076,sensed.university,available,62.99,62.99,high,low,6,namesilo,,,08/09/2026 16:07
 9f1cf638-c019-4385-b789-6793d333796b,gallic.university,available,19.99,81.99,medium,low,6,name.com,,,18/08/2026 15:02
+e382674b-6004-44da-81a9-adefdc66eb82,sacramento.university,premium,220,220,high,low,10,dynadot,,,29/09/2026 18:11
 ebc77d5d-10d3-4b6a-b069-5f4510acc32e,netted.university,available,62.99,62.99,medium,low,6,namesilo,,,03/09/2026 16:02
 ae3728a5-3d82-4ab4-b4f0-9a65e18dcfd2,nonverbal.university,available,65.98,77.98,medium,low,9,namecheap,,,03/09/2026 21:00
 238283f9-31bc-4229-86d1-e6ba61ac6fdc,lent.university,available,48.2,48.2,high,low,4,cloudflare,,,28/09/2026 14:42
 0ef348af-dba2-4413-a8de-99f60dcd03bc,bosses.university,available,62.99,62.99,medium,low,6,namesilo,,,18/09/2026 05:55
 8b8180eb-1d60-478d-84bb-97c5efdb8df3,zooming.university,available,19.99,,high,low,7,name.com,,,
-07fbb706-b28c-4a4c-9b73-098ac28cc4f9,lan.university,available,19.99,,high,low,3,name.com,,,
+1ba872b0-c070-4565-926e-a0869aa02f31,petals.university,available,49.88,49.88,medium,low,6,spaceship,,,29/09/2026 17:41
+07fbb706-b28c-4a4c-9b73-098ac28cc4f9,lan.university,available,49.88,49.88,high,low,3,spaceship,,,30/09/2026 02:02
 bad76a47-09d7-4e18-a1aa-9941c4c6ce23,skinner.university,available,62.99,62.99,high,low,7,namesilo,,,21/09/2026 11:52
 b1ad11ec-4c47-40cf-9a91-f38ac38c183e,subaltern.university,available,19.99,81.99,medium,low,9,name.com,,,22/08/2026 14:29
 8822255a-0884-4e6e-97a9-b8ddfc58d798,jose.university,available,49.88,49.88,medium,low,4,spaceship,,,28/09/2026 11:51
+decdda31-4b5e-4deb-84e8-21cec1a50062,crater.university,available,49.88,49.88,medium,low,6,spaceship,,,29/09/2026 06:27
+54dee515-e18b-4059-a769-094db8df9b43,eel.university,available,62.99,62.99,high,low,3,namesilo,,,30/09/2026 01:28
 479108be-1794-4672-bfbe-3725af6fd89b,recycled.university,available,19.99,,high,low,8,name.com,,,
 f5d26aa4-b898-4589-a164-1402ac665f2c,acerola.university,available,62.99,62.99,medium,low,7,namesilo,,,16/09/2026 23:42
 a288a3ff-ae85-48fa-866f-66afd3b1cc7e,claptrap.university,available,62.99,62.99,medium,low,8,namesilo,,,24/09/2026 03:39
 a65479f1-4cae-4b2f-8a5c-2ab6a3a20e7b,sloane.university,available,62.99,62.99,high,low,6,namesilo,,,28/09/2026 16:12
 60ee04bc-0233-4ee3-9be8-7e8ea8ba381b,frightened.university,available,19.99,81.99,medium,low,10,name.com,,,18/08/2026 15:37
-30f555d1-178a-46ab-b7a7-9c1c1b95500f,malayan.university,available,19.99,81.99,medium,low,7,name.com,,,24/08/2026 13:44
+30f555d1-178a-46ab-b7a7-9c1c1b95500f,malayan.university,available,19.99,81.99,high,low,7,name.com,,,24/08/2026 13:44
 3a690c52-2897-484a-979c-b6c922dd78f4,searches.university,available,62.99,62.99,medium,low,8,namesilo,,,20/09/2026 07:30
-285cb0d3-cc80-467f-aa47-08382f6c0a81,graph.university,available,19.99,,high,low,5,name.com,,,
+98f3aae7-0ddb-4d85-bc00-c64c96c362a0,albums.university,available,62.99,62.99,low,low,6,namesilo,,,29/09/2026 05:39
+285cb0d3-cc80-467f-aa47-08382f6c0a81,graph.university,available,49.88,49.88,high,low,5,spaceship,,,29/09/2026 21:30
 638e0c3c-3445-4331-bb33-09d463cb05d6,groovy.university,available,19.99,81.99,high,low,6,name.com,,,08/08/2026 12:35
 75e2e59c-ee7c-4289-a428-0395eb4020ae,convicted.university,available,48.2,48.2,medium,low,9,cloudflare,,,27/09/2026 23:23
 86990387-2bd7-4979-bee0-3bde1a4c5856,shrubby.university,available,19.99,81.99,medium,low,7,name.com,,,18/08/2026 17:15
@@ -648,7 +710,7 @@ b5a15b60-7a30-44ff-b7c9-6528f3403ef6,rarest.university,available,62.99,62.99,med
 f2d8463a-4007-4ae3-81c1-7aaeb9d449c7,bentonite.university,available,62.99,62.99,high,low,9,namesilo,,,23/09/2026 08:46
 82fe5cb4-0d43-4418-9447-f059a2ba1e4e,norte.university,available,65.98,77.98,high,low,5,namecheap,,,27/09/2026 07:02
 ebaf1e7a-6273-46fd-896a-996d187f1f70,nearby.university,available,62.99,62.99,high,low,6,namesilo,,,03/09/2026 14:32
-8d35dcd3-5b20-4b69-bf52-9d07020b0dbd,rod.university,available,19.99,,high,low,3,name.com,,,
+8d35dcd3-5b20-4b69-bf52-9d07020b0dbd,rod.university,available,49.88,49.88,high,low,3,spaceship,,,29/09/2026 20:44
 1b457e13-bb3d-4896-9793-d21a5bee4452,nutrients.university,available,62.99,62.99,medium,low,9,namesilo,,,21/09/2026 00:14
 b971176b-28f4-4257-bd3c-020de6a3aa76,sloshed.university,available,19.99,81.99,low,low,7,name.com,,,09/08/2026 15:48
 01b3d391-1121-4695-87ae-0e31580df722,manpower.university,available,49.88,49.88,high,low,8,spaceship,,,28/09/2026 14:49
@@ -663,41 +725,43 @@ f29a83cd-4cd8-451f-a287-7abfdee83e8e,bosnia.university,available,62.99,62.99,hig
 52580849-0d47-4eca-b974-36bbb01c4b71,baptism.university,available,62.99,62.99,high,low,7,namesilo,,,22/09/2026 03:27
 30b69912-7b59-41d1-9345-d4422dc38045,toffee.university,available,19.99,81.99,high,low,6,name.com,,,11/08/2026 04:53
 7d6825ac-4999-4027-9711-4ab8de449dc5,apposite.university,available,19.99,81.99,medium,low,8,name.com,,,06/08/2026 07:53
-4239ad88-032a-4e70-9fc8-bf8451f8c5b0,antiserum.university,available,62.99,62.99,medium,low,9,namesilo,,,19/09/2026 15:05
+4239ad88-032a-4e70-9fc8-bf8451f8c5b0,antiserum.university,available,62.99,62.99,high,low,9,namesilo,,,19/09/2026 15:05
 305b8c30-01dc-4813-995f-bf99c0710ae7,seasonally.university,available,62.99,62.99,medium,low,10,namesilo,,,16/09/2026 00:48
 a80e096b-c716-4fe4-96c6-a81001dfdd56,flags.university,available,19.99,,high,low,5,name.com,,,
 cdd6f3bb-0e42-4685-be0a-9c5199b57374,chemistry.university,available,62.99,62.99,high,low,9,namesilo,,,28/09/2026 12:10
 d33626a2-0597-47c1-8dd7-2e105801a927,pleasing.university,available,62.99,62.99,high,low,8,namesilo,,,27/09/2026 04:10
 bc8aadfa-a217-4549-a593-ca4ea5221df4,hiding.university,available,62.99,62.99,high,low,6,namesilo,,,08/09/2026 11:45
+d259cfb2-1698-4b74-9d88-e0ef1b476bfd,shampoo.university,available,62.99,62.99,high,low,7,namesilo,,,30/09/2026 02:51
 455e9d70-476b-46a8-8692-184c80cc773b,haply.university,available,62.99,62.99,medium,low,5,namesilo,,,14/09/2026 04:36
 733f08f3-d308-419c-8f9d-1b8d835b1427,wain.university,available,65.98,77.98,medium,low,4,namecheap,,,23/09/2026 14:30
 15c8d4fc-e1c6-4b99-b9fe-5f298bd1751b,cowardly.university,available,19.99,81.99,medium,low,8,name.com,,,13/08/2026 04:07
 ff428a73-9545-46e6-80f9-0b59fd894ac7,gyroscopic.university,available,19.99,81.99,medium,low,10,name.com,,,20/08/2026 21:21
 b5483dfe-026f-4404-9727-6b443b1be8a0,miniskirt.university,available,19.99,81.99,high,low,9,name.com,,,24/08/2026 23:47
 f6b1c930-f758-4dff-805e-bab28a1774fd,abi.university,premium,68.51,68.51,high,low,3,spaceship,,,29/09/2026 03:38
-f03d6dce-9c31-4855-b3d0-1bdb3fb5f2f7,shaper.university,available,19.99,,high,low,6,name.com,,,
+f03d6dce-9c31-4855-b3d0-1bdb3fb5f2f7,shaper.university,available,62.99,62.99,high,low,6,namesilo,,,30/09/2026 03:43
 85eac906-d9e4-49ea-a14a-acabdfa7a19f,inuit.university,available,49.88,49.88,medium,low,5,spaceship,,,28/09/2026 09:42
 ee35e28a-0042-4279-8633-3bb094a981c6,scaley.university,available,62.99,62.99,medium,low,6,namesilo,,,09/09/2026 22:18
 daf7bfb7-0896-4b79-8361-bfcc375f89f3,legends.university,available,65.98,77.98,high,low,7,namecheap,,,28/09/2026 18:05
-c331c016-ae9b-480c-a028-6c05cb2a5a24,disuse.university,available,62.99,62.99,medium,low,6,namesilo,,,24/09/2026 23:14
+c331c016-ae9b-480c-a028-6c05cb2a5a24,disuse.university,available,62.99,62.99,high,low,6,namesilo,,,24/09/2026 23:14
 27ed23a5-40c4-4063-bf1c-84e1531a6b8f,nonfat.university,available,19.99,81.99,medium,low,6,name.com,,,17/08/2026 23:23
 5ffdc893-9145-4c2b-b373-4a8f5a9d615f,conjunction.university,available,19.99,,high,low,11,name.com,,,
 ef321831-5ec7-4eeb-9c04-912f7527bf66,sensation.university,available,65.98,77.98,high,low,9,namecheap,,,21/09/2026 17:34
 466720ac-c445-4788-8572-397976e83a6d,cocksure.university,available,19.99,81.99,medium,low,8,name.com,,,12/08/2026 15:00
+73779260-4cf0-4420-9a60-b4c9a78cb87b,faisal.university,available,49.88,49.88,high,low,6,spaceship,,,29/09/2026 18:52
 3d53d759-5bcd-44ca-b6ce-905f99699ca1,heavy.university,available,62.99,62.99,high,low,5,namesilo,,,22/09/2026 07:40
 5340e82b-c675-4ff6-b78a-ef0612fa28c6,mechanics.university,available,62.99,62.99,high,low,9,namesilo,,,28/09/2026 02:33
 88f9134f-42c7-468c-bb84-622060dce0a6,economics.university,available,48.2,48.2,high,low,9,cloudflare,,,28/09/2026 19:02
 63daa141-75a8-4a58-840f-f6bff3bb571d,kpa.university,available,62.99,62.99,medium,low,3,namesilo,,,28/09/2026 16:13
-0e9af092-b533-48c4-866f-d384a6f1ed0f,pony.university,available,19.99,,high,low,4,name.com,,,
+0e9af092-b533-48c4-866f-d384a6f1ed0f,pony.university,available,62.99,62.99,high,low,4,namesilo,,,30/09/2026 00:53
 4c64ddaf-6040-4fb3-92a0-ee8efde1769e,abilene.university,available,65.98,77.98,high,low,7,namecheap,,,16/09/2026 15:54
-521f9e92-47f9-4ca0-b9db-db4adda4c4af,nathaniel.university,available,62.99,62.99,medium,low,9,namesilo,,,25/09/2026 14:50
+521f9e92-47f9-4ca0-b9db-db4adda4c4af,nathaniel.university,available,62.99,62.99,high,low,9,namesilo,,,25/09/2026 14:50
 fa48351c-3f65-48c8-9221-78e8ead58c23,undue.university,available,19.99,81.99,medium,low,5,name.com,,,17/08/2026 16:19
-f4800798-a1f9-4795-94ed-e2b587db9493,clerk.university,available,19.99,,high,low,5,name.com,,,
+f4800798-a1f9-4795-94ed-e2b587db9493,clerk.university,available,49.88,49.88,high,low,5,spaceship,,,29/09/2026 10:01
 3ebb987f-a75f-4643-9847-c2e15a966bab,artois.university,available,65.98,77.98,medium,low,6,namecheap,,,20/09/2026 12:02
 e497120e-9814-4f0c-8982-2f13847121cb,amethyst.university,available,62.99,62.99,high,low,8,namesilo,,,22/09/2026 04:15
 5f30431a-a065-41e0-b647-9320c38b578c,birthright.university,available,65.98,77.98,high,low,10,namecheap,,,23/09/2026 21:20
 a48013c4-ab50-4c6a-82c0-269c875e3275,jump.university,available,62.99,62.99,high,low,4,namesilo,,,22/09/2026 02:34
-da4bfdb2-7859-4bc5-b165-d8ee02e6e1d6,leakproof.university,available,19.99,81.99,medium,low,9,name.com,,,22/08/2026 21:59
+da4bfdb2-7859-4bc5-b165-d8ee02e6e1d6,leakproof.university,available,19.99,81.99,high,low,9,name.com,,,22/08/2026 21:59
 c9a2e173-363b-4895-9c0c-6ca3aa809365,sprawl.university,available,62.99,62.99,medium,low,6,namesilo,,,10/09/2026 16:41
 51aafedc-da68-4ec3-9394-c1a719bc4e72,patriotism.university,available,19.99,,high,low,10,name.com,,,
 96dfd42c-2ccd-4faf-963f-e074f14434e7,performs.university,available,19.99,,medium,low,8,name.com,,,
@@ -710,7 +774,8 @@ a588fcef-671f-4dfc-96e8-04de63060778,guarded.university,available,19.99,81.99,hi
 ef2a8486-5f97-4688-bd04-d60ac10eb70d,measurably.university,available,62.99,62.99,medium,low,10,namesilo,,,15/09/2026 13:50
 7deda7a2-7965-42f2-b2cb-f814c03732b6,blended.university,available,19.99,81.99,high,low,7,name.com,,,10/08/2026 14:14
 e1badfaa-38f7-4f8b-8225-a38c747468fe,surveys.university,available,65.98,77.98,high,low,7,namecheap,,,17/09/2026 07:59
-3aa33d2b-4958-4114-809a-aa8d25c608e5,metaphoric.university,available,19.99,81.99,medium,low,10,name.com,,,24/08/2026 21:45
+cdb26b21-d01b-4326-8a9c-608b1f1282bc,colvin.university,available,62.99,62.99,medium,low,6,namesilo,,,29/09/2026 22:39
+3aa33d2b-4958-4114-809a-aa8d25c608e5,metaphoric.university,available,19.99,81.99,high,low,10,name.com,,,24/08/2026 21:45
 98985250-3b35-4eb0-b428-5206abb429ad,veins.university,available,65.98,77.98,medium,low,5,namecheap,,,28/09/2026 08:48
 6067660c-6204-4c0e-b103-02c4dbe876bf,experienced.university,premium,78.54,78.54,high,low,11,namesilo,,,
 9aa21867-b2fd-48db-918e-c5fa0e1cb3e6,zombi.university,available,62.99,62.99,medium,low,5,namesilo,,,21/09/2026 07:04
@@ -721,7 +786,7 @@ bc2f2a5f-c479-4b97-9f66-a6af176ef99b,saccade.university,available,19.99,81.99,me
 4cc03ca0-f76e-4bea-a356-db1d675e1495,whoever.university,available,19.99,,medium,low,7,name.com,,,
 2ec11041-d03a-4581-a254-feff6f45897a,esfahan.university,available,65.98,77.98,medium,low,7,namecheap,,,20/09/2026 14:33
 f615af0c-b099-4597-92ea-a4c23971c287,portland.university,premium,242,242,high,low,8,namesilo,,,
-af7cdfaf-a0f3-45b2-aefe-8290506fb35e,kamikaze.university,available,19.99,,medium,low,8,name.com,,,
+af7cdfaf-a0f3-45b2-aefe-8290506fb35e,kamikaze.university,available,65.98,77.98,medium,low,8,namecheap,,,30/09/2026 01:08
 eda8cf14-e8e0-4824-bf29-a7b43a6dfd2f,ronnie.university,available,62.99,62.99,high,low,6,namesilo,,,27/09/2026 07:42
 aef437af-39ee-4170-8922-42e958f358ae,mightily.university,available,19.99,81.99,medium,low,8,name.com,,,24/08/2026 22:45
 85a4b627-dbdb-4e19-8b64-2761b51a23bf,ellipse.university,available,19.99,81.99,high,low,7,name.com,,,04/09/2026 19:52
@@ -729,16 +794,18 @@ aef437af-39ee-4170-8922-42e958f358ae,mightily.university,available,19.99,81.99,m
 2bb7b85c-93bb-45bc-b5e9-be5ebb9c3525,headlines.university,available,49.88,49.88,high,low,9,spaceship,,,28/09/2026 12:49
 f6919885-7059-44f2-ae2f-b329628a9126,revocation.university,available,62.99,62.99,medium,low,10,namesilo,,,19/09/2026 11:02
 10010281-dfab-42ee-b432-e9c333b0379e,westwards.university,available,62.99,62.99,medium,low,9,namesilo,,,13/09/2026 11:02
-7ebce36d-029d-42ff-b9d7-155d1f5b0f2c,aldrich.university,available,49.88,49.88,medium,low,7,spaceship,,,28/09/2026 04:14
+7ebce36d-029d-42ff-b9d7-155d1f5b0f2c,aldrich.university,available,49.88,49.88,high,low,7,spaceship,,,28/09/2026 04:14
 57b4fe16-01be-4b4a-9497-8f497b3c09c3,unadvised.university,available,19.99,81.99,medium,low,9,name.com,,,21/08/2026 18:49
 19fbd4f0-a4ed-4ee8-a55d-74767644fda1,arboreous.university,available,19.99,81.99,medium,low,9,name.com,,,06/08/2026 12:59
+c122c045-ad21-4d5a-ba81-95355f278b81,tribes.university,available,10.81,49.95,high,low,6,porkbun,,,29/09/2026 11:09
 7e486d8c-c904-44c4-86dd-cf097ee649e9,sashay.university,available,62.99,62.99,medium,low,6,namesilo,,,11/09/2026 05:14
 529914bc-f38a-421e-84f0-9b39a3b2ae28,loth.university,available,19.99,81.99,medium,low,4,name.com,,,24/08/2026 08:19
+edf6216c-7f19-4279-871a-23eb190f24ad,browning.university,available,62.99,62.99,high,low,8,namesilo,,,29/09/2026 11:47
 f04ba80b-3931-4f6c-84e6-737416862475,andrei.university,available,10.92,51.58,high,low,6,dynadot,,,28/09/2026 04:07
 f6170c68-79dc-4345-9988-590df3f0b879,markus.university,available,62.99,62.99,high,low,6,namesilo,,,28/09/2026 21:58
 23883b67-6243-4921-bad4-936b71c532a9,bikers.university,available,62.99,62.99,high,low,6,namesilo,,,23/09/2026 15:36
 09c09e22-9a86-42b6-806d-0e991498cd58,hoofed.university,available,19.99,81.99,medium,low,6,name.com,,,21/08/2026 13:40
-40ee872f-ec42-4971-bbed-217e59c1b813,ascetic.university,available,19.99,81.99,medium,low,7,name.com,,,07/08/2026 00:56
+40ee872f-ec42-4971-bbed-217e59c1b813,ascetic.university,available,19.99,81.99,high,low,7,name.com,,,07/08/2026 00:56
 47c4db0d-a442-406f-914f-eea8689e2d55,colonized.university,available,19.99,81.99,medium,low,9,name.com,,,12/08/2026 17:23
 9845e5dc-c66d-4689-8f50-7e885c058bcf,afford.university,available,62.99,62.99,high,low,6,namesilo,,,25/09/2026 11:07
 49492eb8-d8b7-4008-a594-5be2a9c50dab,fifth.university,available,19.99,81.99,high,low,5,name.com,,,
@@ -750,13 +817,14 @@ b86b77e6-e352-45b1-a758-fa55edbf6b87,ardisia.university,available,62.99,62.99,me
 32fdecd7-db38-4a4f-a069-66c397c63cae,bach.university,available,62.99,62.99,high,low,4,namesilo,,,21/09/2026 14:07
 5bc9025b-1819-4831-8578-7dce773216b8,aswan.university,available,65.98,77.98,medium,low,5,namecheap,,,20/09/2026 16:34
 c8d3a44c-dd70-4bb4-9c54-19b7d486c4fe,malcontent.university,available,19.99,81.99,medium,low,10,name.com,,,14/08/2026 09:23
-c9d5254b-6e3d-4638-940c-78990b62f1e7,collision.university,available,19.99,,high,low,9,name.com,,,
+c9d5254b-6e3d-4638-940c-78990b62f1e7,collision.university,available,10.81,49.95,high,low,9,porkbun,,,29/09/2026 10:17
 a2177814-e31e-4aff-938f-1daa62c01a8a,seeking.university,available,62.99,62.99,high,low,7,namesilo,,,27/09/2026 15:47
 fe5387d6-5e0c-4cfa-8d4e-621e4808bd4d,occurred.university,available,62.99,62.99,medium,low,8,namesilo,,,18/09/2026 13:50
+f8089d34-f133-4ec0-bf92-a79d479b39c0,gareth.university,available,10.92,51.58,high,low,6,dynadot,,,29/09/2026 21:28
 e675cd02-5cfa-477c-96a5-00447607552f,greenly.university,available,62.99,62.99,medium,low,7,namesilo,,,14/09/2026 22:19
 686f71ca-9571-4d9a-91f2-4dbd02c5e171,concert.university,available,62.99,62.99,high,low,7,namesilo,,,28/09/2026 03:31
 d5e89777-2ae1-4772-8cba-64de1ea35d92,bowhead.university,available,65.98,77.98,medium,low,7,namecheap,,,21/09/2026 20:32
-e055fe8c-897a-4b57-a227-59776975388d,absorbency.university,available,65.98,77.98,medium,low,10,namecheap,,,16/09/2026 18:15
+e055fe8c-897a-4b57-a227-59776975388d,absorbency.university,available,65.98,77.98,high,low,10,namecheap,,,16/09/2026 18:15
 c3d1bfbb-5717-43e9-b820-4da21af99b9a,dealt.university,available,62.99,62.99,medium,low,5,namesilo,,,28/09/2026 08:17
 c9b509f7-93db-4047-8b14-539805fe15e0,cxxxv.university,available,19.99,81.99,medium,low,5,name.com,,,
 0b4b5185-e68e-4786-a05a-d6571541b22b,abor.university,available,62.99,62.99,medium,low,4,namesilo,,,16/09/2026 16:36
@@ -773,7 +841,7 @@ bce6210d-0cc4-4c6f-b77f-dd330f7bb831,menace.university,available,62.99,62.99,hig
 cd26bee7-9692-4341-8c18-9dcd5f19fd81,knobbly.university,available,19.99,81.99,medium,low,7,name.com,,,22/08/2026 16:31
 aeaf582d-39b5-474d-be93-48078f96e993,shows.university,available,62.99,62.99,high,low,5,namesilo,,,18/09/2026 14:42
 3779f9de-7657-47f8-91db-3198fd4aa11c,vivacious.university,available,62.99,62.99,high,low,9,namesilo,,,13/09/2026 05:07
-126fac98-0428-42d7-8948-22906b4df5e7,deftly.university,available,62.99,62.99,medium,low,6,namesilo,,,14/09/2026 11:20
+126fac98-0428-42d7-8948-22906b4df5e7,deftly.university,available,62.99,62.99,high,low,6,namesilo,,,14/09/2026 11:20
 18993ea1-7322-4c91-918e-2a1c7c161e8f,allargando.university,available,19.99,81.99,medium,low,10,name.com,,,
 62d85208-ac3f-4fd8-ae2a-1e316624cfd4,ephesian.university,available,19.99,81.99,medium,low,8,name.com,,,17/08/2026 10:24
 8c1e434d-1269-4520-90b1-00143f3f5b09,tuscan.university,available,65.98,77.98,high,low,6,namecheap,,,11/09/2026 21:27
@@ -782,24 +850,29 @@ c83146ef-5892-4b55-8b0a-5a2dc5763757,hallowed.university,available,19.99,81.99,h
 ad6e41a9-d9d3-41c1-b424-c211c18bd5e4,kuomintang.university,available,49.88,49.88,medium,low,10,spaceship,,,28/09/2026 14:23
 85093043-a641-4376-b7a2-f08b493f22c5,arrowsmith.university,available,62.99,62.99,medium,low,10,namesilo,,,20/09/2026 09:31
 24253bcc-f088-4c13-bcdd-13f54c58a3b8,ratio.university,available,49.88,49.88,high,low,5,spaceship,,,28/09/2026 15:13
+3257cf45-42eb-4be8-8b0d-8c11998cacb0,singh.university,available,10.92,51.58,high,low,5,dynadot,,,29/09/2026 14:38
+6df432b5-e9c2-4f80-9c12-e42ad907864d,groin.university,available,48.2,48.2,medium,low,5,cloudflare,,,29/09/2026 18:05
 09c7ae01-d05c-4dc9-937c-8b306a7ac923,pla.university,available,65.98,77.98,high,low,3,namecheap,,,27/09/2026 18:08
 f3f7c727-7ea9-41db-99d9-da53601a40cb,numb.university,available,65.98,77.98,medium,low,4,namecheap,,,22/09/2026 19:39
-17b79d5a-9c50-4ffa-9f16-f566f30dffd2,torrid.university,available,19.99,81.99,medium,low,6,name.com,,,06/08/2026 16:35
+17b79d5a-9c50-4ffa-9f16-f566f30dffd2,torrid.university,available,19.99,81.99,high,low,6,name.com,,,06/08/2026 16:35
 fe919f2d-1809-4fdc-9d05-b7a266223a18,traced.university,available,62.99,62.99,medium,low,6,namesilo,,,28/09/2026 13:04
 e4ac0ee6-4f46-49ee-9927-ea82a5b4cde2,miles.university,available,62.99,62.99,high,low,5,namesilo,,,25/09/2026 17:17
 0e64480c-b410-4bfa-9252-4adfff51a6ae,clove.university,available,65.98,77.98,high,low,5,namecheap,,,24/09/2026 16:05
+9cd3792f-6cca-4b4b-8bd0-3ab8b2ceffdc,hillsdale.university,premium,118.8,118.8,high,low,9,namesilo,,,29/09/2026 22:46
 e3684a13-f9ca-403a-92e6-b22f85f2a641,nattily.university,available,62.99,62.99,medium,low,7,namesilo,,,15/09/2026 16:12
 f5ddcca8-6e5a-4f3e-abd9-bc8589cc67c4,static.university,available,19.99,81.99,high,low,6,name.com,,,16/08/2026 02:42
 f1c9c3c5-94c5-4836-a284-3cffaf5e7184,rueful.university,available,19.99,81.99,medium,low,6,name.com,,,12/08/2026 23:38
 b33e89ea-31f5-4b5b-97bb-3ac3092cb30e,inferior.university,available,19.99,81.99,high,low,8,name.com,,,22/08/2026 04:19
 08eb8c16-ab37-4c07-a742-7c5dcd60a196,adenoma.university,available,62.99,62.99,medium,low,7,namesilo,,,17/09/2026 07:30
 d99fd4bd-4d0f-431e-842d-e7a2439dd514,baedeker.university,available,62.99,62.99,medium,low,8,namesilo,,,21/09/2026 17:22
+e4fb6bcf-08b3-498b-95ea-eb18ee9a59a9,rabies.university,available,49.88,49.88,high,low,6,spaceship,,,29/09/2026 19:34
 c7e4ee5e-c4ec-49a3-8707-381e501e8ccb,uppity.university,available,62.99,62.99,medium,low,6,namesilo,,,12/09/2026 23:17
 88311733-a41b-4808-a1af-e20e54603ac1,suety.university,available,62.99,62.99,low,low,5,namesilo,,,11/09/2026 01:08
 5b353a60-edbd-4565-b252-d561335f6b95,quirky.university,available,19.99,81.99,high,low,6,name.com,,,17/08/2026 22:23
 a733e9d2-7487-4098-bc0a-0781df407c20,evan.university,available,62.99,62.99,high,low,5,namesilo,,,25/09/2026 13:11
 15221ce4-144c-4535-aa01-debc901b164b,unequal.university,available,19.99,81.99,medium,low,7,name.com,,,22/08/2026 00:15
-aaf20751-1354-4355-860d-a90d933c4008,paediatric.university,available,62.99,62.99,medium,low,10,namesilo,,,04/09/2026 22:51
+23bc148a-e38a-4169-b561-76651dd5611e,eine.university,available,62.99,62.99,medium,low,4,namesilo,,,29/09/2026 22:17
+aaf20751-1354-4355-860d-a90d933c4008,paediatric.university,available,62.99,62.99,high,low,10,namesilo,,,04/09/2026 22:51
 4a45898c-a13d-4c5c-a58f-b0fe22dd9a15,aneroid.university,available,19.99,81.99,medium,low,7,name.com,,,
 da372c53-f8ed-4f5d-91d1-a212eb373592,socks.university,available,62.99,62.99,high,low,5,namesilo,,,27/09/2026 08:18
 0ba0bfa8-5ae8-44e6-b3c6-cebd6d369e47,took.university,available,19.99,,medium,low,4,name.com,,,
@@ -809,11 +882,11 @@ c030e8aa-a28b-4bf6-a03c-081875df96c3,gaussian.university,available,19.99,81.99,h
 6421e0eb-0f09-4c55-999e-ff67847c8375,sweeps.university,available,62.99,62.99,medium,low,6,namesilo,,,18/09/2026 07:58
 6c99ab85-03e3-475c-9ab9-ced59af6666b,neighboring.university,available,19.99,,high,low,11,name.com,,,
 d2e65e2e-e55c-49f9-8950-a46cfc418fbb,peacefully.university,available,65.98,77.98,high,low,10,namecheap,,,15/09/2026 19:23
-1daf88ad-de57-482b-8cb6-df5e565eec3a,odorless.university,available,19.99,81.99,medium,low,8,name.com,,,22/08/2026 06:02
+1daf88ad-de57-482b-8cb6-df5e565eec3a,odorless.university,available,19.99,81.99,high,low,8,name.com,,,22/08/2026 06:02
 b90c8743-bd34-4c7f-9780-07efa5d63117,addict.university,available,65.98,77.98,high,low,6,namecheap,,,17/09/2026 06:48
 8cb4f51f-6e2f-4a6d-bd5d-a36846c63b40,justin.university,available,65.98,77.98,high,medium,7,namecheap,,,25/09/2026 16:02
 91f18c97-5ee8-4f17-bc76-212e11376a87,childly.university,available,19.99,81.99,medium,low,7,name.com,,,12/08/2026 05:14
-89623d28-6b6f-47be-aa2d-c46eee76e1ac,rumbling.university,available,19.99,81.99,medium,low,8,name.com,,,20/08/2026 20:34
+89623d28-6b6f-47be-aa2d-c46eee76e1ac,rumbling.university,available,19.99,81.99,high,low,8,name.com,,,20/08/2026 20:34
 4968e4b9-3c00-4568-8f7d-e9fde3d4fffd,distributed.university,available,19.99,81.99,high,low,11,name.com,,,
 65dc2d21-15c6-476e-9a66-008ad04bafe7,sophistication.university,available,19.99,,high,low,14,name.com,,,
 46ac2132-17be-4450-a6f0-f94210399bc5,atropa.university,available,62.99,62.99,medium,low,6,namesilo,,,21/09/2026 00:54
@@ -823,7 +896,8 @@ aae7180e-910d-47e5-bfa9-dab40c755d54,rushed.university,available,62.99,62.99,hig
 858604e8-6472-4108-8b25-e21389d5eff2,atf.university,available,65.98,77.98,high,low,3,namecheap,,,20/09/2026 20:14
 5f00301e-b4cd-4e41-b81a-8e2f3bf00f9c,agouti.university,available,65.98,77.98,medium,low,6,namecheap,,,17/09/2026 19:07
 ab1f2226-66d8-44f6-9738-06b1de8229ff,peeved.university,available,19.99,81.99,medium,low,6,name.com,,,
-b62aed6c-48c3-46e8-9f9c-1732c20e8be7,choc.university,available,19.99,,high,low,4,name.com,,,
+b62aed6c-48c3-46e8-9f9c-1732c20e8be7,choc.university,available,65.98,77.98,high,low,4,namecheap,,,29/09/2026 08:48
+08c9ba9e-97af-45e8-9f2f-ec3d08e770ae,bader.university,available,10.92,51.58,high,low,5,dynadot,,,29/09/2026 21:34
 7eb25dfe-9e3e-4b20-b3e4-b888b4ef653f,moistly.university,available,62.99,62.99,low,low,7,namesilo,,,14/09/2026 10:31
 00897e7d-c825-4dd7-ab66-c3d5b554a9cf,bohme.university,available,65.98,77.98,high,low,5,namecheap,,,23/09/2026 03:34
 0300ae72-1264-4123-93ee-bd3951e26b41,dishonest.university,available,19.99,81.99,medium,low,9,name.com,,,11/08/2026 03:44
@@ -833,7 +907,7 @@ b75da2c4-f80c-4be0-abff-f0f79ca060d1,spectre.university,available,62.99,62.99,hi
 5ef8b68c-3597-4ec8-bebd-5b82d44ec04d,albumen.university,available,62.99,62.99,high,low,7,namesilo,,,18/09/2026 03:31
 9a5e45ea-e80d-4b46-a2ff-a681a40c3cb6,speedy.university,available,65.98,77.98,high,low,6,namecheap,,,09/09/2026 08:40
 cf440bd6-f227-41f7-b57b-f24e29e55e53,satellite.university,available,19.99,81.99,high,low,9,name.com,,,09/09/2026 21:34
-17e5a088-d1f6-427f-a00a-39542bde6edb,immortality.university,available,62.99,62.99,medium,low,11,namesilo,,,29/09/2026 05:02
+17e5a088-d1f6-427f-a00a-39542bde6edb,immortality.university,available,62.99,62.99,high,low,11,namesilo,,,29/09/2026 05:02
 acd7c536-21d4-4ab4-913e-4ee9d1ad6ad4,charges.university,available,65.98,77.98,medium,low,7,namecheap,,,25/09/2026 18:37
 ab6a3822-de5d-45cd-8ece-1d6f3f61a4f5,atrophic.university,available,19.99,81.99,medium,low,8,name.com,,,07/08/2026 14:52
 d6b1dbe4-75b3-46a8-a6d4-9e46696bb81b,seventy.university,available,19.99,81.99,high,low,7,name.com,,,
@@ -845,16 +919,17 @@ b9c43fcd-561d-4cf4-9360-3a29b2f86c0e,knocking.university,available,62.99,62.99,h
 10bc26c1-e97e-4f73-b8dd-e43c2e792625,baldly.university,available,62.99,62.99,medium,low,6,namesilo,,,13/09/2026 23:11
 ee09e8f1-ea0f-486c-b1ad-dfe1d7fc46ab,dog.university,premium,68.51,68.51,high,medium,3,spaceship,,,28/09/2026 21:20
 78aabd0a-3a7c-4cd7-90f9-b92345aaad4b,vague.university,available,62.99,62.99,high,low,5,namesilo,,,25/09/2026 23:34
+93d716d6-4960-48c3-9d6c-817b1c6023ad,stakeholder.university,available,62.99,62.99,high,low,11,namesilo,,,29/09/2026 08:31
 26dcad41-9f3c-4656-b03d-51ac9ca18822,convoluted.university,available,19.99,81.99,medium,low,10,name.com,,,12/08/2026 23:59
 8d330dcc-88d1-47eb-8b7b-76a6e8972356,buddy.university,available,48.2,48.2,high,medium,5,cloudflare,,,29/09/2026 05:01
 0ab55e01-b2b7-4b51-b4d6-33f700a97918,impede.university,available,19.99,81.99,medium,low,6,name.com,,,21/08/2026 09:28
 760b17dd-750b-44c6-ad31-eb163fa354c7,kruger.university,available,65.98,77.98,medium,low,6,namecheap,,,29/09/2026 01:31
 8110bf69-b6d0-4e9d-95c1-12fd284ea66c,blackwood.university,available,62.99,62.99,medium,low,9,namesilo,,,24/09/2026 03:25
-d004dcf0-6e43-4a30-8bdb-1b4ec6d9f92d,deputy.university,available,19.99,,high,low,6,name.com,,,
+d004dcf0-6e43-4a30-8bdb-1b4ec6d9f92d,deputy.university,available,62.99,62.99,high,low,6,namesilo,,,29/09/2026 14:04
 9ee21149-ecbd-4b21-ac95-898679129e07,nag.university,available,62.99,62.99,high,low,3,namesilo,,,24/09/2026 16:35
-e7845368-9d4a-498f-9fe4-97896af0f7f8,quadruplex.university,available,19.99,81.99,medium,low,10,name.com,,,18/08/2026 13:26
+e7845368-9d4a-498f-9fe4-97896af0f7f8,quadruplex.university,available,19.99,81.99,high,low,10,name.com,,,18/08/2026 13:26
 2ed38cc1-55bb-48fb-ab58-a8ba089b81e6,likely.university,available,62.99,62.99,high,low,6,namesilo,,,25/09/2026 13:46
-52a5f42e-489c-4689-bf19-640220d3d412,sadat.university,available,65.98,77.98,medium,low,5,namecheap,,,19/09/2026 15:58
+52a5f42e-489c-4689-bf19-640220d3d412,sadat.university,available,65.98,77.98,high,low,5,namecheap,,,19/09/2026 15:58
 530859f3-e173-482b-8d1a-b9cd5adc03c7,unframed.university,available,62.99,62.99,medium,low,8,namesilo,,,12/09/2026 10:41
 0a381771-f202-4504-b808-3885493864b3,pedant.university,available,62.99,62.99,high,low,6,namesilo,,,09/09/2026 23:15
 59e647f4-6061-4896-8bca-0cd9be6124fa,gifted.university,available,19.99,81.99,high,low,6,name.com,,,18/08/2026 23:27
@@ -865,6 +940,8 @@ ec0a6c57-9e02-4c90-8db9-93ee26c6998b,trashy.university,available,19.99,81.99,med
 4aca6cea-cfd5-4700-8847-dba5d85239fe,reflexion.university,available,62.99,62.99,high,low,9,namesilo,,,03/09/2026 11:28
 940c9a8f-4707-471d-b10d-9c4d20d0bc6a,unfunny.university,available,62.99,62.99,medium,low,7,namesilo,,,12/09/2026 11:05
 028c5851-d5d0-46ec-b078-8e91236337cd,mural.university,available,62.99,62.99,high,low,5,namesilo,,,03/09/2026 11:00
+8d997fe9-9044-4f0f-92e0-5059e1865756,samurai.university,available,10.92,51.58,high,low,7,dynadot,,,29/09/2026 20:16
+4ed80769-797f-461d-8cdd-fd0eeb6ca2b2,subtitle.university,available,65.98,77.98,high,low,8,namecheap,,,30/09/2026 02:59
 2c66f861-3656-4343-86f9-fc283cda24ff,irish.university,premium,118.8,118.8,high,low,5,namesilo,,,22/08/2026 09:54
 ad7a242b-9fe9-4961-81d2-eea17a576c33,unity.university,available,62.99,62.99,high,medium,5,namesilo,,,21/09/2026 10:47
 c22a4ff8-8577-433a-a25f-38fec4d8c854,devotes.university,available,62.99,62.99,medium,low,7,namesilo,,,20/09/2026 02:04
@@ -878,8 +955,8 @@ bc40f6b9-90db-40ba-81a2-fa7dd13562e3,biometry.university,available,65.98,77.98,h
 7df053f0-1e72-441a-ac9b-d96cf4fc244e,zoological.university,available,62.99,62.99,high,low,10,namesilo,,,13/09/2026 15:33
 595cf123-d859-4975-b9a9-7d87579e81da,calvinist.university,available,19.99,81.99,medium,low,9,name.com,,,11/08/2026 15:24
 e81581da-a3bb-4912-8d29-b0fb5b1c3020,homozygous.university,available,19.99,81.99,medium,low,10,name.com,,,21/08/2026 13:12
-d2459b4f-32d3-4cb8-8d87-5ebd12753685,purposely.university,available,62.99,62.99,medium,low,9,namesilo,,,13/09/2026 17:36
-28075201-50b2-432d-856b-d3621481c5b0,posters.university,available,19.99,,medium,low,7,name.com,,,
+d2459b4f-32d3-4cb8-8d87-5ebd12753685,purposely.university,available,62.99,62.99,high,low,9,namesilo,,,13/09/2026 17:36
+28075201-50b2-432d-856b-d3621481c5b0,posters.university,available,19.99,,high,low,7,name.com,,,
 a78cbb81-8001-46e0-b49a-e5199cac126b,catarrhine.university,available,19.99,81.99,medium,low,10,name.com,,,11/08/2026 21:11
 952bc366-7ffd-448f-99cd-18c000d83f53,thank.university,available,19.99,,high,low,5,name.com,,,
 5f0b3f52-f52c-4fe6-81ea-7ac7e3698f0e,streamed.university,available,49.88,49.88,high,low,8,spaceship,,,28/09/2026 03:37
@@ -891,10 +968,13 @@ b5f37f0a-f42a-4feb-bb4f-4a0f604ae641,abused.university,available,19.99,81.99,hig
 a3ead108-02a5-41be-b742-6ee6289b32ea,wagram.university,available,62.99,62.99,medium,low,6,namesilo,,,22/09/2026 16:18
 144a74db-0bc9-43c2-9ae6-1a0b2f627b5a,cardiac.university,available,19.99,81.99,high,low,7,name.com,,,11/08/2026 18:53
 27953561-2808-4bc6-a922-3023469dd90a,lateen.university,available,19.99,81.99,medium,low,6,name.com,,,22/08/2026 20:29
+79b386ae-4637-4aac-a290-a195df043b5b,fertilizer.university,available,48.2,48.2,high,low,10,cloudflare,,,29/09/2026 06:53
 cfb2ad8a-9521-492a-aa44-128dda46a147,purple.university,available,62.99,62.99,high,medium,6,namesilo,,,24/09/2026 13:58
+cd744675-fc5c-4dc8-a56c-874b44a433ca,polls.university,available,49.88,49.88,high,low,5,spaceship,,,29/09/2026 07:53
 880ce78a-cd42-44b0-98ef-d1ed6167078e,pasture.university,available,49.88,49.88,high,low,7,spaceship,,,29/09/2026 00:44
 20f83892-d139-4309-a839-6bd7b6edd433,bakunin.university,available,65.98,77.98,medium,low,7,namecheap,,,21/09/2026 20:26
-bed1c793-318a-4883-bb21-8c264bef963a,watermelon.university,available,19.99,,high,low,10,name.com,,,
+bed1c793-318a-4883-bb21-8c264bef963a,watermelon.university,available,48.2,48.2,high,low,10,cloudflare,,,29/09/2026 09:31
+1220c9c6-5edf-41f6-895d-b81669a7a9a5,emmy.university,available,49.88,49.88,high,low,4,spaceship,,,29/09/2026 06:46
 69a7750a-bda5-4d13-bd10-493a0c6e80c4,quite.university,available,62.99,62.99,high,low,5,namesilo,,,28/09/2026 16:35
 b6d81d0e-5f02-498e-ae75-8c34dd25ab31,beguiled.university,available,19.99,81.99,medium,low,8,name.com,,,09/08/2026 09:46
 d3a8a658-bf61-42e4-9e53-61a1f2f7191c,enlarge.university,available,19.99,81.99,high,low,7,name.com,,,15/08/2026 23:49
@@ -906,96 +986,16 @@ cb027b9e-877c-4f15-9a3a-206c9b2e8b94,dawdler.university,available,19.99,81.99,me
 2402c72a-f5d7-4b06-80c5-a717bf9d774e,gur.university,available,62.99,62.99,medium,low,3,namesilo,,,13/09/2026 06:52
 c21ccda8-fcd4-444e-a080-42a35a9cbf46,hired.university,available,19.99,81.99,high,low,5,name.com,,,12/08/2026 02:48
 6359f4e7-2819-47a4-9610-c2fb758d45c9,absurd.university,available,19.99,81.99,high,low,6,name.com,,,
+497403c4-e8df-4980-a1da-589799eef547,innsbruck.university,available,62.99,62.99,high,low,9,namesilo,,,29/09/2026 07:21
 a28f4b1c-d797-45ce-98a7-a34f32e26d78,understands.university,available,49.88,49.88,high,low,11,spaceship,,,28/09/2026 00:05
-aa3aaa7f-7d48-4004-853f-9a4669527c45,lucy.university,available,19.99,,high,low,4,name.com,,,
+aa3aaa7f-7d48-4004-853f-9a4669527c45,lucy.university,available,62.99,62.99,high,low,4,namesilo,,,30/09/2026 03:32
 e76e4691-785f-4b19-8c21-9c4b7901c83a,plattensee.university,available,65.98,77.98,medium,low,10,namecheap,,,21/09/2026 21:22
-32ca0146-79de-4536-95bb-35a45d9c643e,unaltered.university,available,19.99,81.99,medium,low,9,name.com,,,12/09/2026 00:30
+32ca0146-79de-4536-95bb-35a45d9c643e,unaltered.university,available,19.99,81.99,high,low,9,name.com,,,12/09/2026 00:30
 c5f2cc35-4ab2-4942-b68b-814808d45971,abnormally.university,available,62.99,62.99,medium,low,10,namesilo,,,13/09/2026 16:24
+42b1df44-842e-4881-a9c5-00281a4f75a6,leagues.university,available,48.2,48.2,medium,low,7,cloudflare,,,29/09/2026 11:01
 edcafe6f-6a6c-466e-a919-583d3b68d5d0,accomplished.university,available,19.99,,high,low,12,name.com,,,
 09381657-1918-45d8-90b4-6df5c5b702c4,halting.university,available,19.99,81.99,medium,low,7,name.com,,,13/08/2026 07:02
 c8fb0ec3-9b91-40d1-adae-d49a650a6ea9,archangel.university,available,62.99,62.99,high,low,9,namesilo,,,19/09/2026 05:59
-c1fd59e9-4324-4afa-87cb-c416ee4788ac,burt.university,available,62.99,62.99,medium,low,4,namesilo,,,25/09/2026 03:54
+c1fd59e9-4324-4afa-87cb-c416ee4788ac,burt.university,available,62.99,62.99,high,low,4,namesilo,,,25/09/2026 03:54
 62d6f8e7-1fa6-493e-8e85-0da83cdc88bd,argus.university,available,62.99,62.99,high,low,5,namesilo,,,20/09/2026 04:53
 dd941f4b-98bb-40b4-84f7-7b5ff0e6db57,wordy.university,available,19.99,81.99,medium,low,5,name.com,,,24/08/2026 09:32
-ace54d50-d4c4-41a7-8e2c-1f31c6860733,gage.university,available,19.99,81.99,high,low,4,name.com,,,18/08/2026 19:51
-dfdd042a-f03a-4ea0-b71a-6fc39a12dd69,servant.university,available,62.99,62.99,high,low,7,namesilo,,,25/09/2026 06:52
-b94d75a5-3f9a-46f8-89f8-4cfbff3a4d84,andalusian.university,available,19.99,81.99,high,low,10,name.com,,,
-d83cc168-9688-4ee6-bca5-443d40819409,buffet.university,available,62.99,62.99,high,low,6,namesilo,,,19/09/2026 17:05
-7c795933-3f89-4dfc-bcbb-c942f2bdd91a,kitty.university,available,65.98,77.98,high,low,5,namecheap,,,25/09/2026 23:15
-1f4efb85-838c-4ec0-a725-9aed8bb3bed2,scary.university,available,19.99,81.99,high,low,5,name.com,,,12/08/2026 05:23
-de21ca89-1f52-44ad-af64-4dae83c44f17,speedup.university,available,19.99,,high,low,8,name.com,,,
-e044e15e-a192-482d-9763-7b86f7b3de73,lanka.university,available,62.99,62.99,high,low,5,namesilo,,,25/09/2026 15:46
-c4029323-ce98-4567-9351-9472b0fe537a,hieroglyph.university,available,19.99,81.99,medium,low,10,name.com,,,21/08/2026 08:33
-a887946d-2de7-45b3-b42a-4cbbc7aff2f7,occupied.university,available,19.99,81.99,high,low,8,name.com,,,17/08/2026 07:34
-e443d712-5589-4bcb-8908-e4d4becb7fec,develop.university,available,19.99,,high,low,7,name.com,,,
-a90219d5-507b-4e79-b16e-5bf577702017,canal.university,available,19.99,,high,low,5,name.com,,,
-b7a9f8e0-0d5c-457c-8726-459e6bc54096,adultery.university,available,62.99,62.99,medium,low,8,namesilo,,,17/09/2026 10:25
-029a39df-1948-4233-88f1-4d55f350400a,patented.university,available,62.99,62.99,high,low,8,namesilo,,,08/09/2026 10:24
-95c6179d-f6e0-4f5d-a353-4addbb3bfb6f,twentieth.university,available,62.99,62.99,high,low,9,namesilo,,,21/09/2026 12:27
-b8bbc127-0763-41c5-b2e4-14cfbe9f9118,market.university,premium,118.8,118.8,high,medium,6,namesilo,,,19/09/2026 13:41
-786fcf8f-bc99-427a-9125-9effdeb232ab,antithesis.university,available,62.99,62.99,medium,low,10,namesilo,,,19/09/2026 15:11
-111daa2c-1698-4c5c-9af9-6513592bf974,term.university,available,19.99,,high,low,4,name.com,,,
-f32b9ae8-d0b3-406b-a3b1-c34cd859882d,procedures.university,available,62.99,62.99,medium,low,10,namesilo,,,18/09/2026 17:33
-fd8003d3-f010-4a9f-9140-03c930632cab,inhabit.university,available,19.99,81.99,high,low,7,name.com,,,24/08/2026 07:51
-80bd8fd6-7ce7-4549-91d4-bd9de20d3973,diachronic.university,available,19.99,81.99,medium,low,10,name.com,,,14/08/2026 05:38
-a3590880-6f11-414b-82e1-fb3ea42074c2,tallinn.university,available,49.88,49.88,medium,low,7,spaceship,,,29/09/2026 00:18
-741a5f4b-4064-4131-9ca0-2aa96becc6ee,agential.university,available,19.99,81.99,medium,low,8,name.com,,,
-a9413d60-7f81-4021-8a69-8357fe92c950,amatory.university,available,19.99,81.99,medium,low,7,name.com,,,
-97b29226-24e0-4881-903d-abe41dc67595,usaid.university,available,49.88,49.88,medium,low,5,spaceship,,,28/09/2026 16:09
-e700d7c8-44cc-4bb6-a887-2c51c52e3767,pickings.university,available,62.99,62.99,medium,low,8,namesilo,,,11/09/2026 07:21
-39848391-3e63-436d-84be-ed87e296b8b7,lip.university,available,49.88,49.88,high,low,3,spaceship,,,29/09/2026 00:19
-37f6235d-c3dd-4317-ab6a-1424e42f3f43,fittest.university,available,62.99,62.99,medium,low,7,namesilo,,,18/09/2026 04:12
-9674f2d8-0708-46bf-8015-b0729b7772da,whom.university,available,19.99,,medium,low,4,name.com,,,
-1ffb02fb-961b-4d3b-bf34-c1a5933cd0b8,cap.university,premium,118.8,118.8,high,low,3,namesilo,,,
-72c4f263-e48c-4ec9-b4ff-8319ae5dcd0d,vested.university,available,62.99,62.99,high,low,6,namesilo,,,13/09/2026 04:49
-0d3a9295-0fcb-4ec2-a067-28badb991ca5,mollify.university,available,19.99,81.99,high,low,7,name.com,,,18/08/2026 22:10
-0737ceb5-cab3-4e45-ac35-85b044a59f37,craig.university,available,49.88,49.88,high,low,5,spaceship,,,27/09/2026 17:59
-8c88a8f5-a779-4b42-ad89-f058f0c6dbf4,malleable.university,available,19.99,81.99,high,low,9,name.com,,,14/08/2026 20:52
-85380912-5de9-4b33-81df-d5e6c9ee61e7,dissembler.university,available,65.98,77.98,medium,low,10,namecheap,,,08/09/2026 19:10
-3fc634ab-4642-48b7-91c0-92931b343af8,lxxxii.university,available,19.99,81.99,medium,low,6,name.com,,,
-e7690641-c151-4323-90c0-486ce4d16317,ravi.university,available,62.99,62.99,high,low,4,namesilo,,,29/09/2026 04:31
-48de08e9-4f29-4401-b4f5-9b7f4d45be15,raiser.university,available,19.99,81.99,medium,low,6,name.com,,,17/09/2026 19:22
-5987e6b1-2f5f-4917-b80e-3da789450a69,tectonics.university,available,62.99,62.99,medium,low,9,namesilo,,,20/09/2026 02:14
-8b146c50-b236-41f3-beeb-feb4c3bc812f,neurogenic.university,available,62.99,62.99,medium,low,10,namesilo,,,03/09/2026 16:12
-eb08c141-e3d8-46e6-b811-3282e37ef653,hiram.university,available,62.99,62.99,medium,low,5,namesilo,,,27/09/2026 19:47
-7b0cd20b-9d08-4450-8f7e-c1265c151158,necromancy.university,available,19.99,81.99,medium,low,10,name.com,,,23/09/2026 23:53
-121c3dde-c13d-44df-9310-af58720ab40d,natives.university,available,62.99,62.99,medium,low,7,namesilo,,,18/09/2026 01:41
-06ac3320-a3fc-4cb9-ac1c-2bf59cda161f,halo.university,resell,,,high,medium,4,Dynadot Inc,02/07/2026 17:00,02/07/2027 17:00,28/09/2026 21:17
-52496b09-97bc-4bdb-b5cc-ee48dac67659,bullish.university,available,62.99,62.99,high,low,7,namesilo,,,23/09/2026 10:43
-9d2da020-70d1-4349-a8c9-be194c46ded1,ferric.university,available,19.99,81.99,medium,low,6,name.com,,,18/08/2026 02:07
-c1d580bd-6d92-49b4-842a-393722c389da,geoffrey.university,available,62.99,62.99,medium,low,8,namesilo,,,25/09/2026 13:35
-7c808b13-8d59-416b-9655-3c7d59c04c2c,elliot.university,available,62.99,62.99,high,low,6,namesilo,,,25/09/2026 21:48
-e366472d-df3c-424f-b0a0-aace205c8b3a,shuttle.university,available,62.99,62.99,high,low,7,namesilo,,,27/09/2026 15:53
-dcd93f19-6405-43d4-8778-53c87ffd93ee,executed.university,available,19.99,81.99,high,low,8,name.com,,,17/08/2026 16:55
-4703af88-6d41-4b53-bfb4-43128c1e765a,mosses.university,available,49.88,49.88,low,low,6,spaceship,,,29/09/2026 05:08
-a985e7d7-8e43-4d6a-8794-fe04e7541e38,har.university,available,49.88,49.88,high,low,3,spaceship,,,29/09/2026 03:11
-43587773-bcfa-4c08-82f0-c3f9f185f6d4,postwar.university,available,62.99,62.99,medium,low,7,namesilo,,,09/09/2026 00:42
-7c625d09-026a-435a-8c14-5e60359a7c06,variables.university,available,19.99,,medium,low,9,name.com,,,
-73e525af-a287-4935-b986-20df8fcd1237,entity.university,available,62.99,62.99,high,low,6,namesilo,,,29/09/2026 02:32
-a831b7ca-4f86-4050-afe4-88c178c4bd1d,mcdonald.university,available,19.99,,high,low,8,name.com,,,
-f56e2c98-b986-4e0e-9317-774c225767e3,rare.university,available,65.98,77.98,high,medium,4,namecheap,,,27/09/2026 09:46
-95b0c5db-fc74-4984-803c-8122c2a67cbf,domination.university,available,62.99,62.99,high,low,10,namesilo,,,24/09/2026 23:26
-df5f9407-f377-4deb-b4a4-7fbc0e375922,emphasise.university,available,65.98,77.98,high,low,9,namecheap,,,16/09/2026 21:53
-f8d64d76-ac7f-48f6-a235-3f599c5833c5,restraint.university,available,48.2,48.2,medium,low,9,cloudflare,,,28/09/2026 18:42
-8253fee0-847a-4f8a-b2ac-924e61c6ab44,darkness.university,available,19.99,81.99,high,low,8,name.com,,,13/08/2026 17:53
-0a0a5b68-eda0-4fe6-bdf3-3ba1a828b26e,schizoid.university,available,19.99,81.99,medium,low,8,name.com,,,09/09/2026 23:09
-58e2e1f2-1c44-4c72-85ba-02de31fef429,jagged.university,available,19.99,81.99,medium,low,6,name.com,,,17/08/2026 12:32
-7d16ceb1-dfc8-49bb-b053-674ae2bc40dc,tenanted.university,available,62.99,62.99,medium,low,8,namesilo,,,11/09/2026 11:09
-ae5bfd83-77e2-4425-ab75-3036b9553e01,berkshires.university,available,19.99,81.99,medium,low,10,name.com,,,23/09/2026 09:35
-0285247f-2fe7-461b-bf41-8570ae3c9b05,favored.university,available,65.98,77.98,high,low,7,namecheap,,,22/09/2026 20:01
-20050cb5-174a-498e-b9ae-5e487f0ad6e7,val.university,available,62.99,62.99,high,low,3,namesilo,,,27/09/2026 06:29
-7ee67006-a5c7-491c-b1fb-95875625e312,unscripted.university,available,19.99,81.99,medium,low,10,name.com,,,12/09/2026 19:05
-1f48e24e-236d-4f60-abb4-61144b82144b,pusher.university,available,62.99,62.99,high,low,6,namesilo,,,21/09/2026 13:22
-11cd2935-3296-4dd4-86bc-636b61da22f5,untrue.university,available,65.98,77.98,medium,low,6,namecheap,,,26/09/2026 03:18
-55f0472d-25c7-4a43-989d-48ac31cd2b95,sloped.university,available,19.99,81.99,medium,low,6,name.com,,,07/08/2026 04:26
-f61206ec-6799-4823-a315-04cdf7947357,african.university,available,19.99,81.99,high,low,7,name.com,,,
-2f32711c-7325-4dcb-a8c6-096ab967aba7,suck.university,available,19.99,,high,low,4,name.com,,,
-6b10becd-c1b4-49bf-95b0-6b4cec539ea1,peanut.university,available,62.99,62.99,high,low,6,namesilo,,,08/09/2026 11:13
-94a2ab8d-ba03-42a0-9bdf-26e18a638308,incorrupt.university,available,19.99,81.99,high,low,9,name.com,,,22/08/2026 02:01
-e143b7e7-d8e1-4379-900c-13b337cf5eab,biohazard.university,available,65.98,77.98,medium,low,9,namecheap,,,23/09/2026 18:14
-9ac0941e-d871-4f32-b3f0-650283d790e5,protrusive.university,available,62.99,62.99,medium,low,10,namesilo,,,09/09/2026 04:20
-0b594836-e948-4d2e-80b2-4a451fbc93dc,garden.university,premium,78.54,78.54,high,low,6,namesilo,,,28/09/2026 23:23
-6c63ca15-8551-4cf9-8e4d-d9e1a5bf4f43,magazine.university,available,62.99,62.99,high,low,8,namesilo,,,25/09/2026 04:04
-aec26324-040a-4156-ab9f-119957a3a9fb,structured.university,available,62.99,62.99,high,low,10,namesilo,,,10/09/2026 22:50
-5588c87e-5633-4048-a610-00f43707f538,tolerable.university,available,62.99,62.99,medium,low,9,namesilo,,,24/09/2026 16:18
-dbab2582-f769-4e97-844d-5e2eaf563868,runyon.university,available,62.99,62.99,medium,low,6,namesilo,,,18/09/2026 06:27
