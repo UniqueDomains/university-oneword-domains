@@ -1,10 +1,10 @@
-# Available .UNIVERSITY One-Word Domains (31,807)
+# Available .UNIVERSITY One-Word Domains (34,027)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C807%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-34%2C027%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .university one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,807 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **34,027 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,807 domains · **Median ask:** $50.10 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 34,027 domains · **Median ask:** $50.26 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/university`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| simple.university      | available | $49.88    | $49.88        | high           | medium | 6      | spaceship       |
-| domain.university      | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc. |
-| unstoppable.university | available | $65.98    | $77.98        | high           | low    | 11     | namecheap       |
-| compute.university     | available | $62.99    | $62.99        | high           | low    | 7      | namesilo        |
-| theme.university       | available | $109.99   | $109.99       | high           | low    | 5      | godaddy         |
-| environment.university | available | $49.88    | $49.88        | high           | low    | 11     | spaceship       |
-| library.university     | resell    | —         | —             | high           | low    | 7      | Dynadot Inc     |
-| integrated.university  | available | $62.99    | $62.99        | high           | low    | 10     | namesilo        |
-| awaken.university      | available | $62.99    | $62.99        | high           | low    | 6      | namesilo        |
-| detour.university      | available | $48.20    | $48.20        | high           | low    | 6      | cloudflare      |
-| unveil.university      | available | $62.99    | $62.99        | high           | low    | 6      | namesilo        |
-| cannabis.university    | premium   | $85.80    | $85.80        | high           | medium | 8      | namecheap       |
-| established.university | available | $49.88    | $49.88        | high           | low    | 11     | spaceship       |
-| feels.university       | available | $49.88    | $49.88        | high           | low    | 5      | spaceship       |
-| haircut.university     | available | $48.20    | $48.20        | high           | low    | 7      | cloudflare      |
-| easily.university      | available | $62.99    | $62.99        | high           | low    | 6      | namesilo        |
-| published.university   | available | $62.99    | $62.99        | high           | low    | 9      | namesilo        |
-| built.university       | available | $62.99    | $62.99        | high           | low    | 5      | namesilo        |
-| roast.university       | available | $49.88    | $49.88        | high           | low    | 5      | spaceship       |
-| scrub.university       | available | $62.99    | $62.99        | high           | low    | 5      | namesilo        |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| adm.university       | available | $62.99    | $62.99        | high           | low    | 3      | namesilo        |
+| base.university      | resell    | —         | —             | high           | medium | 4      | Dynadot Inc     |
+| abi.university       | premium   | $68.51    | $68.51        | high           | low    | 3      | spaceship       |
+| awl.university       | available | $62.99    | $62.99        | high           | low    | 3      | namesilo        |
+| domain.university    | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc. |
+| ims.university       | premium   | $102.67   | $102.67       | high           | low    | 3      | spaceship       |
+| btw.university       | available | $62.99    | $62.99        | high           | low    | 3      | namesilo        |
+| cornell.university   | resell    | —         | —             | high           | low    | 7      | —               |
+| nga.university       | premium   | $128.70   | $128.70       | medium         | low    | 3      | namecheap       |
+| cea.university       | available | $49.88    | $49.88        | medium         | low    | 3      | spaceship       |
+| library.university   | resell    | —         | —             | high           | low    | 7      | Dynadot Inc     |
+| org.university       | premium   | $414.20   | $414.20       | high           | medium | 3      | spaceship       |
+| chf.university       | available | $10.81    | $49.95        | medium         | low    | 3      | porkbun         |
+| immersive.university | resell    | —         | —             | high           | low    | 9      | —               |
+| our.university       | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo        |
+| cir.university       | available | $48.20    | $48.20        | high           | low    | 3      | cloudflare      |
+| maine.university     | premium   | $218.80   | $437.19       | high           | low    | 5      | porkbun         |
+| cls.university       | available | $10.92    | $51.58        | high           | low    | 3      | dynadot         |
+| arizona.university   | premium   | $242      | $242          | high           | low    | 7      | namesilo        |
+| cxx.university       | available | $19.99    | $81.99        | high           | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,807 live domains                        |
+| 1,000-row public sample | 34,027 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .UNIVERSITY One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .UNIVERSITY One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
